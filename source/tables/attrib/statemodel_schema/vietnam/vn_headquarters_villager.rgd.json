@@ -1,0 +1,1831 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      14182368983149674761,
+      "parent_pbg"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ],
+    [
+      12681084536330669912,
+      "schema_bag"
+    ],
+    [
+      17183026669729769146,
+      "bool_properties"
+    ],
+    [
+      1334763190048531340,
+      "statemodel_bool_property"
+    ],
+    [
+      11232505255321837221,
+      "bool_property_id"
+    ],
+    [
+      6998867517914059163,
+      "$REF"
+    ],
+    [
+      3813467384783756717,
+      "int_properties"
+    ],
+    [
+      11383798041366799141,
+      "statemodel_int_property"
+    ],
+    [
+      5915557965230336131,
+      "int_property_id"
+    ],
+    [
+      5431203190614248932,
+      "float_properties"
+    ],
+    [
+      13610136901784146200,
+      "statemodel_float_property"
+    ],
+    [
+      13401625200744819082,
+      "float_property_id"
+    ],
+    [
+      6005750081874640115,
+      "vector3f_properties"
+    ],
+    [
+      11850278046866716788,
+      "statemodel_vector3f_property"
+    ],
+    [
+      13942860475667539970,
+      "x"
+    ],
+    [
+      10278709587161705105,
+      "y"
+    ],
+    [
+      15605885941449482137,
+      "z"
+    ],
+    [
+      10186385731794383231,
+      "vector3f_property_id"
+    ],
+    [
+      14209645801509668286,
+      "enum_table_properties"
+    ],
+    [
+      14811541667672105880,
+      "statemodel_enum_table_property"
+    ],
+    [
+      27153489129745672,
+      "data_type"
+    ],
+    [
+      7485349314246747588,
+      "enum_table_property_id"
+    ],
+    [
+      4600664908682693493,
+      "enum_type"
+    ],
+    [
+      4995945292871393135,
+      "target_properties"
+    ],
+    [
+      10211455518188423910,
+      "statemodel_target_property"
+    ],
+    [
+      8956392975091151084,
+      "target_property_id"
+    ],
+    [
+      5224914554228552588,
+      "list_properties"
+    ],
+    [
+      5115293309082117897,
+      "statemodel_list_property"
+    ],
+    [
+      6895044087414683657,
+      "max_list_size"
+    ],
+    [
+      14234531858829580377,
+      "list_property_id"
+    ],
+    [
+      2536755061546050789,
+      "pbgid_properties"
+    ],
+    [
+      4861312519072223713,
+      "sub_schemas"
+    ],
+    [
+      8530222844363483889,
+      "attribute_enum_properties"
+    ],
+    [
+      6048121491247270220,
+      "generic_handle_properties"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "schema_bag",
+          "hash": 12681084536330669912,
+          "kind": "List",
+          "value": [
+            {
+              "key": "pbgid_properties",
+              "hash": 2536755061546050789,
+              "kind": "List",
+              "value": []
+            },
+            {
+              "key": "int_properties",
+              "hash": 3813467384783756717,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "current_job"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "active_tool"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "UI_Duration"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "return_to_work_job"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "last_active_job"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "ortoo_aura_timer"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 240
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "network_of_castles_timer"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "holy_inspiration_time_remaining_hre"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "gather_phase_semi_idle_ticks_remaining"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_int_property",
+                  "hash": 11383798041366799141,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Int",
+                      "value": 0
+                    },
+                    {
+                      "key": "int_property_id",
+                      "hash": 5915557965230336131,
+                      "kind": "CString",
+                      "value": "stealth_start_time_in_ticks"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_int_property"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "sub_schemas",
+              "hash": 4861312519072223713,
+              "kind": "List",
+              "value": []
+            },
+            {
+              "key": "target_properties",
+              "hash": 4995945292871393135,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "statemodel_target_property",
+                  "hash": 10211455518188423910,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_target_property"
+                    },
+                    {
+                      "key": "target_property_id",
+                      "hash": 8956392975091151084,
+                      "kind": "CString",
+                      "value": "last_construction_target"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_target_property",
+                  "hash": 10211455518188423910,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_target_property"
+                    },
+                    {
+                      "key": "target_property_id",
+                      "hash": 8956392975091151084,
+                      "kind": "CString",
+                      "value": "last_resource_dropoff_target"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_target_property",
+                  "hash": 10211455518188423910,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_target_property"
+                    },
+                    {
+                      "key": "target_property_id",
+                      "hash": 8956392975091151084,
+                      "kind": "CString",
+                      "value": "return_to_work_location"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_target_property",
+                  "hash": 10211455518188423910,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_target_property"
+                    },
+                    {
+                      "key": "target_property_id",
+                      "hash": 8956392975091151084,
+                      "kind": "CString",
+                      "value": "owner_player"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "list_properties",
+              "hash": 5224914554228552588,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "statemodel_list_property",
+                  "hash": 5115293309082117897,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "data_type",
+                      "hash": 27153489129745672,
+                      "kind": "Int",
+                      "value": 5
+                    },
+                    {
+                      "key": "max_list_size",
+                      "hash": 6895044087414683657,
+                      "kind": "Int",
+                      "value": 8
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_list_property"
+                    },
+                    {
+                      "key": "list_property_id",
+                      "hash": 14234531858829580377,
+                      "kind": "CString",
+                      "value": "buffs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "float_properties",
+              "hash": 5431203190614248932,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "UI_Progress"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "resource_drop_off_distance"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "resource_drop_off_time"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "bounty_count_mon"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "InDeathThroes"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "times_dropped_off"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "time_spent_dropping_off"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "universal_buff_count"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "universal_heal_count"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "total_resources_deposited"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_float_property",
+                  "hash": 13610136901784146200,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_float_property"
+                    },
+                    {
+                      "key": "float_property_id",
+                      "hash": 13401625200744819082,
+                      "kind": "CString",
+                      "value": "bleed_duration_timer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "vector3f_properties",
+              "hash": 6005750081874640115,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "statemodel_vector3f_property",
+                  "hash": 11850278046866716788,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 0.0
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.0
+                        },
+                        {
+                          "key": "z",
+                          "hash": 15605885941449482137,
+                          "kind": "Float",
+                          "value": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_vector3f_property"
+                    },
+                    {
+                      "key": "vector3f_property_id",
+                      "hash": 10186385731794383231,
+                      "kind": "CString",
+                      "value": "resource_move_to_interact_previous_position"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "generic_handle_properties",
+              "hash": 6048121491247270220,
+              "kind": "List",
+              "value": []
+            },
+            {
+              "key": "attribute_enum_properties",
+              "hash": 8530222844363483889,
+              "kind": "List",
+              "value": []
+            },
+            {
+              "key": "enum_table_properties",
+              "hash": 14209645801509668286,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "statemodel_enum_table_property",
+                  "hash": 14811541667672105880,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "data_type",
+                      "hash": 27153489129745672,
+                      "kind": "Int",
+                      "value": 1
+                    },
+                    {
+                      "key": "enum_type",
+                      "hash": 4600664908682693493,
+                      "kind": "CString",
+                      "value": "resource_type"
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_enum_table_property"
+                    },
+                    {
+                      "key": "enum_table_property_id",
+                      "hash": 7485349314246747588,
+                      "kind": "CString",
+                      "value": "last_gather_jobs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "bool_properties",
+              "hash": 17183026669729769146,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "UninterruptibleAttack"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_in_stealth_aura_mal"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "grassland_under_construction_jin"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "ryokan_healing_buff_jpn_ha_sen"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_bleeding_tertiary"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_bleeding_secondary"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "ruinous_blinding_byz_ha_mac"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "matsuri_aura_linger_jpn_ha_sen"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "villager_health_jpn_ha_sen"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_blinded_jpn_ha_sen"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_in_greek_fire"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_bleeding"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "saints_armour_buff_rus"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "saints_damage_buff_rus"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "non_aggressive"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_toggled_stealth"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "has_khan_arrow_buff_speed_mon"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "has_khan_arrow_buff_attack_mon"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "within_gulyay_gorod_radius"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": true
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "allow_evacuation"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "network_of_castles_buff"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "within_ortoo_aura"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "wood_felling_upgraded_improved"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "wood_felling_upgraded_normal"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "Gather_Tree_Upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "Gather_Stone_Upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "Gather_Gold_Upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "Gather_Farm_Upgrade"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "conversion_entity"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "is_carrying_entity"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "resource_move_to_interact_previous_position_set"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "has_khan_arrow_buff_defense_mon"
+                    }
+                  ]
+                },
+                {
+                  "key": "statemodel_bool_property",
+                  "hash": 1334763190048531340,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "default",
+                      "hash": 4430693559278735917,
+                      "kind": "Boolean",
+                      "value": false
+                    },
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "statemodel_bool_property"
+                    },
+                    {
+                      "key": "bool_property_id",
+                      "hash": 11232505255321837221,
+                      "kind": "CString",
+                      "value": "stealth_ended_local_knowledge"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 1073741823
+        },
+        {
+          "key": "parent_pbg",
+          "hash": 14182368983149674761,
+          "kind": "List2",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "hash": 5464984021694833596,
+              "kind": "CString",
+              "value": "villager"
+            },
+            {
+              "key": "$PBGMAP",
+              "hash": 1238668035833122403,
+              "kind": "CString",
+              "value": "statemodel_schema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    }
+  ]
+}
