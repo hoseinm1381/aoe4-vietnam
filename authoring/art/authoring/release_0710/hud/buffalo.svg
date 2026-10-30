@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>Water Buffalo — original HUD silhouette</title>
+  <g stroke="#EAD08B" stroke-width="7" stroke-linejoin="round">
+    <path d="M44 43C26 43 14 27 17 12C1 31 7 57 38 63M84 43C102 43 114 27 111 12C127 31 121 57 90 63" fill="#A88C58"/>
+    <path d="M31 48L49 35L79 35L97 48L88 83L79 108L49 108L40 83Z" fill="#6D6454"/>
+    <path d="M44 91Q64 82 84 91L79 109L49 109Z" fill="#B09C79"/>
+  </g>
+  <path d="M43 62L55 66M73 66L85 62" stroke="#FFF1BC" stroke-width="6"/>
+  <circle cx="55" cy="99" r="3" fill="#352E29"/><circle cx="73" cy="99" r="3" fill="#352E29"/>
+</svg>
