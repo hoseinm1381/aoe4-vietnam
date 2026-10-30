@@ -1,0 +1,201 @@
+{
+  "race": "vietnam",
+  "logical_working_files_excluding_git_output_release": {
+    "root files": {
+      "files": 11,
+      "bytes": 11277
+    },
+    "inputs": {
+      "files": 11347,
+      "bytes": 326407647
+    },
+    "source": {
+      "files": 468,
+      "bytes": 90965809
+    },
+    "authoring": {
+      "files": 2741,
+      "bytes": 2060606954
+    },
+    "docs": {
+      "files": 21,
+      "bytes": 2514697
+    },
+    "tools": {
+      "files": 6,
+      "bytes": 26290
+    },
+    "tests": {
+      "files": 3,
+      "bytes": 10010
+    }
+  },
+  "working_bytes_excluding_git_output_release": 2480542684,
+  "files_requiring_large_file_policy": [],
+  "native_input_bytes": 323468070,
+  "native_texture_members": 186,
+  "texture_parse_failures": [],
+  "native_mip_payload_bytes_by_path": 178798440,
+  "decoded_rgba8_mips_bytes_by_path": 858483256,
+  "decoded_rgba8_mips_bytes_unique_content": 858477432,
+  "measurement": "Logical file bytes and all packaged texture mip payloads; decoded RGBA8 expansion is a working-memory estimate, not observed residency/VRAM or frame-time.",
+  "performance_acceptance": "Not measured; inherited accepted resources preserved",
+  "budget": "Standalone ZIP <=300000000 bytes. No incremental compressed contribution is claimed because there is no previously accepted standalone baseline.",
+  "largest_textures": [
+    {
+      "member": "art/scenario/cc070/foundry/13550299177498233162_packed.rrtex",
+      "sha256": "dc5653607e62a60d5e4a369bda1d4c9f0b74388181a342c67f361670be6c26c1",
+      "archive_member_bytes": 4287733,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/foundry/2488854353143174867_packed.rrtex",
+      "sha256": "f0de29648f85c24f0fe5759ee1823638b12b0b9ccb6bdef107141f215cda9c56",
+      "archive_member_bytes": 2865119,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/foundry/albedo.rrtex",
+      "sha256": "414977aa3776ad5005499baf13ec50f6c2b932306ff5a2d5994a143f583a2af5",
+      "archive_member_bytes": 1659815,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/garden/2086314187983414385_packed.rrtex",
+      "sha256": "622d7b5bbaec1f34ba86c81d788f9d5bc3351472b664b653df2be282238d46ad",
+      "archive_member_bytes": 2864276,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/garden/9770631621286479446_packed.rrtex",
+      "sha256": "69a492030cb080a52c3107132f7772943b3d917dffc6d598e2317539d5d7189e",
+      "archive_member_bytes": 4288980,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/garden/albedo.rrtex",
+      "sha256": "8385a18db71f9265168772e6653bb60071663024fc093640a595534ffe50f0f3",
+      "archive_member_bytes": 1685701,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/university/8737904979625252163_packed.rrtex",
+      "sha256": "70153dbd50895325de50460d0183b8e99949119161c732575ae10e35bf827b44",
+      "archive_member_bytes": 4289417,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/university/9292202894572059242_packed.rrtex",
+      "sha256": "3b4a6fab12921ed7b5ce535c2ae27a654316c90439e41f3b565fac190df9693d",
+      "archive_member_bytes": 2865851,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/university/albedo.rrtex",
+      "sha256": "dadd07b495a70722792a1dab6f07404ac8c0c2da7d639ee0fbffa5807275dfee",
+      "archive_member_bytes": 1673843,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/wonder/17106453399618985234_packed.rrtex",
+      "sha256": "3899aa263f327b7dd8746d33e602309d2e3774257193c56db0195183ebf69a93",
+      "archive_member_bytes": 4288462,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/wonder/75385245231691883_packed.rrtex",
+      "sha256": "eacbd578202c3533e6a833db89563416e76477244fa3aa97ce3902c6337eb95f",
+      "archive_member_bytes": 2864992,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc070/wonder/albedo.rrtex",
+      "sha256": "c4b2e8887bacaa6177ebe467f7169ffa10f322d24ada63fa2c8ccc6a11e579d0",
+      "archive_member_bytes": 1664373,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/cc075/foundry/albedo.rrtex",
+      "sha256": "576fc4060c9e4948a76b9129d41f10d6a984e8135a574747786689821ebdf5db",
+      "archive_member_bytes": 1517629,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/garrison/cc076/buffalo/12683427502924569714_packed.rrtex",
+      "sha256": "1a7e31056606b9ba2358010b2d24a8a831ea5fe4b1ece277ce890161264f631a",
+      "archive_member_bytes": 1885200,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    },
+    {
+      "member": "art/scenario/garrison/cc076/buffalo/8333989303029870562_packed.rrtex",
+      "sha256": "3b5d819de1e4f74e5336a09a4b77db92e59ad3f992215c975cce1a990122d83a",
+      "archive_member_bytes": 16151,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12,
+      "max_width": 2048,
+      "max_height": 2048
+    }
+  ],
+  "player_zip_bytes": 220787119,
+  "archive_bytes": 338256481,
+  "zip_under_300MB": true,
+  "verified_generated_staging_removed_bytes": 2250526826,
+  "measurement_stage": "Final retained source after approved staging cleanup"
+}

@@ -1,0 +1,157 @@
+{
+  "version": "0.1.2",
+  "race": "vietnam",
+  "zip_bytes": 227185371,
+  "archive_bytes": 341175572,
+  "baseline_011_zip_bytes": 227302429,
+  "incremental_compressed_zip_bytes": -117058,
+  "zip_reduction_bytes": 117058,
+  "zip_reduction_percent": 0.05149878974676509,
+  "native_input_bytes": 326488383,
+  "native_audio_bytes": 118761135,
+  "native_texture_members": 195,
+  "texture_parse_failures": [],
+  "native_texture_mip_payload_bytes_by_path": 182688392,
+  "decoded_rgba8_mips_bytes_by_path": 874043064,
+  "decoded_rgba8_mips_bytes_unique_content": 874037240,
+  "working_bytes_excluding_git_output_release_archives": 2530479730,
+  "working_categories": {
+    "root": {
+      "files": 11,
+      "bytes": 13861
+    },
+    "inputs": {
+      "files": 11356,
+      "bytes": 329430209
+    },
+    "source": {
+      "files": 498,
+      "bytes": 130353870
+    },
+    "authoring": {
+      "files": 2741,
+      "bytes": 2060606954
+    },
+    "docs": {
+      "files": 72,
+      "bytes": 9063642
+    },
+    "tools": {
+      "files": 9,
+      "bytes": 49027
+    },
+    "tests": {
+      "files": 7,
+      "bytes": 962167
+    }
+  },
+  "retained_rollback_zip_bytes": 448089548,
+  "verified_staging_removed_logical_bytes": 3531227416,
+  "budget": {
+    "complete_import_zip_below_600MB": true,
+    "preferred_zip_below_300MB": true,
+    "note": "Below the 300MB standalone target."
+  },
+  "measurement": "Actual final archive/ZIP/member bytes. Decoded RGBA8 is the expansion estimate for all packaged mip levels, not measured runtime residency or VRAM. Native art/texture members are byte-identical to tested 0.1.1; no runtime FPS/VRAM improvement is claimed. Source working totals exclude retained history, Git and generated staging.",
+  "native_performance": "not measured",
+  "largest_texture_estimates": [
+    {
+      "member": "art/scenario/cc070/foundry/13550299177498233162_packed.rrtex",
+      "sha256": "dc5653607e62a60d5e4a369bda1d4c9f0b74388181a342c67f361670be6c26c1",
+      "archive_member_bytes": 4287733,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/foundry/2488854353143174867_packed.rrtex",
+      "sha256": "f0de29648f85c24f0fe5759ee1823638b12b0b9ccb6bdef107141f215cda9c56",
+      "archive_member_bytes": 2865119,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/foundry/albedo.rrtex",
+      "sha256": "414977aa3776ad5005499baf13ec50f6c2b932306ff5a2d5994a143f583a2af5",
+      "archive_member_bytes": 1659815,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/garden/2086314187983414385_packed.rrtex",
+      "sha256": "622d7b5bbaec1f34ba86c81d788f9d5bc3351472b664b653df2be282238d46ad",
+      "archive_member_bytes": 2864276,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/garden/9770631621286479446_packed.rrtex",
+      "sha256": "69a492030cb080a52c3107132f7772943b3d917dffc6d598e2317539d5d7189e",
+      "archive_member_bytes": 4288980,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/garden/albedo.rrtex",
+      "sha256": "8385a18db71f9265168772e6653bb60071663024fc093640a595534ffe50f0f3",
+      "archive_member_bytes": 1685701,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/university/8737904979625252163_packed.rrtex",
+      "sha256": "70153dbd50895325de50460d0183b8e99949119161c732575ae10e35bf827b44",
+      "archive_member_bytes": 4289417,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/university/9292202894572059242_packed.rrtex",
+      "sha256": "3b4a6fab12921ed7b5ce535c2ae27a654316c90439e41f3b565fac190df9693d",
+      "archive_member_bytes": 2865851,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/university/albedo.rrtex",
+      "sha256": "dadd07b495a70722792a1dab6f07404ac8c0c2da7d639ee0fbffa5807275dfee",
+      "archive_member_bytes": 1673843,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/wonder/17106453399618985234_packed.rrtex",
+      "sha256": "3899aa263f327b7dd8746d33e602309d2e3774257193c56db0195183ebf69a93",
+      "archive_member_bytes": 4288462,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/wonder/75385245231691883_packed.rrtex",
+      "sha256": "eacbd578202c3533e6a833db89563416e76477244fa3aa97ce3902c6337eb95f",
+      "archive_member_bytes": 2864992,
+      "native_mip_payload_bytes": 5592432,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    },
+    {
+      "member": "art/scenario/cc070/wonder/albedo.rrtex",
+      "sha256": "c4b2e8887bacaa6177ebe467f7169ffa10f322d24ada63fa2c8ccc6a11e579d0",
+      "archive_member_bytes": 1664373,
+      "native_mip_payload_bytes": 2796216,
+      "decoded_rgba8_mips_bytes": 22369620,
+      "mips": 12
+    }
+  ],
+  "packaged_rrtex_member_count": 195,
+  "decoded_texture_estimate_complete": true
+}

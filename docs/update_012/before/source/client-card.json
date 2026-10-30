@@ -1,0 +1,17 @@
+{
+  "description": "Vietnam wears down stronger armies through guerrilla warfare, traps and poisoned arrows. Hideouts secure resources and support tunnel travel, while Water Buffalo work Rice Paddies for food and wood. Specialized landmarks, skirmishers and powerful gunpowder units reward careful map control.",
+  "summary": "Guerrilla Warfare, Traps, Gunpowder.",
+  "author": "hosein81 and chilly5",
+  "civilization": {
+    "period": "968 - 1592 CE",
+    "difficulty": 2,
+    "tagline": "Guerrilla Warfare, Traps, Gunpowder",
+    "bonuses": [
+      "Water Buffalo support Rice Paddy food and wood production.",
+      "Hideouts secure resources and can be fortified.",
+      "Bamboo traps and poisoned arrows wear down enemies.",
+      "Connected buildings support tunnel travel.",
+      "Field specialized skirmishers and gunpowder units."
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "ccp-060-nonhumanoid-compatible-material-map/1",
+  "exact_donor_model": "art/civilizations/common/weapons/ranged/bow_arbalest/bow_arbalest.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\weapon-rig-supplement\\decodes\\bow_arbalest\\ed15445a6da7c4ea82ca\\decoded-static.json",
+  "donor_manifest_sha256": "6dbf644cf8cb9c8e9246155249f247bf09091dba476a825b09a790718e0d7cf9",
+  "donor_status": "reached_attachment_stock_weapon",
+  "native_group_count": 3,
+  "groups": [
+    {
+      "group_index": 0,
+      "native_group": "geo_bow_arbalest",
+      "native_material": "obj",
+      "effect": "object",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\bow_arbalest\\v3\\obj_albedo.png",
+      "changed_pixels": 2859,
+      "native_texture_unchanged": false,
+      "projection_mesh": "bow_arbalest · geo_bow_arbalest · obj",
+      "preview_visible": true
+    },
+    {
+      "group_index": 1,
+      "native_group": "geo_bow_arbalest",
+      "native_material": "obj",
+      "effect": "object",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\bow_arbalest\\v3\\obj_albedo.png",
+      "changed_pixels": 2859,
+      "native_texture_unchanged": false,
+      "projection_mesh": "bow_arbalest · geo_bow_arbalest · obj.001",
+      "preview_visible": false
+    },
+    {
+      "group_index": 2,
+      "native_group": "geo_bow_arbalest",
+      "native_material": "obj",
+      "effect": "object",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\bow_arbalest\\v3\\obj_albedo.png",
+      "changed_pixels": 2859,
+      "native_texture_unchanged": false,
+      "projection_mesh": "bow_arbalest · geo_bow_arbalest · obj.002",
+      "preview_visible": false
+    }
+  ],
+  "geometry_route": "exact stock geometry + per-material atlas only",
+  "equipment_animations_and_crews": "native unchanged; no attachment override"
+}

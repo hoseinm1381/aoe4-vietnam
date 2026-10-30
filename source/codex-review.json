@@ -1,0 +1,27 @@
+{
+  "schema": "garrison.codex-reviewed/v1",
+  "unique_units": [
+    "vn_unit_water_buffalo_vit",
+    "vn_unit_war_elephant_2_vit",
+    "vn_unit_war_elephant_handcannon_4_vit",
+    "vn_unit_skirmisher_2_vit",
+    "vn_unit_handcannon_4_chi",
+    "vn_unit_no_than_vit"
+  ],
+  "unique_techs": [
+    "vn_upgrade_champa_rice_vit",
+    "vn_upgrade_empty_gardens_vit",
+    "vn_upgrade_lobed_maces_vit",
+    "vn_upgrade_reinforced_frames_vit",
+    "vn_upgrade_scorched_earth_vit",
+    "vn_upgrade_spearman_firelance_vit",
+    "vn_upgrade_trap_range_vit",
+    "vn_fast_elephant",
+    "vn_construction_elephant",
+    "vn_upgrade_hideout_upgrade_vit",
+    "vn_ratten_shield_vit",
+    "vn_upgrade_serpentine_powder_vit"
+  ],
+  "script_builders": [],
+  "bonus_evidence": "Current private EBPS/UPBs and source/scar mechanics, reviewed for 0.1.2. Stable gameplay tables are unchanged."
+}

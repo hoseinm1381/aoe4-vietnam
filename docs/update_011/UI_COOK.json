@@ -1,0 +1,101 @@
+{
+  "command": [
+    "C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\raw_githubusercontent_com\\garrison\\bin\\core\\garrison-core.exe",
+    "mod-project",
+    "cook",
+    "--project",
+    "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\independent_split_20261030\\persia-library\\Mods\\persia",
+    "--editor",
+    "E:/Games/steamapps/common/Age of Empires IV/EssenceEditor.exe",
+    "--timeout",
+    "900"
+  ],
+  "native_cook_returncode": 0,
+  "fresh_archive": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\independent_split_20261030\\persia-library\\Mods\\persia\\dist\\persia.sga",
+  "archive_crc_sha1": true,
+  "selected_resources": [
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_list.rrtex",
+      "sha256": "6391d8eb31f16f7d958be69c71065b293ecbfc41dcd06d388dad8429ba525e3b",
+      "bytes": 5999,
+      "dimensions": [
+        104,
+        56
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_list_small.rrtex",
+      "sha256": "8651d7ad89a9dca918a0002c5b0b99a020a97718ca251910d3a6f32e114264ff",
+      "bytes": 1733,
+      "dimensions": [
+        52,
+        28
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_secondary.rrtex",
+      "sha256": "6ee2b25b06dd06e3c6aa80f3f350e3543e81a4562070606d9921295b3d88ee18",
+      "bytes": 104481,
+      "dimensions": [
+        440,
+        248
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_secondary_small.rrtex",
+      "sha256": "b568f1bfe2a9f04e4244f7e41e7042f503b3b262f1e993d5c7b0fccaaaf6ce8e",
+      "bytes": 26607,
+      "dimensions": [
+        220,
+        124
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_fade.rrtex",
+      "sha256": "43346e842c3467a9e4a58ac79c635952c573c4808d94095ec6f0ec4a936b5a13",
+      "bytes": 24775,
+      "dimensions": [
+        344,
+        104
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_loading.rrtex",
+      "sha256": "0b220f9832b0b92795ca028dc8a3de67b3280b7356f5394d9bd1e22f0640ffcf",
+      "bytes": 1723789,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_pattern.rrtex",
+      "sha256": "d130ffd480a729797dda92cd8f0c29301794a14b371f01884ca3e2de160330cb",
+      "bytes": 266635,
+      "dimensions": [
+        1120,
+        352
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_tile.rrtex",
+      "sha256": "127e7a32b676f274199b14a7be12773fdc39b8ce015bdb19ec6fba9f33728856",
+      "bytes": 288719,
+      "dimensions": [
+        736,
+        800
+      ]
+    },
+    {
+      "member": "ui/images/garrison/vietnam/presentation_011/flag_mastery.rrtex",
+      "sha256": "c33d26f6ca11883f2a7554f8f5361b83fa249dc5735208df5ab5042c936de0f1",
+      "bytes": 577575,
+      "dimensions": [
+        1112,
+        588
+      ]
+    }
+  ],
+  "promotion": "Only the nine explicit UI members; no native carrier attributes/info were promoted",
+  "native_visual_retest": "pending"
+}

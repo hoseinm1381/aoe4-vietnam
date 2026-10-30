@@ -1,0 +1,39 @@
+{
+  "race": "vietnam",
+  "version": "0.1.1",
+  "owner": "813ebcc2-7f31-4db9-aa58-63aeba21c2cc",
+  "source_fingerprint": "989d20612be2c427a87b3b0a37dd3e4667d9797a38291cd796c3538261ed3b17",
+  "tables": 419,
+  "members": 11808,
+  "archive_bytes": 341277676,
+  "archive_sha256": "6a66ef6fabcf97f9a56601264c67d1c10f92f3dea648d577522f73166dacd209",
+  "zip_name": "Vietnam-Garrison-0.1.1.zip",
+  "zip_bytes": 227302429,
+  "zip_sha256": "51e442b1e148aeed9801fedfd493bc983ffe650c924218ffaa78c61a4dc96fdd",
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "zip_crc": true,
+  "preserved_native_media_members": 11319,
+  "native_game_test": "pending",
+  "multiplayer_save_ai_performance": "not qualified",
+  "publication": "not performed",
+  "changed_members": [
+    "attrib/army/garrison/vietnam/vietnam_standard.rgd",
+    "attrib/codex/garrison/vietnam/vietnam_codex.rgd",
+    "attrib/racebps/vietnam.rgd",
+    "garrison/civilizations.json"
+  ],
+  "added_members": [
+    "ui/images/garrison/vietnam/presentation_011/flag_fade.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_list.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_list_small.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_loading.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_mastery.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_pattern.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_secondary.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_secondary_small.rrtex",
+    "ui/images/garrison/vietnam/presentation_011/flag_tile.rrtex"
+  ],
+  "preserved_baseline_members": 11795,
+  "native_codex_retest": "pending"
+}

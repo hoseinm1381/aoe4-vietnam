@@ -1,0 +1,48 @@
+{
+  "schema": "ccp-060-nonhumanoid-compatible-material-map/1",
+  "exact_donor_model": "art/civilizations/chinese/weapons/chi_spear_ji/chi_spear_ji.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\equipment-and-crew-models\\spear_ji\\585c997c7ca68ead74bc\\decoded-static.json",
+  "donor_manifest_sha256": "2d33f1c717480b2780d11fdae88e5e54eaebc38aab7907ccbf838239fb309507",
+  "donor_status": "reached_spear_iii_iv_charge_brace_attachment",
+  "native_group_count": 3,
+  "groups": [
+    {
+      "group_index": 0,
+      "native_group": "chi_spear_ji",
+      "native_material": "lod1",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\spear_ji\\v1\\lod1_albedo.png",
+      "changed_pixels": 18687,
+      "native_texture_unchanged": false,
+      "projection_mesh": "chi_spear_ji · chi_spear_ji · lod1",
+      "preview_visible": true
+    },
+    {
+      "group_index": 1,
+      "native_group": "chi_spear_ji",
+      "native_material": "lod1",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\spear_ji\\v1\\lod1_albedo.png",
+      "changed_pixels": 18687,
+      "native_texture_unchanged": false,
+      "projection_mesh": "chi_spear_ji · chi_spear_ji · lod1.001",
+      "preview_visible": false
+    },
+    {
+      "group_index": 2,
+      "native_group": "chi_spear_ji",
+      "native_material": "lod1",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\spear_ji\\v1\\lod1_albedo.png",
+      "changed_pixels": 18687,
+      "native_texture_unchanged": false,
+      "projection_mesh": "chi_spear_ji · chi_spear_ji · lod1.002",
+      "preview_visible": false
+    }
+  ],
+  "geometry_route": "exact stock geometry + per-material atlas only",
+  "equipment_animations_and_crews": "native unchanged; no attachment override"
+}

@@ -1,0 +1,21 @@
+{
+  "method": "Installed sga-archiver replace-member, one native Codex member. Every resulting member fully extracted and SHA-256 checked.",
+  "source": "Stock English ordinary headers lead their available age; age-up landmarks end the preceding age. Products follow their producer.",
+  "previous_archive_sha256": "36890fa31189f455c177089f0de9dbea26a3bbecab689c04ce0e57dfb2da834d",
+  "archive_sha256": "57127870f57814c5690693e0de2bf03398505683ad3ba59d8b1c02b4aadcff87",
+  "only_changed_member": "attrib/codex/garrison/vietnam/vietnam_codex.rgd",
+  "old_member": {
+    "toc": "attrib",
+    "sha256": "e02ae779d9cb4dad3d56f3ad36194d1a4883e621ad7c7442f17e13f350615254",
+    "bytes": 355599
+  },
+  "new_member": {
+    "toc": "attrib",
+    "sha256": "4b553479f5a6edb0660ded3a039c04cf9a900f48e08a01050bbd94d2609ad720",
+    "bytes": 355599
+  },
+  "all_other_members_byte_identical": 11807,
+  "owner_crc_sha1_verified": true,
+  "declaration_hashes_verified": true,
+  "all_member_readback_sha256": true
+}

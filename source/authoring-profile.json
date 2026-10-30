@@ -1,0 +1,74 @@
+{
+  "schema": "garrison.civilization-authoring/v1",
+  "owner": "813ebcc2-7f31-4db9-aa58-63aeba21c2cc",
+  "race": "vietnam",
+  "name": "Vietnam",
+  "description": "Work rice paddies with Buffalo and expand the herd through Pagodas. Travel between tunnel buildings and use villager camouflage near the Resistance Headquarters. Bamboo outposts, traps and specialized landmarks support defensive play. Combine Vietnamese infantry, ranged units, elephants and siege weapons.",
+  "capital": "813ebcc27f314db9aa5863aeba21c2cc:vn_building_town_center_capital_chi",
+  "villager": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+  "scout": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_scout_1_chi",
+  "speech_race": "chinese",
+  "speech_speaker": "chinese",
+  "resources": {
+    "food": 150,
+    "wood": 200,
+    "gold": 100,
+    "stone": 0
+  },
+  "starting_squads": [
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_scout_1_chi",
+    "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_water_buffalo_vit"
+  ],
+  "starting_offsets": [
+    [
+      -1.0,
+      -6.0
+    ],
+    [
+      -1.0,
+      -6.0
+    ],
+    [
+      -1.0,
+      -6.0
+    ],
+    [
+      -1.0,
+      -6.0
+    ],
+    [
+      -1.0,
+      -6.0
+    ],
+    [
+      -1.0,
+      -6.0
+    ],
+    [
+      -4.0,
+      10.0
+    ],
+    [
+      -1.0,
+      -12.0
+    ]
+  ],
+  "difficulty": 3,
+  "entity_directory": "vietnam",
+  "squad_directory": "vietnam",
+  "traits": "Buffalo Husbandry, Tunnels, Defensive Landmarks",
+  "bonuses": [
+    "Work rice paddies with Buffalo and expand the herd through Pagodas.",
+    "Travel between tunnel buildings and use villager camouflage near the Resistance Headquarters.",
+    "Bamboo outposts, traps and specialized landmarks support defensive play.",
+    "Combine Vietnamese infantry, ranged units, elephants and siege weapons."
+  ],
+  "image_prefix": "garrison/vietnam/presentation",
+  "period": "Vietnam"
+}

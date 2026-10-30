@@ -1,0 +1,42 @@
+{
+  "owner": "813ebcc2-7f31-4db9-aa58-63aeba21c2cc",
+  "version": "0.1.2",
+  "mode": "applied",
+  "targets": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\output\\current\\prepared",
+      "files": 420,
+      "logical_bytes": 11820424
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\output\\current\\delivery",
+      "files": 6,
+      "logical_bytes": 799050883
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\813ebcc2-7f31-4db9-aa58-63aeba21c2cc\\current",
+      "files": 35432,
+      "logical_bytes": 2375602277
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\813ebcc2-7f31-4db9-aa58-63aeba21c2cc\\package-current",
+      "files": 4,
+      "logical_bytes": 344680050
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\tools\\__pycache__",
+      "files": 3,
+      "logical_bytes": 45128
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\tests\\__pycache__",
+      "files": 3,
+      "logical_bytes": 28654
+    }
+  ],
+  "logical_bytes": 3531227416,
+  "zip_sha256_before": "24de2335c0d6e9b25846e992c42488ed3e9b816a43f81a6d6755e1db4d00ebcd",
+  "native_inputs_and_master_indexes_unchanged": true,
+  "release_and_source_inputs": "preserved",
+  "zip_sha256_after": "24de2335c0d6e9b25846e992c42488ed3e9b816a43f81a6d6755e1db4d00ebcd"
+}

@@ -1,0 +1,1071 @@
+{
+  "schema": "garrison.portable-masters/v1",
+  "files": {
+    "art/authoring/buildings_070/architecture-final-r4.blend": {
+      "bytes": 12711971,
+      "sha256": "4d040b902c5ca9f06977952deb756f27f2749be528171eac465bc38795030c7f",
+      "original_sha256": "a7794edc68b0d39d6efc7e99068404a6bae89d140970882f1c889aef202a70a1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/buildings_070/architecture-final-with-authoring-lods-r1.blend": {
+      "bytes": 11134832,
+      "sha256": "05b7e2bd749c473e7608b8ec28618989cb52ebbe9ac2dd7b985952b06be413e7",
+      "original_sha256": "d30397ecb93691ec440ea33b27b4d086a9f194c933b7dedc741aa0cbb09339a9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/buildings_070/foundry-detailed-r3.blend": {
+      "bytes": 7632868,
+      "sha256": "b4377dad1595d4dace0d58317dae8d17727cc32021b5cb965d9468893b4706c3",
+      "original_sha256": "51bf48785a42e2b08e7091c2edcc699a08bc41edd69b3c9d7f815974096e30b8",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/buildings_070/garden-detailed-r4.blend": {
+      "bytes": 7228599,
+      "sha256": "8d95d6d3ba490252be6520a90c33a5fe428cbbf9aeeda782cdd32cab6e084e03",
+      "original_sha256": "7febfc2a91b887951b5e541863c280f6ce54923c482060b6708a7cd1e0327d25",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/buildings_070/university-detailed-r5.blend": {
+      "bytes": 8450634,
+      "sha256": "509936814caa15dda2ab44c00e6e0e9703fe099c14b1389a03925e45e931b17b",
+      "original_sha256": "b4fe9d26a1014b477422440d2b85746c0866cd97d9f8e65e59e817490c0bacfb",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/buildings_070/wonder-detailed-r3.blend": {
+      "bytes": 8368124,
+      "sha256": "372d953ea69e3e939f09b4e577f104640cc49793a2a937e609fa2f2cf8b436ec",
+      "original_sha256": "644e5bb80f219efc8fd1a028f5fd2df87c0a32da3e9209896d1706b499bfffa3",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-rattan-prototype.blend": {
+      "bytes": 361435,
+      "sha256": "88cbc46cc26b9109a6632080fa2172b701d4024edbc9bd74ef5771223308028e",
+      "original_sha256": "19bfead45f5433820facacb855ad589491ebf025e693042c4354f0e9b4b22676",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3c.blend": {
+      "bytes": 384793,
+      "sha256": "f3b1dfd72d27aee935b8180158482ff78f15231d9424c42a08497df117d7359d",
+      "original_sha256": "6da471b73519497af0a9dbbf69cdd5288407897da3899b39767da7b5cf19f625",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3d-quiver-restored.blend": {
+      "bytes": 373914,
+      "sha256": "33c63e6cf3e7e5b95ecd68842ace9a218d35b3d3ef14dccfc51a2ff48bb351a6",
+      "original_sha256": "65abf6b3669aeeb869e92b43194a82c15af70ef05a0301b3ed8a291a85158ab4",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3e-headcloth.blend": {
+      "bytes": 373059,
+      "sha256": "39ef23ff917cbd82fd951ea14b712920902e9fc112cf9493680476bec4284d5e",
+      "original_sha256": "b4de3dfe8b7e918c4c8ee5c332af2833b817afd578713fb87e44411c46932375",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3f-shoulders.blend": {
+      "bytes": 388975,
+      "sha256": "07b97e12bfcb518f2c687bdaa031d24d40e696f7246508a0138d39b92d24eb4a",
+      "original_sha256": "28b070a64e03a5f8fb2c1b0cbdc002755f704a7a64c2b40dd6b1b1e246d92b7f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3g-fitted-shoulders.blend": {
+      "bytes": 379240,
+      "sha256": "6a6743f3e7867d9869b72daef45c77771327b8d6245eacf5014a38ce43443b1a",
+      "original_sha256": "e358b3657fc590cd1652038cd824a223602b1be513020a13ac50a28dd416f662",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3h-closure.blend": {
+      "bytes": 385213,
+      "sha256": "7c9dde9c22413dc277886088cafb4cb653cb777d5cda18dac4477214b854608e",
+      "original_sha256": "b80da3a1a518f804d19698a9fe6e4b5e7e1e76a72deb68a332330d9fccba2370",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3i-clean.blend": {
+      "bytes": 380137,
+      "sha256": "5aac9032e6086b807fa8bcdc2e561da4d9e5a70b68ed43d2dd4d013bbcd20aa3",
+      "original_sha256": "f6baf5bd9bb623d16fcdd7b4b3bd976ddb094f5d066db8d559fb7ab4f44a145b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-base-v3l-owner-tunic.blend": {
+      "bytes": 380073,
+      "sha256": "c6e21ec1e50a6c99f365feb496a77e376165a283bf23aea3dd936f961b528e7c",
+      "original_sha256": "0092ebe4a428f12f3a0770d21cdde1a1758876ad16ecf3944ee2f432e5a6125c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-garment-v2.blend": {
+      "bytes": 371400,
+      "sha256": "fb31563e6f544b01e1689eec6a74a2e5556d864b24e34bef890436ec91f3feb0",
+      "original_sha256": "de99549e10a0ed58167596ec453d695b2a83119507e1e944ef65fde323ffb9e8",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-garment-v2b.blend": {
+      "bytes": 369814,
+      "sha256": "45c28c903580c20b10036869b3308be946c654d3bc25d02ac07dc9451e215b7c",
+      "original_sha256": "bdb671a37de94f618c5fca2877d9df9ebc97823b518383b92d24523a91a50d00",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-garment-v2c-review.blend": {
+      "bytes": 376055,
+      "sha256": "c9ede9588c265cba29f0ebc405b4491e230268055f33c9b91114f35d6126eeef",
+      "original_sha256": "10b0e46d980a4acc070c138f9b750c951aea5b40d2cedfa6d04ef963901682d6",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-garment-v2c.blend": {
+      "bytes": 369853,
+      "sha256": "95d9a2f5ad426b9641885d966ca890790525afbd953d9d538d6a30c42f20d117",
+      "original_sha256": "5a4a32ed8e55e19feb9f863cd10788daaa38e64c9e91a409ebf07786069e0754",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-garment-v3a.blend": {
+      "bytes": 370374,
+      "sha256": "b9f81593bc3f2714d0087e3022ffd4f29e41764ddc8fed1a2cf9ebde25daa480",
+      "original_sha256": "5d210ab7b717e1a38be2dbefe64fe1a83dfb77944b2f8f55afeb676aa9b540d9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-garment-v3b.blend": {
+      "bytes": 383313,
+      "sha256": "0beb3c536a737b8aede7264cb4224bb8f8855ca52ad1c9d7e9ff64d92781c667",
+      "original_sha256": "db48771efbe47bc69f0e6ea5be5ed82d5f561711b430e14cfb93af56acc3009c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-matched-control.blend": {
+      "bytes": 423721,
+      "sha256": "b63b4d489a49ce84c03d6c6d0cb75c56f5f2e5178ac5d577def6e0a8a98976d0",
+      "original_sha256": "6ce72edfd57af484f84295f6c06b41ebc96ae34a99a73cc1434ef6f0fb3af58c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-paired-stock-lods-uvfix.blend": {
+      "bytes": 535324,
+      "sha256": "84b3a651724ad4ab942600b96f7617cc73106beb4e1437ebee830daa6c365ed4",
+      "original_sha256": "25836725f27ea7b6763d6333d1f90d39fbdbb5ec6a99b1fd768dfab1fed6dd31",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-paired-stock-lods.blend": {
+      "bytes": 535427,
+      "sha256": "63232c2f4c10c1898f0c4558f3f70bb2a62a6f05537f14f8dc9d8148250cc38b",
+      "original_sha256": "6ca18ed8f305ba8e4df2681215aef0cf5b74f09b723993362c3a1a6db83f9f6a",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-rattan-v3j-representative.blend": {
+      "bytes": 367284,
+      "sha256": "305a62c6a7d492896f013863d99d335479bc20670dacb5581054b331404d548e",
+      "original_sha256": "2c7783ecebdfec287160a5d389345d01d63baa76f5c7d89a121843da63d9efb8",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-rattan-v3k-contact.blend": {
+      "bytes": 367941,
+      "sha256": "e97a8f37d7b0b94cde442fcb5ff9a4f7d59a52c21f3610fbbf320b17bd4175c2",
+      "original_sha256": "6005123ff6cfc22f53318659ab52abfb441b1dc7cefcd7e209ef28644f23d508",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/archer/archer-rattan-v3m-owner-tunic.blend": {
+      "bytes": 367932,
+      "sha256": "4975023e747f994c04cfffa94d92b9527f7b8c7f60ee13e0987b5478ff39a859",
+      "original_sha256": "421f3865427b76451ed005e1c4d71edda3b944b17d787fb6c4a3e06631656213",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_female_age01/chi_villager_female_age01_v2.blend": {
+      "bytes": 298171,
+      "sha256": "ba39a985a1cab97e083aaf8c11c1a7b7c573b98c449f913caabe87697da1d96e",
+      "original_sha256": "97f3f94b24de713d22943bf48f8b535dd2f67ab605fdc24f540ee78051a08bc8",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_female_age02/chi_villager_female_age02_v2.blend": {
+      "bytes": 297888,
+      "sha256": "4f4c113cd5ea31d227a0232183b61751d278eaaf4df42a3c8a49155ef53924f4",
+      "original_sha256": "b524550ca8022b1cb5411b14cf6211d72357fa5673b26d0396c2172d9e57f937",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_female_age03/chi_villager_female_age03_v2.blend": {
+      "bytes": 310021,
+      "sha256": "ec38d5635008d2261842023e196784152ec359fd980a75598dc55e2a3003664c",
+      "original_sha256": "e092be2481b930e77a44bde032268dd872b66e3e8711be0ebf4a3e4c67cc0f60",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_female_age03/chi_villager_female_age03_v3.blend": {
+      "bytes": 311187,
+      "sha256": "49990bf12497c58b470d4b3d81d0b87439ac89b2bba5f5a84648b31ec02d7d07",
+      "original_sha256": "1cc125e0d0d2655a2494e0aa37a183e525baf461bb147402a44381ace2de1d7f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_female_age04/chi_villager_female_age04_v2.blend": {
+      "bytes": 288241,
+      "sha256": "5eb5a6ed1946afe7b993df006c622e3a532f68b313f96a010b8f28d795783230",
+      "original_sha256": "2ea54fdaa2036d583e8b0ffa3ab9b295a7ad8c4212c7da6e37b49ccedd336222",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_male_age01/chi_villager_male_age01_v1.blend": {
+      "bytes": 284983,
+      "sha256": "744648810fc850d84ffef77bc70462faf0f027524423de0adc61a9e06cf75119",
+      "original_sha256": "617b14ea99c04c779ee5f251c60c38223699a5794177d9b5b027de8d26cfebed",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_male_age01/chi_villager_male_age01_v2.blend": {
+      "bytes": 285059,
+      "sha256": "4f781bf94733a143dcaf851165a6fca0d1a0e56ff49fcc2de5741fd8de0c7a49",
+      "original_sha256": "3fc43dd7b614643960ea301db0d08d2189c5587fbc64ddb3c9a3075d596fc33c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_male_age02/chi_villager_male_age02_v2.blend": {
+      "bytes": 284765,
+      "sha256": "a97fc4da4b78d90bff7b2708d01428cebb75e1030c51eb1cb8ccd1b1a0062aa8",
+      "original_sha256": "9320e15bac750784ca3c1a0b9e00cb8b5dd0c599a9e3a9405736efba522a7f21",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_male_age03/chi_villager_male_age03_v2.blend": {
+      "bytes": 296792,
+      "sha256": "5a0ea43226eab919a94ca5e7c9050efb909fd9c930b092de9fae2eb78745a3a9",
+      "original_sha256": "756d6654aac8637a9eb345e11585840077ee68bef8278abd1ac1868859848714",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/civilian_roster/chi_villager_male_age04/chi_villager_male_age04_v2.blend": {
+      "bytes": 272814,
+      "sha256": "ea128e30924365e6bf1a0e11abc137ead48feba3e8d682580621b5d53786f350",
+      "original_sha256": "5ce8f9f80fa43d3822bdecdddec5c7a4300d47988f616ea010e6baccdcfc748f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/nonhumanoid-stock-rig/elephant/six-group-control.blend": {
+      "bytes": 1227158,
+      "sha256": "a290b33a6ea19bfafd566a247ee3eed728bd2eb853e3158238787922f7ad988f",
+      "original_sha256": "270d7ef8b14fe1de6f20527f08b33dfe9f5429d554cd888a1ec93e00c77c5ff1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/nonhumanoid-stock-rig/horseman2/six-group-control.blend": {
+      "bytes": 715253,
+      "sha256": "c3c9d8aca245739d28a39617de53e52444c0d33131bef502b39b1ba81a70ad00",
+      "original_sha256": "674aa9d9e083046fccfe7a33750bdc14732e3873a1d73e1c5c16cd4b0be9cd87",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/nonhumanoid-stock-rig/siege_mangonel3/six-group-control.blend": {
+      "bytes": 1168375,
+      "sha256": "c71eff2e72dbc99995cf82bd3fa26be4d1e24d432e561782a5c928b2f3f22bc4",
+      "original_sha256": "0d574217597be5b7247cb34d9b5e93fdea74315da7fc5e2afc90b06ccbcc373d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/elephant/elephant_review.blend": {
+      "bytes": 784274,
+      "sha256": "a702c6294cd6e5e15f72feb0701866136fc6f87f577c315b6b030d4324a92427",
+      "original_sha256": "b0c196179c964b97207855aace4592044fb29f432a6c9b8997f8772a77ea2a2f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/elephant/elephant_stock_idle_inspection.blend": {
+      "bytes": 6042635,
+      "sha256": "f6322cd9ec0796685f29845a809851bc4009324685bedbba7eb0a7fdb2336e75",
+      "original_sha256": "259eaba8ec1cbf0a921536986b555ea9d771b56cbaee19b78819f686fdf94bc2",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/elephant/elephant_stock_idle_inspection_v2.blend": {
+      "bytes": 6042496,
+      "sha256": "3e9192a4c43e4ead3582ef5ed33f63ca307368cd6672b2c215cdc77e1d6b6d79",
+      "original_sha256": "d4f8e548471fdc711a245d81375fc71ca5a1c8df334d568a8f6610a4e678265b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/elephant/elephant_stock_idle_review.blend": {
+      "bytes": 6023763,
+      "sha256": "e67b66e706ef2e60d6a5194dd91f0bb3d58cabb08da981c8e3e8885534137f7f",
+      "original_sha256": "34c3f0cf8fb648be78a485e28d2c31c8b18f59f775c67cb429fc4e5e73cb465a",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/female_villager1/female_villager1_review.blend": {
+      "bytes": 346989,
+      "sha256": "3aa20ab215a99a9dd4ce7b1444fd48006c782c44f2ada05e14f3d5b04ad016b8",
+      "original_sha256": "affa75c260536a4d1ea02db3d25f2fd5cb1a53e281e42d1aa6831f8a3b4838e5",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/horseman2/horseman2_review.blend": {
+      "bytes": 536258,
+      "sha256": "88897914bb82568a03e08da26e1a9b43444c962d7e49aed82a355715ac0fac42",
+      "original_sha256": "ee04eacd3694a1010a9a796da70fef7642992f8962764b009677c17bf669cc3b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/horseman2/horseman2_stock_idle_inspection.blend": {
+      "bytes": 3215071,
+      "sha256": "341feebe544ded3d0017aaee6b165138df8c7960716f3db8605021cd8741fd27",
+      "original_sha256": "1c47cd02c1bae543ebe5f46a6f9f702f2f3672848504fa663b2bda8c260174ff",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/horseman2/horseman2_stock_idle_review.blend": {
+      "bytes": 3203283,
+      "sha256": "9cdf4e77afe7528576aad5f600e709ef46fe6aed0922dc2f4e36511c6617c052",
+      "original_sha256": "6aa5da85afa7c35a82210335cad1026274e78dc2863e012415bbfd1cd7be4f3a",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/male_villager1/male_villager1_review.blend": {
+      "bytes": 338187,
+      "sha256": "f60cceb77b11d2baec0256b652a3c0a5e5014eac0d82e1191859f813df822405",
+      "original_sha256": "32860a447721858bd20c5a7ce53e61e154b5cb7f346102ee59c6a3f795d735c1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/siege_mangonel3/siege_mangonel3_review.blend": {
+      "bytes": 881337,
+      "sha256": "7d758e6ff46d84ea648f7f877a9786a4ff383013587c595e989ef3c13c4c0359",
+      "original_sha256": "a1cc377638f5d4bc3c7be569c4d3f60c4dd5cd3096c6b63ba4629cafb03d3073",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/pilots/spear2/spear2_review.blend": {
+      "bytes": 310787,
+      "sha256": "e10ad157d366323b71cb67fbd6564c82f632215d28e8b8268ac9dbaf5ec7ba80",
+      "original_sha256": "281fe9a0d883e88dedd2051a8062f59819e62067cc21a352bae6079c0c97ff7d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer2/archer2_v1.blend": {
+      "bytes": 423703,
+      "sha256": "08a0c9be5dad9ce33d9388a22c12abfc55f45cb2c00ed8973acc94ac08869a90",
+      "original_sha256": "b45d2c6c4704adb1a110d18bdb582ef2fb8418b8ff41e8af35ac8ea070118028",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer2/archer2_v3.blend": {
+      "bytes": 428539,
+      "sha256": "403e2d27bc8fad28b556f186446840acbb085bc70d7a8bbabcac72148b2a631d",
+      "original_sha256": "63e322f4fa7aa9d7d1528226817601abdbf80a9d950d428e8b67bf42fa1676c1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer3/archer3_v1.blend": {
+      "bytes": 290460,
+      "sha256": "90648b3a5211dfb66c974fb50050c23962c06be76c2e6ba55cd352d63067111a",
+      "original_sha256": "0bc9cfae5de35b81b73d57e1f908f74fe96cbb87aa7be71754782c70b0b492b1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer3/archer3_v2.blend": {
+      "bytes": 290691,
+      "sha256": "ff2e22b3f10c5f51ef9c8615a73a580f57cda53c5b997fbda21245c76e842091",
+      "original_sha256": "b55c983201f65bf7f9ac4ba60f1bea2b7f5130d10c387241fc3a462e3a095157",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer3/archer3_v3.blend": {
+      "bytes": 290756,
+      "sha256": "c1918a17bb078e9eb670c8eb7007d2ec46d42deae9d90b1e70482834fb61acf7",
+      "original_sha256": "9016c4478bc958abea1f52e94410935371d11d13ae51384fb6ec2eebd0dbbca2",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer3/archer3_v4.blend": {
+      "bytes": 290678,
+      "sha256": "c5ee6cd7e65134b117ec20ecea8f330401ec93d593b7cb6bcac27fc8cc93b5a0",
+      "original_sha256": "7468ba5805028ea5c1b02d93d6582b4790cfb3d2b900de19441f15ce5a5ab18e",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer3/archer3_v5.blend": {
+      "bytes": 290463,
+      "sha256": "cd2a83d5f97a7fd95aa154a3c44e7b600f9af7243cc5954a5e4ea637e7fed408",
+      "original_sha256": "67e209aad1e292cb1b1b294c9254d58687d4ac08877ce9c7ca1863ad302656df",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer3/archer3_v5b.blend": {
+      "bytes": 289973,
+      "sha256": "bbd1d09a0f33283f81e3e3cd8c086251266ba3e230644b32e47058dd4720e251",
+      "original_sha256": "ce20cf89107220498abe53f9c93dde8f3b329283a9d217558437e1f1342e526d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer4/archer4_v3.blend": {
+      "bytes": 287561,
+      "sha256": "bf5c510ade39d7de7c4a80822c1b0901fa6d3e26862199be4fbe5396cf1e0178",
+      "original_sha256": "c1729f2ea09707e882adeb2f03aa305476ebca197dccc5b85a72161b39af3be9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer4/archer4_v4.blend": {
+      "bytes": 287457,
+      "sha256": "9513ee86d23fd13bf2cdbb71596a002569e47b483b867cc0dca7f85b3a476acb",
+      "original_sha256": "b967fea0388cb77b04821483d46dad4004931ad2bdcb07c48b9c805fb13ebeb5",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer4/archer4_v5b.blend": {
+      "bytes": 287065,
+      "sha256": "23c490e5f1fba9e3c74d7ec752dffcb1223a78cd7efdef590ff0128e8f255c60",
+      "original_sha256": "595e788b6cbcf062b038e3b221ab776f7a26c2aa095016480f8f41c172adb2b0",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/archer4/archer4_v5c.blend": {
+      "bytes": 290343,
+      "sha256": "1af61ae7b681e65561e001906274bf47ab11c3a2460fb27abd23cacab6de55eb",
+      "original_sha256": "2f2b77682e1932ec12e8ed5d5d64cc32b483210d60d9960f9cae9c2b2f5857c9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/crossbow3/crossbow3_v3.blend": {
+      "bytes": 311167,
+      "sha256": "a2ad6f431647fdc55a1ae700f98fe0b31a694daa0cdc0793c30f540105f40e3c",
+      "original_sha256": "697f92c5718a496cdff5c72f8e1822278b4ac9f74944f9e975077c83ba3b90f2",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/crossbow3/crossbow3_v4.blend": {
+      "bytes": 311091,
+      "sha256": "684c8b1d39d91bff24ec7091c79cee7e97e0ae45a8feb1e4229a39a3bc068cbb",
+      "original_sha256": "6c6bebd7f5db97aa889c089d710bead8e18ec9e561ca179d43834126b0d3f9c0",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/crossbow3/crossbow3_v5b.blend": {
+      "bytes": 309098,
+      "sha256": "ba365ea78b8537e4e8c3c3333ada1387531d48d9a89ec26b0df97b9cf309bf56",
+      "original_sha256": "ab7bd8a3e6bbaf7ca9bf9ca688dc69c4be356ebd18c5837cc9bd9e7609fafd42",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/crossbow4/crossbow4_v4.blend": {
+      "bytes": 315315,
+      "sha256": "6a879a9143f1ec5e5dd8ea0e5c088a96dbdeaff731bb0e2d8d0b019cce84fcdf",
+      "original_sha256": "044f39f26c68f7560cd93691bfb7d28e22e07debc2e9f0f66d00efa8f36fe183",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/crossbow4/crossbow4_v5b.blend": {
+      "bytes": 314679,
+      "sha256": "b7dad1625e26db2de7883c31f6305a498d023ba62b98729027bcf8c64001b704",
+      "original_sha256": "bc969d4e078f37b0c9410a8c23f9c26ae417392c73f9a619350f2f670308a0bd",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/handcannon4/handcannon4_v4.blend": {
+      "bytes": 287408,
+      "sha256": "d9a9ae6d089e79b56330ac39a6eec8de155bff879c49ee95281458fea4a6809d",
+      "original_sha256": "2ef9b7dba3ab73869961784beacb0d04efcdb7298f9c62c5d9815acc9385039c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/ranged_roster/handcannon4/handcannon4_v5b.blend": {
+      "bytes": 288086,
+      "sha256": "97a45b1816e9a14da839f2197b29aacb3002a7d9849f08acc4764887e5445dd8",
+      "original_sha256": "b44884981e6ea65dc6a39cc7003271d1830fdf22172fb9010fb6dc95f79d5efc",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/maa3/maa3_v1.blend": {
+      "bytes": 295516,
+      "sha256": "66df5bf644bd885ec7ce1727af40eddc6718f7e3fda4f11f36bd6869dcfd442e",
+      "original_sha256": "7332fbc32b024491649fee6c2047fe540c00428251950ed9aea39bf985006c47",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/maa3_female/maa3_female_v1.blend": {
+      "bytes": 299862,
+      "sha256": "3d61b5175771bf9904b167d9a0bdba7d9d5318b4a742d2f330571598724c12f3",
+      "original_sha256": "7c848bf437108aeab5c5fe5a39b938bf1e1faac5e6915af1cc74386a914f1e89",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/maa4/maa4_v1.blend": {
+      "bytes": 295543,
+      "sha256": "3098532531d4a0fe21ae8deb0bd076ff71818e691f02033e6b75c7d7d6a18f6a",
+      "original_sha256": "1208e5b80690ac6529ba479b7c77c5516203834456ff40eb0c08ae065a64506b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/maa4_female/maa4_female_v1.blend": {
+      "bytes": 299579,
+      "sha256": "47f538012e77c156a471cd5e1d7fbe9f3d5e0684ca1e4ac0aa2ad85ec7c01ee7",
+      "original_sha256": "d942aea3ca9d5ed365c74f6c60c4b44919dec497ad10d0cb655f056f02636eac",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/monk3/monk3_v1.blend": {
+      "bytes": 256270,
+      "sha256": "860b5150ddff520142b103d7377054bb22ab7c3cc08d843fed72e6a940999aba",
+      "original_sha256": "ede9519e73b448b3088ab4b9a303f76aaa6788b5328fa5e95be8a1408ddb6ce7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/monk3/monk3_v2.blend": {
+      "bytes": 256261,
+      "sha256": "a2fb75b81a7ae376a2c409f0932739b8a29937a3c31718f04c223e8bce5374a6",
+      "original_sha256": "2468059b38507eda5f3503ee166b95dcc303a5f248402885deb3534a36c5a81a",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/monk4/monk4_v1.blend": {
+      "bytes": 267838,
+      "sha256": "bbbc0b61c7d470d3fb18d2649b0b209be37b382ae4d5a7df403447d4f731d73a",
+      "original_sha256": "6655dfc12dee047fe32cddd229cba83c20ec660d13d560f68e64ae87811a6f28",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/monk4/monk4_v2.blend": {
+      "bytes": 271637,
+      "sha256": "5603d9831460f24b65fc14b58971b13301acc1a7ba01116bf43642c35223c869",
+      "original_sha256": "e36c6ac6f51fb16a5298c6348f6c5386dff148ddb74073994dcadb9ca75737f7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/armor3/armor3_v1.blend": {
+      "bytes": 680054,
+      "sha256": "e07afd78ce12d2578a6d4adc7c92d52174cf634e4456f1ec6e6a84e80d53f55f",
+      "original_sha256": "05151d86e096eb01dbe9187c93de3cfc69637c3e23c452df719662af0e015fc1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/armor4/armor4_v1.blend": {
+      "bytes": 728943,
+      "sha256": "6576f0fe821e598714d143401546307a7e2021835c4233d4f2fe04cc92f27689",
+      "original_sha256": "ac86dbe716796e54ce59ef5629e6a56f43a17bd50cfb8bbaeb38f9442c79bec1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/light3/light3_v1.blend": {
+      "bytes": 588919,
+      "sha256": "b9d4c9aa006c8cb7836d6c450865a7a74c87b88611768fe9f20a33caee574ab2",
+      "original_sha256": "93e7a737e704ad3908a46978929cdbd0c3504e50889048c9c1d83797314a76a3",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/light4/light4_v1.blend": {
+      "bytes": 671247,
+      "sha256": "20011a439cea5eb09c1d8f136f412cfd05b400751baf1ca37d5c45e045a465fc",
+      "original_sha256": "b5f2c5a955eb36a5213c61c1f4642082eb44fe41ffd5bff203a8ba73fc43a395",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout1/scout1_v1.blend": {
+      "bytes": 521202,
+      "sha256": "8af7789f0ff3d82151aaebbd4f87547db8d337ec275f3e4a3915a02cd003f7d0",
+      "original_sha256": "0af3632da1651855511f92e0173c3081f52944b93c98e1efffd0ec27ed0986f4",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout2/scout2_v1.blend": {
+      "bytes": 571393,
+      "sha256": "e3cf4ce53776c95d5fffeaa8b39be5ea0e36b1c0b8fe9c455dd92d115a94cd77",
+      "original_sha256": "49adf6558021e4600d8e238080fadbf8d21067ecf0b58d6535fc04761dc81810",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout3/scout3_v1.blend": {
+      "bytes": 581038,
+      "sha256": "55259f62f4f441efb19c7656694eb8494a6a1c03605ae298a18742f56a104a24",
+      "original_sha256": "9d48c5093d3718f29f859898612c3288ec42a0691ef38caf20be477a06371267",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout4/scout4_v1.blend": {
+      "bytes": 587431,
+      "sha256": "bcccd8d2ce701800e420fa44b71bc419e44aa17f86d452718ca29ce62b3ac5cf",
+      "original_sha256": "a9dc406bf2814e451f09538a410046a46a796e37594eaf653775539a61c71d55",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout_female1/scout_female1_v1.blend": {
+      "bytes": 557082,
+      "sha256": "ae2c44e0a902609c86b2eeedd320ccc488cb35e7fa4f7e1ac7418fc7fcc5c6c0",
+      "original_sha256": "f07cfd1d1ea44f503aeffe33f36934e8851c42e6e622baf0dcd9d34a53943f61",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout_female2/scout_female2_v1.blend": {
+      "bytes": 590403,
+      "sha256": "956c1293358f18e97d71cb7655c732b74ffeb49bdf02ba2c70258065c8a55061",
+      "original_sha256": "316e631fd4a3bfcce3472858a07e6e8a9433c6f970697e0001b501bde1590d92",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout_female3/scout_female3_v1.blend": {
+      "bytes": 601028,
+      "sha256": "54b758eff10819bf5e5747f0ee7bb4265fdcc118e5855a1200a746f012959cc6",
+      "original_sha256": "29ca74e825892e5b769f02c70699f74cea3a55a89b2cf21b0b3d603366c14d6c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/scout_female4/scout_female4_v1.blend": {
+      "bytes": 601857,
+      "sha256": "53ff84e13c1cfa50b639fe0452e8244b23414fcaffe70f4030aa6d920cdcc71e",
+      "original_sha256": "38e4a09db4443cc70a136e3837d84eefc086af6976e57979f190abd8b67ffe7c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/trade2/trade2_v1.blend": {
+      "bytes": 718025,
+      "sha256": "a0daf1ba36bca99e6da3a9eeb22d76f6d744f84a0dfe4bab2e518a99e10824a2",
+      "original_sha256": "06f44b6b8a786e42bebbb921c65dfc0121d0026d44ca3a8668434e1faf0297bf",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/trade3/trade3_v1.blend": {
+      "bytes": 744124,
+      "sha256": "42bfb3fb517b22cf43739d6d1f8e4a73e379146d9792b467e3ccd106ba0cc2c1",
+      "original_sha256": "e3a9bab9957e618cd1a706956af2599e8840542b6852848072cb91b0698d6661",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/mounted/trade4/trade4_v2.blend": {
+      "bytes": 806269,
+      "sha256": "b6b459ab3191e9a1e089d38bed5a3444431741024818ff2f4cd1be9d34a6ba4e",
+      "original_sha256": "98af78dc00e8391c84cd3c5e3fe0dd9d60d483770c10814d58aa2765468c1136",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_arbalest/bow_arbalest_v1.blend": {
+      "bytes": 173266,
+      "sha256": "274c7d61c00c2464a80f3c73eadb37366e0ab3b9e83f267c2a628ebb6764326c",
+      "original_sha256": "01c6baacc322805ad10515f5e2719ee2dfacfd6138c2561b56244a98132c6da3",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_arbalest/bow_arbalest_v3.blend": {
+      "bytes": 173265,
+      "sha256": "97a2bdb0aead83e63f70aa92e184596ff3467268f807cd5fc2f1b84ab6c96af1",
+      "original_sha256": "e9dcf465a515e4e4a703d33216ff6f8dab337f424a39326bf3b6ec0432c47cdc",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_cross/bow_cross_v1.blend": {
+      "bytes": 159093,
+      "sha256": "e76f9254dac81c0b5df6e6c4e5efcf3114b1a282cc0ef4753a62d0fce1355ef2",
+      "original_sha256": "2caa45cf67a6ba0927b519df9c72a5566d84961392591b5ca0db7111cca9120d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_cross/bow_cross_v3.blend": {
+      "bytes": 159083,
+      "sha256": "1e4736dbdc6c2d313a738760c81a89e6c187d33b50521ef081c4a08a1c757d9e",
+      "original_sha256": "0d195ef0c27e152a338d779ad370f362ed3f64ee908e87d1eb692b5388d13d76",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_recurve/bow_recurve_v1.blend": {
+      "bytes": 135166,
+      "sha256": "4f33147fdbc7d2545ee963aae7d09fcea8c8cf7aef715cd8c178555654dab1ed",
+      "original_sha256": "11c0036ed91d7439daec0422ce95bfe1fab3fffb0085b5e1d194b0b452d25955",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_recurve/bow_recurve_v2.blend": {
+      "bytes": 135116,
+      "sha256": "97080111e0c486b6b55a3410ed84c10aaf108ebbd6d27152c3ab54fcac8e0e65",
+      "original_sha256": "67188d58e88ec9515b6b700a2a401cfc47e0ec2cd0ea510260f9bfe83b02bcab",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/bow_recurve/bow_recurve_v3.blend": {
+      "bytes": 135149,
+      "sha256": "071f980176bd7de773ee293d70eb26be3a6556864300f54dd389018918b148d9",
+      "original_sha256": "bc528d2d61914d56df5b7b6e4824fb8f99fb25b79e1230a9b996ff9f7ecb6eb5",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/combat_elephant3/combat_elephant3_v1.blend": {
+      "bytes": 764139,
+      "sha256": "dd4573904f4c009ea23e60d25521917fa3cca9feef46d94035f9bf753e13773c",
+      "original_sha256": "8033a5e233b1d0dc584a5fd6c09115307229b09fa1c22be6231ac93d00dcd55d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/combat_elephant4/combat_elephant4_v1.blend": {
+      "bytes": 1047788,
+      "sha256": "262989e37276c78476c017df2c2b765633dd6ff9e634623feb218175f1e93cf4",
+      "original_sha256": "46c0bdab8263306eee7073345a85a716a3984c9a52dfb505c812b93526276e63",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/combat_elephant4_upgrade/combat_elephant4_upgrade_v1.blend": {
+      "bytes": 1273273,
+      "sha256": "9575f096c3b1acfa0070621c8e8d6ec9a0041fed2fac2ceed5994a8b6f716413",
+      "original_sha256": "336b1be6beaf0eda2d48935a57192075dee68f10bdbf0f219520f40c1e4fc2cd",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/monk_staff3/monk_staff3_v1.blend": {
+      "bytes": 149543,
+      "sha256": "57683615441864a74207d5feb483af8f3e991a4c070a0552bab55cba80f187c3",
+      "original_sha256": "0a2b633ec6ab83a108904aaaa27ea2d235bae478369d5ca77ad329262b533a3e",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/monk_staff4/monk_staff4_v1.blend": {
+      "bytes": 157783,
+      "sha256": "6b82df7f55c003371905e187703b8a3660bebcca2b687a2b0d592f479d3f49fd",
+      "original_sha256": "c6830e7e1d3a94893f8029a6ff690245b883fb7ba5ed2923cb64a1f29dcb2d2e",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/ram3_candidate/ram3_candidate_v1.blend": {
+      "bytes": 807796,
+      "sha256": "92eaa7c63ea014adca66ccaa8a795fbfabd1e40dc4603e30f645b53fac44cf6a",
+      "original_sha256": "110d2a56693f924417646e841345c6702321209ab59b688b1f2476dec62cb98d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/siege_cart3/siege_cart3_v1.blend": {
+      "bytes": 407521,
+      "sha256": "8e70d01930da20db237244a1fd9a6ef2f855c7c39671ba9064e0df4cc447f0c8",
+      "original_sha256": "e9e75d4502e5283fc4af54e2b842efbd9426cea4e373f5943b8ef42cf2df4322",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/siege_tower3/siege_tower3_v1.blend": {
+      "bytes": 1168721,
+      "sha256": "eb6b9b77390a217b3b09f7a37e7d36572a965c44bcf4240e12e83d51fe48957b",
+      "original_sha256": "38a73feff3328e461ccacc5a76c7e81ab689e1793fa307d1458aab95d63c9b91",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/spear_basic/spear_basic_v1.blend": {
+      "bytes": 110804,
+      "sha256": "aff0dc322748a990cf027ac8f79a92fb971f9153bcc7303629374691c4ed54b1",
+      "original_sha256": "7392c0a3696a9c6886f509a533b0202a9b5f5e4a0dac09ba954215719ab1b12c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/spear_ji/spear_ji_v1.blend": {
+      "bytes": 141331,
+      "sha256": "8437da697e40a3cf43008ede6febbd2e65a5869c426d10f7c7cee133f88ddfe2",
+      "original_sha256": "beac440edc5d97334acd6d4dd952a6e3cfaa5107159547a667f081f3a602c945",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/springald3_candidate/springald3_candidate_v1.blend": {
+      "bytes": 646111,
+      "sha256": "017400a6f8c670382638000dbd6a7cd27b90927946354ea11cffd72f650229c3",
+      "original_sha256": "5f5040820185e8cee962614b049ab10f21ab08f30caf364daaf54303ef0779bc",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/trebuchet4_counterweight_candidate/trebuchet4_counterweight_candidate_v1.blend": {
+      "bytes": 1134129,
+      "sha256": "8e93485cc9df8087366723e2d80159f1b7bb652b493f12c50f754071c455bc0e",
+      "original_sha256": "091927a912a19c0dd5da37810dcbfa58936f2a016cfc9942d0c86a2f32c3dcbf",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/nonhumanoid/trebuchet4_traction_candidate/trebuchet4_traction_candidate_v1.blend": {
+      "bytes": 631428,
+      "sha256": "66aeb0cb67b45fdcacea8012d529776d933c065add4fce5d0247d2791f9106da",
+      "original_sha256": "8d8ceffc5a69c4ce4e297818f98f778ebd0ee0bfefe8d184bcb142244e88f044",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/repeater4/repeater4_v1.blend": {
+      "bytes": 287723,
+      "sha256": "7ccf52ea751665a7162cac176cd1b0bf0e4ab84a9945e75687c9a3a1202b732a",
+      "original_sha256": "8bfd39e5607740a1e52aecb45f093ca2572a81ccf573197dbd9b4ec1f6b8b4be",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/tug_worker/tug_worker_v6-tug24-cargo.blend": {
+      "bytes": 6604041,
+      "sha256": "a282f5529efa5a40f7a45ae6a6a85a00175e66a43486799db553220142bdb9ac",
+      "original_sha256": "42dfe3a90a417e0e0355ef6d603b43ab926154db596c15c2353a72950217e810",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/remaining_roster/tug_worker/tug_worker_v8-tug24-native-names.blend": {
+      "bytes": 6604316,
+      "sha256": "904a05434a23c474a3d0f27d54ad77b379d0408af7c3f96ad58a531a9096f056",
+      "original_sha256": "6cf690915e90045649a093950f0978b53fec7f5de06545a4eb0b5772d0a90f71",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/elephant/elephant_finish_v1.blend": {
+      "bytes": 6039891,
+      "sha256": "d341574310ebfaa4fa6166f8537b79ec3916f4da45dcfa66e53fa9d8a8b9beef",
+      "original_sha256": "64f2fe1be04d36e7844455be9230dd7de3ce86ac70ff464dc8e55001bbe20063",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/elephant/elephant_finish_v2.blend": {
+      "bytes": 6053974,
+      "sha256": "f6e8c9813ae67a9f15a9bc8b71877d66e652bf83b1ccc5014e8ca09169ea9d4e",
+      "original_sha256": "0dad1fb26b29b4648525f6e1c990ab6d5f1223b2fa51fef90d0475081bf3544d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/elephant/elephant_finish_v3.blend": {
+      "bytes": 6087558,
+      "sha256": "2f1b74ee165fee9ea546c95a783ebf588771871d10326fc20d93f6d98176fa1c",
+      "original_sha256": "9dce4c9d30270cf6fb91b7644b4b1149667aabf8ff065f2c10de9b1b79c0cc9b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/female_villager1/female_villager1_finish_v1.blend": {
+      "bytes": 399913,
+      "sha256": "67820624880040d568930fae38c68522bd5afeb4e21d75ac6da690f56db83892",
+      "original_sha256": "01e0ae1db3b66100800d542bf099137284e85f19f8469efdcaf7711d5fa2c113",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/female_villager1/female_villager1_finish_v2.blend": {
+      "bytes": 376201,
+      "sha256": "b8d5744655d09c945e0108d2d4f674dae042a2dd4f532520ccded37b4de4fce0",
+      "original_sha256": "201c63dcb10b7414650338c4c918c22ab07face56979e51abe0db5a7f6ad04db",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/female_villager1/female_villager1_finish_v3.blend": {
+      "bytes": 369594,
+      "sha256": "8f8794bdfb3369e86f2231299e33d9bba4c2b0b3e3858914f0384021d378966e",
+      "original_sha256": "818bac977e1aa78f4e19ea27aa9919c2d6583ef522d14d287e45d2677fd728e7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/female_villager1/female_villager1_finish_v4.blend": {
+      "bytes": 365617,
+      "sha256": "4dc1d5895c673d2b7a6f30729cbe21624cd9a46ce8e0f5068d9eb0168bab352c",
+      "original_sha256": "e72d56dcd62f25adebafbc1c971f87435d92554349623935057c57330fb9ff4a",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/female_villager1/female_villager1_finish_v5.blend": {
+      "bytes": 354156,
+      "sha256": "7b8127160934c634c668249a1826047a02a21647d49b310889e667cb8aa36ae6",
+      "original_sha256": "a41f8d9e3210207689fbd8906a2dbf436701248cc7c6593d826870e30a514ae3",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/foot_tiers/chi_infantry_light_age01/chi_infantry_light_age01_v1.blend": {
+      "bytes": 294131,
+      "sha256": "333597e3b3302b87223a9efdc8e672472131bea827d94087fe73275e8d41d187",
+      "original_sha256": "a2ca11e1462a5d59887afce191b7d3f97a18148b4af81349f98566cf1e1da80d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/foot_tiers/chi_infantry_light_age02/chi_infantry_light_age02_v1.blend": {
+      "bytes": 295621,
+      "sha256": "ac722b94a0df451c96f50e62a5a18fcee2c16d9113a9aa79937ee7f41977bf5a",
+      "original_sha256": "002262916636c497e83c1436d4c27f04eddb9b3f319e45f57fd6f8dd3ecc6e1b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/foot_tiers/chi_infantry_light_age03/chi_infantry_light_age03_v1.blend": {
+      "bytes": 294270,
+      "sha256": "76b4af188e4c1b441d57ea112fde87fb3af01ea0d940091f5e538bf87d8ad180",
+      "original_sha256": "b640798daaf2a18a8126802da10161bf49690570a98300ec35a95a0423bb0b5d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/foot_tiers/chi_infantry_light_age04/chi_infantry_light_age04_v1.blend": {
+      "bytes": 306225,
+      "sha256": "770ffb54c645d9dc6da0805a017a8e8563a46878ed258e9faee491ef24399bf0",
+      "original_sha256": "0b5527a0878202592d38ad25cd7c915178bbcffe3e28bbf8cc9bb32aa84edbe7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/horseman2/horseman2_finish_v1.blend": {
+      "bytes": 3268713,
+      "sha256": "59425db786d2e7b8082bd05cf64219ede4a6f786953af616be002421d134a79c",
+      "original_sha256": "fa020382842e2fde84ea22907f0513822a7061153929c5923ab08d3812985e52",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/horseman2/horseman2_finish_v2.blend": {
+      "bytes": 3255635,
+      "sha256": "2414311c66995a6d6e52b2f3967519874e06d45008718b93b538e9b62460f4a8",
+      "original_sha256": "7089f5640c117d262cbbc34074ae6f31765b86ec274a1b1778b8c135a4a6cb11",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/horseman2/horseman2_finish_v3.blend": {
+      "bytes": 3249377,
+      "sha256": "ae736737b4cb2b71ad282156debcd357753274c8d5039a6d5108f90849a170ab",
+      "original_sha256": "4963485ba4a5722e86619e31b478e1c439d6edd598e2bc8064fb88e97a3b5f34",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/horseman2/horseman2_finish_v4.blend": {
+      "bytes": 3245968,
+      "sha256": "0b418939d0eed0769056bf4d935bb5945212e6d4275cef880f1c2a2d9d498e7c",
+      "original_sha256": "266d6754c96fcf4821197641020ee79ca307df380dd0cfba4c9a5353ffe90d1b",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v1.blend": {
+      "bytes": 386833,
+      "sha256": "6971f310976c934bf956c21347af31117e25f925218b0633d3d0db992cc54a80",
+      "original_sha256": "8709ed341349835e15f00e258bd22893dbce3c184b794ea00f4ddb2cd8cbc8c7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v2.blend": {
+      "bytes": 379043,
+      "sha256": "f489f111dd886c306a5fd18e1603053766441242f2cb786053788ee265512b25",
+      "original_sha256": "828d114d120e33351e15262c30bdb6dce802b9f4429d92e56fd920b97b95538c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v3.blend": {
+      "bytes": 370532,
+      "sha256": "b5f6d226b8ab1cd14e9e9bda20a3969d1a70d468985640e4460cb7795827416c",
+      "original_sha256": "08c8e0e4a3260548b656cf1620f63b89636dbb70d39000aa81aa97f203285f78",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v4.blend": {
+      "bytes": 367012,
+      "sha256": "eb403a6e69f3e84018d8aadc8c6e514f16ba415b1ee44d2b46974bd216690ef1",
+      "original_sha256": "b8d208dcefb80081fdcbbbf9236e2706717f036d6b2a1ca667c031f975326efc",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v5.blend": {
+      "bytes": 365677,
+      "sha256": "b3aad6ebc8c37c49b469487796f4daa0d0f3aadcb3b2baa4e74b1fa2afceb23e",
+      "original_sha256": "7f6b930050aa92395408f66101280c9829554a7563904d4ad808cde67fc06bbb",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v6.blend": {
+      "bytes": 352948,
+      "sha256": "78ac071a7c152e19ff942a021738c6f152cd4753f245fb26daaaab9fce796498",
+      "original_sha256": "2083d29efe300178a0b5912cf126317f47361f83b37da978624d1d5f5e881a49",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/male_villager1/male_villager1_finish_v7.blend": {
+      "bytes": 342427,
+      "sha256": "6842082c08411aabcb7a2e5196b7e8ad3cf327ffc5a186fe4490e87f1604c566",
+      "original_sha256": "0af450fab02be812f05dc274305ae317efd2d1418d64f76696755137d0c53dd9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/siege_mangonel3/siege_mangonel3_finish_v1.blend": {
+      "bytes": 929804,
+      "sha256": "ea1254d08f1cb71c72b333c6ab9e6d296632cb6037a684d951508739f539fa25",
+      "original_sha256": "cd5e1a54386d0bd2c9f0866e49e092c78fecaf6ffb174697945cc14afd28250d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/siege_mangonel3/siege_mangonel3_finish_v2.blend": {
+      "bytes": 872152,
+      "sha256": "2749f435fa609c04fefb568a500f802639cb1aa740416750ba07d79a5565cb6b",
+      "original_sha256": "3a4e5f1ac9bf1cc869461d719ed3708f291aa48743d6734efc8eb169fc4d0f3f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish.blend": {
+      "bytes": 344782,
+      "sha256": "9352a2fcbbebd0169b8804900abd8dfffd2f05a161eb2ca09930236070f9a5b9",
+      "original_sha256": "62d74eed32ac33778c3ab0bf1b8ccdce576f4eb45a7c7813e249b71a4e75da18",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish_v2.blend": {
+      "bytes": 362788,
+      "sha256": "0c2835596a6261170d7abaca5a00ed1c9650212d923d1e4e3e6cb0eccfe0a292",
+      "original_sha256": "800e2a1b9d7fb1e4a44d8db8fd7809ada8fa97e84976903ed7b54ef7abdc4e2c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish_v3.blend": {
+      "bytes": 343681,
+      "sha256": "3f7b1e3d28c1e3d2817d8444e20b5092c19a90245d7e3e61e461dbeafdc85728",
+      "original_sha256": "22c7a82cf16cc95192a6e4bdea7b0ebca5699450b6953a213f77d917e37c41c1",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish_v4.blend": {
+      "bytes": 332908,
+      "sha256": "b904e608b9f0a313bcdbed26ec431a912e6e70eb4f1da8a57cb50e1b981f4e3b",
+      "original_sha256": "cd3255e30253b3bbf1593b7035e5906b50c17f609d872d274b1f4c53973e8d86",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish_v5.blend": {
+      "bytes": 332470,
+      "sha256": "2eb7b949720f0d0d7f5b81cb33f1c982c207c083ff5e6827e531038b30840b1c",
+      "original_sha256": "572acf94d34014dc6414e055990578dede531d9c26df1d28aa2a7ac46ea3cd8f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish_v6.blend": {
+      "bytes": 327704,
+      "sha256": "a9c9f6ed3036150846698bc034e0caace5beb9d9ecf0013ac56835ffd1d7fe2c",
+      "original_sha256": "0c46f0acbe6bca9221e4d8daf8cdebbedb8a1b31b7be4c555bc1cf3b7d009dec",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/representatives/spear2/spear2_finish_v7.blend": {
+      "bytes": 323610,
+      "sha256": "1a6f79f04ab39a7f4b37d2a46feaa9e03695fa99a8596b413a0dd200b895d7e3",
+      "original_sha256": "c4e2044b17ed56edb5d0f2d64134ac5f317ce995ede75d02d85aa1151d69c0c0",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/spear_roster/chi_infantry_light_age01/chi_infantry_light_age01_v2.blend": {
+      "bytes": 357798,
+      "sha256": "53a34c8e7d31680892c81e9e781dce29ef5c599dcbc0403d8028e39a6006e9b9",
+      "original_sha256": "3cbdd6a0ba0bf0db8edb92da0785fb74f9ee2e94b5ef28ceba4fb1f19bea8874",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/spear_roster/chi_infantry_light_age01/chi_infantry_light_age01_v3.blend": {
+      "bytes": 357868,
+      "sha256": "a03cd9238539c95dea55c2175d8376004a51c79d86ebfe5774c7371fca74e48f",
+      "original_sha256": "88bf9d741ec1827ac48c782be0e28c852827d7c1c0d2d9a52377e763978c6079",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/spear_roster/chi_infantry_light_age02/chi_infantry_light_age02_v3.blend": {
+      "bytes": 359512,
+      "sha256": "c11efedd90fce16efacdb6356f99a992ba79bdb02e70ba0bab9499796e55c52d",
+      "original_sha256": "3bdd75da44dbe1a8966dc89bf0c1bc5034e60d995f13cb65e82f004e160dd6f9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/spear_roster/chi_infantry_light_age03/chi_infantry_light_age03_v3.blend": {
+      "bytes": 357710,
+      "sha256": "5155861a8b7d5051289f807b85d425d0c5429585c4878ce1d0b39eefc5ee0a45",
+      "original_sha256": "2346c20f7e90f7bfc6b7a1e57168505a9b6201aff52477c1cc6959f625e4062d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/spear_roster/chi_infantry_light_age04/chi_infantry_light_age04_v3.blend": {
+      "bytes": 350121,
+      "sha256": "2458f268fd5b20707f7170e711d891d68215ffb6fac5bdb6ea2b682153c6daec",
+      "original_sha256": "2ccf8fc390b5d7cb667bab953f71d2bf02b06928e5f95a5d0818b33d8f4308a0",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/villager-geometry-route/female/stock-three-lod-control.blend": {
+      "bytes": 427352,
+      "sha256": "7f04ab5edc81e89f4a6be47d4be4a1fd97ad514244c8abe4217f8b6d1d4317ed",
+      "original_sha256": "943a64b7757658d5f333e6aa68dcc43139ae6fde794fb987847c02a535adc799",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_060/villager-geometry-route/male/stock-three-lod-control.blend": {
+      "bytes": 417142,
+      "sha256": "2872f95dc7b2a65d875a91311dd97d0918ce865402cce405606e89940ed6bccb",
+      "original_sha256": "54abcc1ee5312742cf2cffc5e627949940ebf99cc9bef19f514198e546d6bc56",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_0710/buffalo/r1/model.blend": {
+      "bytes": 11749504,
+      "sha256": "2da8362585334c4cdb04cdc39ceceb4c678824329e2f31ec2b670811f4931964",
+      "original_sha256": "71eb0901473ad543c19118edcfa079c33225ce18551a727e95ce1ed83a0a06f7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/buffalo/r1/model.blend": {
+      "bytes": 424869,
+      "sha256": "631ec005d431fa162f2369248ad9a66b87535f93a03c5eb740e7f71d928b2348",
+      "original_sha256": "dd7a86c9cf384183744a8745da6193dba1482687347131a28191503dd8a34bd2",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/buffalo/r2/model.blend": {
+      "bytes": 447944,
+      "sha256": "89abb08cc238e69b19ae9071ee5affb7f66964823b754ac784531fc3f0b8f674",
+      "original_sha256": "0fa728e25fba5ef35291de164f60f9abfcdc584852c0e36412c2a251f0f2cedc",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/buffalo/r3/model.blend": {
+      "bytes": 559699,
+      "sha256": "259147490a82ca1f1868982fe9a09d918bec2a2e4b0a5ac6f6c235a159316597",
+      "original_sha256": "cff8d43d7bf4a9f3a9951f1995d24c5c1d7ccfff4a8dbf1e63376b718205613d",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher2/r1/model.blend": {
+      "bytes": 339781,
+      "sha256": "bdad8960bbdf03880eb8ed13013991cb451e94e1cfc0b8da2a8984128ae3886d",
+      "original_sha256": "0463f5c17865468548e9692b3284c55c412f1911a310d8e17993495b1212d7b5",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher2/r2/model.blend": {
+      "bytes": 372746,
+      "sha256": "ef3e2f7471801620fe667f417a31d3a6c12c88b0c22092589dffda2cd90ffe37",
+      "original_sha256": "45e09fb53703b25cc24ac50f220602075ca11d3f38a29651fdd298f404936e34",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher2/r3/model.blend": {
+      "bytes": 372930,
+      "sha256": "653e49008e854623be54a32927c4a6fb2c481ded944a62a7909a9c297553931c",
+      "original_sha256": "03ca9cbd3a375928713c0ff9e4b2d1bcc7e5fbcfa267d7c027b939a5dd7f7173",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher3/r2/model.blend": {
+      "bytes": 385753,
+      "sha256": "40ff3a418c79bf643be881c86c328006e4b3468a8709c2d67d74bf4c675cb91b",
+      "original_sha256": "fa3f86472e7d6befe6722cbaf6a1c4b4323b900f54300000bd9e752d0e37e730",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher3/r3/model.blend": {
+      "bytes": 385660,
+      "sha256": "a4edb454a6c1bd0f41284c39cf8135c540e1a178995bd45380e6548fdb72507d",
+      "original_sha256": "03175cded5895435a4f677218b82d3ef12b34cb51868337601148292d817278f",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher4/r2/model.blend": {
+      "bytes": 390958,
+      "sha256": "26969d1dd315135f2f21940264b873b81784a6730d65aaaed9c02ad28d60cac6",
+      "original_sha256": "51a9c077e182a81ee0499066f75e70313933f647b6b1380a0091800ca7e75688",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_076/skirmisher4/r3/model.blend": {
+      "bytes": 391114,
+      "sha256": "d6b94bba67d3497677c196650215de2065730c333a0b733cb3ffdf7ed015d13d",
+      "original_sha256": "c97a3af3545144966e6b72141b76fffb401c7b28b0a7de0f3f960a154e7954c5",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_081/buffalo/r6/model.blend": {
+      "bytes": 15585149,
+      "sha256": "9a6eda993758a0ada7b54c8878593c130fb7d919cae0ab92f26bff30ad266660",
+      "original_sha256": "6ae35bbe642a13dd6712f47944360bfd2ac6d15d0b00aca4c9029cb08ea2f842",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_082_animation/v2/buffalo-idle-walk.blend": {
+      "bytes": 15705266,
+      "sha256": "5cd2c518fc10d40e839b80a6707a123ba5f6e05af81c22891b34acf8bdd45bc0",
+      "original_sha256": "efa0de527194f8ae94ea7f04b0ec236f47daad28646237b5ef9693d3e86a33d9",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/javelin2/r12/model.blend": {
+      "bytes": 6908883,
+      "sha256": "019d1318858f1deddf53a173669581f95d9c9fd7c3c3cdd34ec79d472055e2ff",
+      "original_sha256": "b6958f3abad5fcc58e3eebbeef3f42b4f03010efb6f13be19bd21efbc254685e",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/javelin3/r12/model.blend": {
+      "bytes": 6995790,
+      "sha256": "f68a4371822bcd448404af6e3a7b491b88b1bf1b31fd499fbe833373bb456916",
+      "original_sha256": "21fa6ee443d00fa300d0e7bc0c0ddafccca9845ef0ac2c6ca54f8d5670405219",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/javelin4/r12/model.blend": {
+      "bytes": 6998189,
+      "sha256": "6aa18ca71dbf88da5d155fcd988253c27da74e2a518cf50a7c2dd0326256358f",
+      "original_sha256": "ff0346f406a5871d5d4372b2c129816655d13d63dab32d1403047fa983e8aca7",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/projectile2/r12/model.blend": {
+      "bytes": 6908900,
+      "sha256": "555bd42001a71b4a98d9d3f405ba6b4d6d15b54d79f14fcc7c94d1de39e28369",
+      "original_sha256": "65d0fb1e4bd0394e241a5820396aae1068b7da326bb672e6b297c2ded2c0dad2",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/projectile3/r12/model.blend": {
+      "bytes": 6996282,
+      "sha256": "15aa14120f3a03002f42d356e7ae67a566e14b62961a255c7a84dfdb75857efe",
+      "original_sha256": "d9b1c6685c114554597e3c9363a9c1ebf108198351af44a1a718c74e8031db83",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/projectile4/r12/model.blend": {
+      "bytes": 6998548,
+      "sha256": "a84bbd80f88570d5562d4f56c5b45a6afa101a47b6a8a8a845bdb02f82e8c8a3",
+      "original_sha256": "26a6187f07f38422e31cca9974c7e1f630b3f3f0b689eb1570ed1d3a4a08710c",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/skirmisher2/r12/model.blend": {
+      "bytes": 7399528,
+      "sha256": "6b31894f3abef9e2d08ccdfd6b17507e88b6e3728d62cbf799936022672ee44e",
+      "original_sha256": "e1e8f2b825a7a6b45ffc9883f463efe0ba067e83e15299ed585445bca47c8950",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/skirmisher3/r12/model.blend": {
+      "bytes": 7505977,
+      "sha256": "55d782f891fd47a9545a2505ba22dcb8c25a9e699336b01a6195efed1aeaacef",
+      "original_sha256": "c46f7944087904fd540b32755c0e74b3273c0412bd7660300c3cacebb43a5a2a",
+      "change": "external image/library paths made repository-relative"
+    },
+    "art/authoring/release_083/skirmisher4/r12/model.blend": {
+      "bytes": 7719522,
+      "sha256": "aacae4644506b75fcfb2aae9201fd09e7893425ec995d9a57b6ef9eaef1e1a1d",
+      "original_sha256": "7bbf20093ef519f9fdf2ad203620d1d46d2a00eace4772ef53530bd8e6dee201",
+      "change": "external image/library paths made repository-relative"
+    }
+  },
+  "checked_blends": 300,
+  "external_dependencies": 2288,
+  "geometry_edits": false,
+  "unresolved": []
+}

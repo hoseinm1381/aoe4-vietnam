@@ -1,0 +1,79 @@
+{
+  "schema": "ccp-070-garden-export-receipt/v1",
+  "revision": "r5-exact-part-names-from-r4-source",
+  "input_collection": "CCP070_Imperial_Garden_Detailed_r4",
+  "fbx_model_nodes": [
+    "garrison_part_0000",
+    "garrison_part_0001",
+    "garrison_part_0002",
+    "garrison_part_0003",
+    "garrison_part_0004",
+    "garrison_part_0005",
+    "garrison_part_0006"
+  ],
+  "healthy_triangle_count": 32066,
+  "per_part_triangle_count": {
+    "0": 216,
+    "1": 1788,
+    "2": 740,
+    "3": 488,
+    "4": 19908,
+    "5": 8554,
+    "6": 1600
+  },
+  "selector_parts": {
+    "healthy": [
+      0,
+      1,
+      4,
+      5,
+      6
+    ],
+    "heavy_damage": [
+      0,
+      3
+    ],
+    "ruins": [
+      2
+    ]
+  },
+  "model_local_fit": {
+    "xy_scale": 0.4817719298245614,
+    "z_scale": 0.4817719298245614,
+    "y_shift": -0.95115,
+    "z_shift": 0.13
+  },
+  "model_local_bounds": {
+    "min": [
+      -5.492199897766113,
+      -6.371084213256836,
+      -0.1590631753206253
+    ],
+    "max": [
+      5.419934272766113,
+      4.468784332275391,
+      2.8953707218170166
+    ]
+  },
+  "native_stamp_transform_baked": false,
+  "roof_seating_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\garden-r3-roof-seated.json",
+    "sha256": "a31988938e43a9e3e874f164a5114cc50a09a0b45c836fa990094afb4e729151",
+    "tiles_seated": 935,
+    "unseated": 0,
+    "applies_to": "r3 roof part preserved in r4"
+  },
+  "terrain_clearance_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\garden-r4-terrain-base.json",
+    "sha256": "6257dc9f404f2a89014868596f4aa893560d6f3d2015d5a06556c750e11d54c3",
+    "water_world_z": 0.0240101754385965
+  },
+  "files_sha256": {
+    "albedo.png": "2ab10548a20121e0106bdc8db4ac5b28701bae6d6e585fe8c64b7d83e5a7bef5",
+    "building.json": "352a6cfd6a6875bad698cbaeab759df6196e596066f98f62087f0e1a6d41f01e",
+    "metalness.png": "9920d392cf8204022fd6f68c48b88cc55755f54f477d050f8d51d8417660840b",
+    "model.fbx": "dd0c9cff6d6704c6d318552655a79c72b3b0657ea184af47e5ee9509671b3a49",
+    "normal.png": "591d16b4cad2c3a6d3eb76150528407416eb5f842d91c9e9d4d2cc3cdef739df",
+    "roughness.png": "5613a2ab372016fa94422d5b2799becd8a1538eb3fd4944e87934f76a5a96357"
+  }
+}

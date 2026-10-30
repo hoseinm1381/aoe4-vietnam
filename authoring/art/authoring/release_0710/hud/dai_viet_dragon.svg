@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="144" viewBox="0 0 256 144">
+  <title>Dai Viet dragon — original stylized emblem, 0.7.10</title>
+  <desc>Gold winding dragon, horns and whiskers on deep red. Original vector artwork.</desc>
+  <rect width="256" height="144" fill="#761D28"/>
+  <path d="M4 4H252V140H4Z" fill="none" stroke="#B68C42" stroke-width="3"/>
+  <g fill="none" stroke="#F2D277" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M51 112C20 95 38 67 71 77C112 91 95 118 132 115C165 112 174 91 148 77C120 62 104 55 122 35C138 19 166 29 180 41" stroke-width="15"/>
+    <path d="M52 112L28 120L40 104M69 79L63 63L79 71M105 103L95 126L115 118M142 112L155 131L159 112M154 80L174 77L161 94M119 51L100 49L113 65" stroke-width="5"/>
+    <path d="M173 42L185 20L187 37M184 44L205 26L199 48" stroke-width="6"/>
+    <path d="M200 67Q226 63 233 49M204 78Q226 88 238 70" stroke-width="4"/>
+  </g>
+  <path d="M165 41L190 40L205 51L222 52L216 66L198 70L209 81L191 83L179 70L165 66L173 56Z" fill="#F2D277"/>
+  <path d="M187 50L199 53L190 58Z" fill="#761D28"/>
+  <path d="M207 60L218 58" fill="none" stroke="#761D28" stroke-width="3"/>
+</svg>

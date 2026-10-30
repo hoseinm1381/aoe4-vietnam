@@ -1,0 +1,154 @@
+import("ui.scar")
+import("vietnam/presentation_data.scar")
+import("vietnam/presentation_badges.scar")
+
+-- Local presentation only; never issue orders or modify population/simulation.
+VietnamPresentationState = {active = false, lastPlayer = nil, lastSquad = nil, command = nil}
+local hud = VietnamPresentationState
+local buffaloName = "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_water_buffalo_vit"
+
+-- Player handles can be distinct wrappers for the same native player ID.
+local function localPlayerEntry()
+    local localPlayer = Game_GetLocalPlayer()
+    if localPlayer == nil then return nil end
+    local id = Player_GetID(localPlayer)
+    for _, player in ipairs(PLAYERS) do
+        if Player_GetID(player.id) == id then return player end
+    end
+    return nil
+end
+
+local function collect(player)
+    local result = {}
+    if not SBP_Exists(buffaloName) then return result end
+    local blueprint = BP_GetSquadBlueprint(buffaloName)
+    -- Spawned-only API traversal: queued/dead/despawned records are not playable.
+    SGroup_ForEachEx(Player_GetSquads(player.id), function(group, index, squad)
+        if Squad_IsAlive(squad) and Player_GetID(Squad_GetPlayerOwner(squad)) == Player_GetID(player.id)
+            and Squad_GetBlueprint(squad) == blueprint then
+            table.insert(result, {id = Squad_GetID(squad), squad = squad})
+        end
+    end, true, false)
+    table.sort(result, function(a, b) return a.id < b.id end)
+    return result
+end
+
+function VietnamPresentation_CycleBuffalo()
+    if not hud.active or UI_IsReplay() then return end
+    local player = localPlayerEntry()
+    if player == nil or not player.isHuman or not Player_IsAlive(player.id)
+        or VietnamIndependentState.civilizations[player.index] ~= "vietnam" then return end
+    local units = collect(player)
+    if #units == 0 then return end
+    if hud.lastPlayer ~= player.index then hud.lastSquad = nil end
+    local target = units[1]
+    if hud.lastSquad ~= nil then
+        for _, unit in ipairs(units) do
+            if unit.id > hud.lastSquad then target = unit; break end
+        end
+    end
+    hud.lastPlayer = player.index
+    hud.lastSquad = target.id
+    Misc_ClearSelection()
+    Misc_SelectSquad(target.squad, true)
+    Camera_FocusOnPosition(Squad_GetPosition(target.squad))
+end
+
+function VietnamPresentation_Update()
+    if not hud.active then return end
+    local localPlayer = localPlayerEntry()
+    local localIndex = localPlayer and localPlayer.index or nil
+    if hud.lastPlayer ~= localIndex then
+        hud.lastPlayer = localIndex
+        hud.lastSquad = nil
+    end
+    for _, player in ipairs(PLAYERS) do
+        player.scarModel = player.scarModel or {}
+        local model = player.scarModel
+        model.vietnam_hud = VietnamIndependentState.civilizations[player.index] == "vietnam"
+        model.vietnam_buffalo_count = 0
+        model.vietnam_buffalo_cap = 0
+        model.vietnam_buffalo_text = "0/0"
+        model.vietnam_buffalo_cycle = nil
+        model.vietnam_buffalo_can_cycle = false
+        if model.vietnam_hud then
+            model.vietnam_buffalo_count = #collect(player)
+            model.vietnam_buffalo_cap = VietnamPresentationData.buffaloCap
+            model.vietnam_buffalo_text = string.format("%d/%d", model.vietnam_buffalo_count, model.vietnam_buffalo_cap)
+            if localIndex == player.index and player.isHuman and Player_IsAlive(player.id) and not UI_IsReplay() then
+                model.vietnam_buffalo_cycle = hud.command
+                model.vietnam_buffalo_can_cycle = model.vietnam_buffalo_count > 0
+            end
+        end
+        UI_SetPlayerDataContext(player.id, model)
+    end
+end
+
+function VietnamPresentation_Start()
+    hud.active = true
+    if hud.command == nil then hud.command = UI_CreateCommand("VietnamPresentation_CycleBuffalo") end
+    VietnamPresentation_CreateCounter()
+    VietnamPresentation_Update()
+end
+
+function VietnamPresentation_Restore()
+    hud.command = nil
+    hud.lastPlayer = nil
+    hud.lastSquad = nil
+    if VietnamIndependentState.selection ~= nil and VietnamIndependentState.selection.closed and not VietnamIndependentState.ending then
+        VietnamPresentation_Start()
+    end
+end
+
+function VietnamPresentation_Cleanup()
+    if hud.counterCreated then UI_Remove("VietnamIndependentBuffaloCounter") end
+    hud.counterCreated = false; hud.counterContext = nil
+    hud.active = false
+    hud.command = nil
+    hud.lastPlayer = nil
+    hud.lastSquad = nil
+    for _, player in ipairs(PLAYERS) do
+        local model = player.scarModel or {}
+        model.vietnam_hud = false
+        model.vietnam_buffalo_count = 0
+        model.vietnam_buffalo_cap = 0
+        model.vietnam_buffalo_text = "0/0"
+        model.vietnam_buffalo_cycle = nil
+        model.vietnam_buffalo_can_cycle = false
+        UI_SetPlayerDataContext(player.id, model)
+    end
+end
+
+function VietnamPresentation_CreateCounter()
+    if hud.counterCreated or UI_IsReplay() then return end
+    hud.counterContext = {text="0/0", visible=false, cycle=hud.command, can_cycle=false}
+    local xaml = [[<Grid xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" HorizontalAlignment="Left"
+      VerticalAlignment="Bottom" Margin="18,0,0,258">
+      <Grid.Resources><ResourceDictionary><ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,ui/Resources/HUDResources.xaml"/>
+      </ResourceDictionary.MergedDictionaries></ResourceDictionary></Grid.Resources>
+      <Button Command="{Binding [cycle]}" IsEnabled="{Binding [can_cycle]}"
+        Visibility="{Binding [visible], Converter={StaticResource BoolToVis}}"
+        Style="{StaticResource HUDBaseButtonStyle}">
+        <Border Background="#D0222222" Padding="8,4"><StackPanel Orientation="Horizontal">
+          <Image Source="/WPFGUI;component/images/vietnam_0710/buffalo.png" Width="28" Height="28"/>
+          <TextBlock Text="{Binding [text]}" Foreground="White" Margin="6,0,0,0" VerticalAlignment="Center"/>
+        </StackPanel></Border>
+      </Button>
+    </Grid>]]
+    UI_AddChild("ScarNotReplay", "XamlPresenter", "VietnamIndependentBuffaloCounter", {
+      IsHitTestVisible=true, Xaml=xaml, DataContext=UI_CreateDataContext(hud.counterContext)})
+    hud.counterCreated=true
+end
+
+function VietnamPresentation_UpdateCounter()
+    if hud.counterContext == nil then return end
+    local player=localPlayerEntry()
+    local model=player and player.scarModel or {}
+    hud.counterContext.visible=model.vietnam_hud == true
+    hud.counterContext.text=model.vietnam_buffalo_text or "0/0"
+    hud.counterContext.cycle=hud.command
+    hud.counterContext.can_cycle=model.vietnam_buffalo_can_cycle == true
+    UI_SetDataContext("VietnamIndependentBuffaloCounter",hud.counterContext)
+end

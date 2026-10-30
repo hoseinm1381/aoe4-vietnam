@@ -1,0 +1,120 @@
+{
+  "schema": "ccp-060-mounted-material-map/1",
+  "exact_native_model": "art/civilizations/chinese/animals/chi_horse_combined_trade_age02/chi_horse_combined_trade_age02.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\additional-official-models\\trade2\\fc01cdbeb6d6c2af5cad\\decoded-static.json",
+  "donor_manifest_sha256": "62423940affe24eb9af5914e8e48b51c3f11e8d89682f5094b817068a3f6a383",
+  "native_group_count": 12,
+  "native_skeleton_bones": 127,
+  "groups": [
+    {
+      "native_material": "horse_lod1",
+      "projection_material": "AoE IV · horse_lod1 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_horse_trade_age02 · horse_lod1",
+      "role": "horse",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\mounted\\trade2\\v1\\single_atlas_0.png",
+      "texture_slot": "albedoTexture",
+      "visual_source": "native atlas selective cloth/tack tint"
+    },
+    {
+      "native_material": "horse_lod2",
+      "projection_material": "AoE IV · horse_lod2 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_horse_trade_age02 · horse_lod2",
+      "role": "horse",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\mounted\\trade2\\v1\\single_atlas_1.png",
+      "texture_slot": "albedoTexture",
+      "visual_source": "native atlas selective cloth/tack tint"
+    },
+    {
+      "native_material": "horse_lod3",
+      "projection_material": "AoE IV · horse_lod3 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_horse_trade_age02 · horse_lod3",
+      "role": "horse",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\mounted\\trade2\\v1\\single_atlas_2.png",
+      "texture_slot": "albedoTexture",
+      "visual_source": "native atlas selective cloth/tack tint"
+    },
+    {
+      "native_material": "cart_lod1",
+      "projection_material": "AoE IV · cart_lod1 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_trade_age_02 · cart_lod1",
+      "role": "trade_goods",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "visual_source": "native stock goods retained"
+    },
+    {
+      "native_material": "cart_lod2",
+      "projection_material": "AoE IV · cart_lod2 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_trade_age_02 · cart_lod2",
+      "role": "trade_goods",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "visual_source": "native stock goods retained"
+    },
+    {
+      "native_material": "cart_lod3",
+      "projection_material": "AoE IV · cart_lod3 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_trade_age_02 · cart_lod3",
+      "role": "trade_goods",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "visual_source": "native stock goods retained"
+    },
+    {
+      "native_material": "rider_chi_villager_male_age02_lod3",
+      "projection_material": "AoE IV · rider_chi_villager_male_age02_lod3 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_villager_male_age02 · rider_chi_villager_male_age02_lod3",
+      "role": "rider",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\mounted\\trade2\\v1\\single_atlas_3.png",
+      "texture_slot": "albedoTexture",
+      "visual_source": "native atlas selective cloth/tack tint"
+    },
+    {
+      "native_material": "rider_lod1",
+      "projection_material": "AoE IV · rider_lod1 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_villager_male_age02 · rider_lod1",
+      "role": "rider",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\mounted\\trade2\\v1\\single_atlas_4.png",
+      "texture_slot": "albedoTexture",
+      "visual_source": "native atlas selective cloth/tack tint"
+    },
+    {
+      "native_material": "rider_lod2",
+      "projection_material": "AoE IV · rider_lod2 · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · chi_villager_male_age02 · rider_lod2",
+      "role": "rider",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\mounted\\trade2\\v1\\single_atlas_5.png",
+      "texture_slot": "albedoTexture",
+      "visual_source": "native atlas selective cloth/tack tint"
+    },
+    {
+      "native_material": "gold",
+      "projection_material": "AoE IV · gold · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · res_gold_tradecart",
+      "role": "trade_goods",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "visual_source": "native stock goods retained"
+    },
+    {
+      "native_material": "gold",
+      "projection_material": "AoE IV · gold · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · res_gold_tradecart.001",
+      "role": "trade_goods",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "visual_source": "native stock goods retained"
+    },
+    {
+      "native_material": "gold",
+      "projection_material": "AoE IV · gold · e1ebb6fb",
+      "native_group": "chi_horse_combined_trade_age02 · res_gold_tradecart.002",
+      "role": "trade_goods",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "visual_source": "native stock goods retained"
+    }
+  ],
+  "geometry_route": "editable skinned source only; native multi-group FBX/cook unqualified",
+  "stock_weapon_and_mount_motion": "unchanged"
+}

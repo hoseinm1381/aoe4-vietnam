@@ -1,0 +1,95 @@
+{
+  "official_donor": "Chinese",
+  "positions": [
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+      "before": [
+        -2.0,
+        -8.0
+      ],
+      "after": [
+        -2.200000047683716,
+        0.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+      "before": [
+        -1.0,
+        -8.0
+      ],
+      "after": [
+        -3.299999952316284,
+        -2.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+      "before": [
+        0.0,
+        -8.0
+      ],
+      "after": [
+        -1.0,
+        -2.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+      "before": [
+        1.0,
+        -8.0
+      ],
+      "after": [
+        -2.0,
+        -4.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+      "before": [
+        2.0,
+        -8.0
+      ],
+      "after": [
+        0.0,
+        -4.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_villager_1_chi",
+      "before": [
+        3.0,
+        -8.0
+      ],
+      "after": [
+        -1.0,
+        -6.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_scout_1_chi",
+      "before": [
+        6.0,
+        -8.0
+      ],
+      "after": [
+        -4.0,
+        10.0
+      ]
+    },
+    {
+      "squad": "813ebcc27f314db9aa5863aeba21c2cc:vn_unit_water_buffalo_vit",
+      "before": [
+        -1.0,
+        -12.0
+      ],
+      "after": [
+        -1.0,
+        -12.0
+      ]
+    }
+  ],
+  "scope": "Only scout and worker offsets. Counts, blueprints, resources, caps and optional extra Buffalo/sheep stay unchanged.",
+  "native_retest": "pending"
+}

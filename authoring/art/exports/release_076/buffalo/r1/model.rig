@@ -1,0 +1,53 @@
+[HAVOK SKELETON DEFINITION FILE]
+
+[BONES START]
+root_m
+tsmg_root
+backhip_l
+backknee_l
+backankle_l
+backtoes3_l
+backtoes4_l
+tail0_m
+tail1_m
+tail2_m
+tail3_m
+tail4_m
+spine1_m
+chest_m
+frontrump_l
+fronthip_l
+frontknee_l
+frontankle_l
+fronttoes_l
+fronttoesend_l
+neck_m
+neck1_m
+head_m
+ear_l
+ear1_l
+earend_l
+jaw_m
+jawend_m
+ear_r
+ear1_r
+earend_r
+headend_m
+bell_m
+bellend_m
+frontrump_r
+fronthip_r
+frontknee_r
+frontankle_r
+fronttoes_r
+fronttoesend_r
+backhip_r
+backknee_r
+backankle_r
+backtoes3_r
+backtoes4_r
+[END]
+
+[PARTITION START]
+fullbody_lod3 root_m backtoes4_r
+[END]

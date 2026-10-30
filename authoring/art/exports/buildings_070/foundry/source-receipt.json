@@ -1,0 +1,157 @@
+{
+  "schema": "ccp-070-detail-export-receipt/v1",
+  "kind": "foundry",
+  "input_collection": "CCP070_Trung_Foundries_Detailed_r3",
+  "fbx_model_nodes": [
+    "garrison_part_0000",
+    "garrison_part_0001",
+    "garrison_part_0002",
+    "garrison_part_0003",
+    "garrison_part_0004",
+    "garrison_part_0005",
+    "garrison_part_0006"
+  ],
+  "healthy_triangles": 19784,
+  "per_part_triangles": {
+    "0": 636,
+    "1": 1944,
+    "2": 544,
+    "3": 288,
+    "4": 15268,
+    "5": 1164,
+    "6": 772
+  },
+  "selector_parts": {
+    "healthy": [
+      0,
+      1,
+      4,
+      5,
+      6
+    ],
+    "heavy_damage": [
+      0,
+      3
+    ],
+    "ruins": [
+      2
+    ]
+  },
+  "fit": {
+    "xy_scale": 1,
+    "z_scale": 1,
+    "shift": [
+      0,
+      -0.48,
+      0.23
+    ]
+  },
+  "per_part_export_bounds": {
+    "0000": {
+      "min": [
+        -10.199999809265137,
+        -10.079999923706055,
+        -0.17000000178813934
+      ],
+      "max": [
+        10.100000381469727,
+        10.320000648498535,
+        0.5400000214576721
+      ]
+    },
+    "0001": {
+      "min": [
+        -10.199999809265137,
+        -1.632169246673584,
+        0.23000000417232513
+      ],
+      "max": [
+        9.850000381469727,
+        10.319999694824219,
+        4.224999904632568
+      ]
+    },
+    "0002": {
+      "min": [
+        -10.199999809265137,
+        -10.079999923706055,
+        -0.17000000178813934
+      ],
+      "max": [
+        10.100000381469727,
+        10.320000648498535,
+        1.7100000381469727
+      ]
+    },
+    "0003": {
+      "min": [
+        -9.699999809265137,
+        -10.079999923706055,
+        0.23000000417232513
+      ],
+      "max": [
+        9.800000190734863,
+        7.622169017791748,
+        4.269999980926514
+      ]
+    },
+    "0004": {
+      "min": [
+        -10.199999809265137,
+        -2.2800002098083496,
+        2.759999990463257
+      ],
+      "max": [
+        10.100000381469727,
+        7.970000743865967,
+        5.710000038146973
+      ]
+    },
+    "0005": {
+      "min": [
+        -8.844917297363281,
+        -8.303919792175293,
+        0.23000000417232513
+      ],
+      "max": [
+        9.399999618530273,
+        6.190000057220459,
+        4.380000114440918
+      ]
+    },
+    "0006": {
+      "min": [
+        1.9559999704360962,
+        -8.97499942779541,
+        0.1899999976158142
+      ],
+      "max": [
+        9.050000190734863,
+        -2.802000045776367,
+        1.340221881866455
+      ]
+    }
+  },
+  "university_stock_body_preserved_outside_export": false,
+  "roof_seating_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\foundry-r2-roof-seated.json",
+    "sha256": "99a4874e09a67a4b672541469c4b417ea62fbf9fcbc8790883dfd5a9b0809e88",
+    "tiles_seated": 700,
+    "unseated": 0,
+    "applies_to": "CCP070_Trung_Foundries_Detailed_r2"
+  },
+  "terrain_clearance_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\foundry-r3-terrain-base.json",
+    "sha256": "f5ce70f8fdfea4b8fbd67f122f52b73fe71e0e16f95d0c8fb88ed58d0fb5b14c",
+    "recess_world_z": 0.010000000000000009
+  },
+  "native_stamp_transform_baked": false,
+  "files_sha256": {
+    "model.fbx": "b9bdacb3c3e983950b32bd43fb0e0fa788bf248169412f010c2e3150fa752123",
+    "building.json": "c384a816e3311c87d5df851cf7ff5e29f555f11d9b8b870c4c317b81103c31e8",
+    "albedo.png": "ab431b560aa0a58b005cdd42ff7c8c3f05b9ff7fd66131a9904692264c901f26",
+    "normal.png": "32a00a94b44ddbd821f8e0a4061e0c8f14d27858161d3a4887b29b99ac2f02a8",
+    "roughness.png": "ac4d30e21fd72e9fc9e982b0172219f741eaa625734c3709b4f18dfc23b86b09",
+    "metalness.png": "9920d392cf8204022fd6f68c48b88cc55755f54f477d050f8d51d8417660840b"
+  }
+}

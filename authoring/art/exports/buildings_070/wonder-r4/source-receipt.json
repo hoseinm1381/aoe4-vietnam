@@ -1,0 +1,158 @@
+{
+  "schema": "ccp-070-detail-export-receipt/v1",
+  "kind": "wonder",
+  "input_collection": "CCP070_Kinh_Thien_Detailed_r4",
+  "fbx_model_nodes": [
+    "garrison_part_0000",
+    "garrison_part_0001",
+    "garrison_part_0002",
+    "garrison_part_0003",
+    "garrison_part_0004",
+    "garrison_part_0005",
+    "garrison_part_0006"
+  ],
+  "healthy_triangles": 54728,
+  "per_part_triangles": {
+    "0": 1296,
+    "1": 2440,
+    "2": 580,
+    "3": 768,
+    "4": 24312,
+    "5": 25276,
+    "6": 1404
+  },
+  "selector_parts": {
+    "healthy": [
+      0,
+      1,
+      4,
+      5,
+      6
+    ],
+    "heavy_damage": [
+      0,
+      3
+    ],
+    "ruins": [
+      2
+    ]
+  },
+  "fit": {
+    "xy_scale": 0.5355342741935484,
+    "z_scale": 0.5355342741935484,
+    "shift": [
+      0.015625,
+      -1.137600806451613,
+      0
+    ]
+  },
+  "per_part_export_bounds": {
+    "0000": {
+      "min": [
+        -5.62890625,
+        -6.846395969390869,
+        0.0
+      ],
+      "max": [
+        5.66015625,
+        2.975302219390869,
+        0.7283266186714172
+      ]
+    },
+    "0001": {
+      "min": [
+        -3.5266809463500977,
+        -1.935546875,
+        0.6426411271095276
+      ],
+      "max": [
+        3.5579309463500977,
+        2.016695976257324,
+        3.7701611518859863
+      ]
+    },
+    "0002": {
+      "min": [
+        -5.607484817504883,
+        -6.84104061126709,
+        0.0
+      ],
+      "max": [
+        5.638734817504883,
+        2.9592363834381104,
+        0.8675655126571655
+      ]
+    },
+    "0003": {
+      "min": [
+        -5.607484817504883,
+        -6.84104061126709,
+        0.0
+      ],
+      "max": [
+        5.638734817504883,
+        2.9592363834381104,
+        2.527721643447876
+      ]
+    },
+    "0004": {
+      "min": [
+        -5.473601341247559,
+        -4.806010723114014,
+        1.9172126054763794
+      ],
+      "max": [
+        5.504851341247559,
+        2.1291584968566895,
+        4.439579010009766
+      ]
+    },
+    "0005": {
+      "min": [
+        -5.289085388183594,
+        -6.819075584411621,
+        0.06939071416854858
+      ],
+      "max": [
+        5.320335388183594,
+        1.947076678276062,
+        4.7876763343811035
+      ]
+    },
+    "0006": {
+      "min": [
+        -5.20583438873291,
+        -4.551631927490234,
+        0.6399635076522827
+      ],
+      "max": [
+        5.23708438873291,
+        1.9256551265716553,
+        2.0484185218811035
+      ]
+    }
+  },
+  "university_stock_body_preserved_outside_export": false,
+  "university_final_proof": null,
+  "wonder_repartition_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\wonder-r4-repartition.json",
+    "sha256": "8e81e4703698e23448ccbf6cd2927b141225ff98d7e867c9c278e63d092328d7"
+  },
+  "roof_seating_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\wonder-r3-roof-seated.json",
+    "sha256": "bcb98ba131e68ff2af127bb0b090b26af1a7ec81a9a8775c9ec4c462a1fe9c4c",
+    "tiles_seated": 2028,
+    "unseated": 0,
+    "applies_to": "CCP070_Kinh_Thien_Detailed_r3"
+  },
+  "terrain_clearance_proof": null,
+  "native_stamp_transform_baked": false,
+  "files_sha256": {
+    "model.fbx": "4dd9868393324d6e63c58c14fc7ef7840698afbf8c62d61e50260f3bbbdffe98",
+    "building.json": "a4e9939666fe7684c3b23f3c178384f156cfddd491f5b3c6f5f8cb68931dfe24",
+    "albedo.png": "e8df8f966d27fb3067d00a2ef4a0ddd0ed20674d922bb58f3b333edac13d1570",
+    "normal.png": "a6ce5167dd099b536bd75e84fbcce9e49db09f6ceb44416ad204c23ad1a11718",
+    "roughness.png": "c2d16d69841befee796a2194da02e8a56c750caf0c6a22d0744f3cc6e5cd943b",
+    "metalness.png": "9920d392cf8204022fd6f68c48b88cc55755f54f477d050f8d51d8417660840b"
+  }
+}

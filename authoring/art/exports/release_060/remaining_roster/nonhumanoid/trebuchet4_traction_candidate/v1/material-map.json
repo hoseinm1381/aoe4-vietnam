@@ -1,0 +1,120 @@
+{
+  "schema": "ccp-060-nonhumanoid-compatible-material-map/1",
+  "exact_donor_model": "art/civilizations/english/team_weapons/eng_trebuchet_traction/eng_trebuchet_traction.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\inherited-render-bodies-v2\\run-003\\decodes\\english-traction-trebuchet-exact\\a6ceb4042c0034dfe45a\\decoded-static.json",
+  "donor_manifest_sha256": "985a6fe9647a4ce3620fa8446777d1d173dda4893b9f23822bf57528dbb940d2",
+  "donor_status": "candidate_only",
+  "native_group_count": 9,
+  "groups": [
+    {
+      "group_index": 0,
+      "native_group": "geo_projectile",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_projectile · page",
+      "preview_visible": true
+    },
+    {
+      "group_index": 1,
+      "native_group": "geo_projectile",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_projectile · page.001",
+      "preview_visible": true
+    },
+    {
+      "group_index": 2,
+      "native_group": "geo_projectile",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_projectile · page.002",
+      "preview_visible": true
+    },
+    {
+      "group_index": 3,
+      "native_group": "geo_trebuchet",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_trebuchet · page",
+      "preview_visible": true
+    },
+    {
+      "group_index": 4,
+      "native_group": "geo_trebuchet",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_trebuchet · page.001",
+      "preview_visible": true
+    },
+    {
+      "group_index": 5,
+      "native_group": "geo_trebuchet",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_trebuchet · page.002",
+      "preview_visible": true
+    },
+    {
+      "group_index": 6,
+      "native_group": "geo_rope",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_rope · page",
+      "preview_visible": true
+    },
+    {
+      "group_index": 7,
+      "native_group": "geo_rope",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_rope · page.001",
+      "preview_visible": true
+    },
+    {
+      "group_index": 8,
+      "native_group": "geo_rope",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\trebuchet4_traction_candidate\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_trebuchet_traction · geo_rope · page.002",
+      "preview_visible": true
+    }
+  ],
+  "geometry_route": "exact stock geometry + per-material atlas only",
+  "equipment_animations_and_crews": "native unchanged; no attachment override"
+}

@@ -1,0 +1,151 @@
+{
+  "schema": "ccp-070-detail-export-receipt/v1",
+  "kind": "university",
+  "input_collection": "CCP070_University_Detailed_Overlay_r6",
+  "fbx_model_nodes": [
+    "garrison_part_0000",
+    "garrison_part_0001",
+    "garrison_part_0002",
+    "garrison_part_0003",
+    "garrison_part_0004",
+    "garrison_part_0005",
+    "garrison_part_0006"
+  ],
+  "healthy_triangles": 4996,
+  "per_part_triangles": {
+    "0": 732,
+    "1": 500,
+    "2": 360,
+    "3": 344,
+    "4": 2088,
+    "5": 1280,
+    "6": 396
+  },
+  "selector_parts": {
+    "healthy": [
+      0,
+      1,
+      4,
+      5,
+      6
+    ],
+    "heavy_damage": [
+      0,
+      3
+    ],
+    "ruins": [
+      2
+    ]
+  },
+  "fit": {
+    "xy_scale": 1,
+    "z_scale": 1,
+    "shift": [
+      -2.338015973567963,
+      3.7076730728149423,
+      0
+    ]
+  },
+  "per_part_export_bounds": {
+    "0000": {
+      "min": [
+        -2.17301607131958,
+        -2.0923261642456055,
+        0.0
+      ],
+      "max": [
+        3.571983814239502,
+        2.3326730728149414,
+        0.39500001072883606
+      ]
+    },
+    "0001": {
+      "min": [
+        -2.0035712718963623,
+        -1.8673267364501953,
+        0.1599999964237213
+      ],
+      "max": [
+        3.3275394439697266,
+        -1.3173270225524902,
+        2.9231479167938232
+      ]
+    },
+    "0002": {
+      "min": [
+        -2.0130159854888916,
+        -2.0323266983032227,
+        0.0
+      ],
+      "max": [
+        3.336984157562256,
+        2.2576730251312256,
+        1.059999942779541
+      ]
+    },
+    "0003": {
+      "min": [
+        -2.0130159854888916,
+        -1.9423270225524902,
+        0.0
+      ],
+      "max": [
+        3.336984157562256,
+        2.2576730251312256,
+        2.450000047683716
+      ]
+    },
+    "0004": {
+      "min": [
+        -2.188016414642334,
+        -2.4923276901245117,
+        2.680000066757202
+      ],
+      "max": [
+        3.511984348297119,
+        -0.692326545715332,
+        3.770073413848877
+      ]
+    },
+    "0005": {
+      "min": [
+        -1.7130160331726074,
+        0.1550145149230957,
+        0.07999999821186066
+      ],
+      "max": [
+        3.0369839668273926,
+        2.1976728439331055,
+        2.2100000381469727
+      ]
+    },
+    "0006": {
+      "min": [
+        -1.918015956878662,
+        -0.9723267555236816,
+        0.20999999344348907
+      ],
+      "max": [
+        3.141983985900879,
+        2.1576731204986572,
+        0.9599999785423279
+      ]
+    }
+  },
+  "university_stock_body_preserved_outside_export": true,
+  "university_final_proof": {
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_070\\art\\detail\\university-r6-independent-verify.json",
+    "sha256": "e1295d664830186e04726ba00310275bb07f92069aced0669034044b5c81902d"
+  },
+  "roof_seating_proof": null,
+  "terrain_clearance_proof": null,
+  "native_stamp_transform_baked": false,
+  "files_sha256": {
+    "model.fbx": "a2e88252e26892dba6cd9214ee21d8b81a7fa11f6f91d469c8c27672c449c6a7",
+    "building.json": "654752d48a1c7969c1f9e4f8a3a9b42e097b6a2728baa3ca65f3377cd7ac3b6b",
+    "albedo.png": "9d9a85e6cb5e93c18f647d4a02befa5bf9ad5ee189268fb381d51c39b9b46962",
+    "normal.png": "36b52ebcc82c89cfcfa3a865b7207e1fd11dc75ca6d6bc5ef83e1c0dd56dfa32",
+    "roughness.png": "70ba927293822deb141873a5f746f7cedbb4f9ba69b106645b6ea06918639f88",
+    "metalness.png": "9920d392cf8204022fd6f68c48b88cc55755f54f477d050f8d51d8417660840b"
+  }
+}

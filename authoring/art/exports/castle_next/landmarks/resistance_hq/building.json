@@ -1,0 +1,41 @@
+{
+  "schema": "garrison.building-source/v1",
+  "profile": "english-house",
+  "parts": [
+    {
+      "name": "garrison_part_0000",
+      "first_stage": 0
+    },
+    {
+      "name": "garrison_part_0001",
+      "first_stage": 20
+    },
+    {
+      "name": "garrison_part_0002",
+      "first_stage": 0
+    },
+    {
+      "name": "garrison_part_0003",
+      "first_stage": 80
+    },
+    {
+      "name": "garrison_part_0004",
+      "first_stage": 20
+    },
+    {
+      "name": "garrison_part_0005",
+      "first_stage": 20
+    },
+    {
+      "name": "garrison_part_0006",
+      "first_stage": 20
+    }
+  ],
+  "material_name": "Castle_resistance_hq_PBR_atlas",
+  "textures": {
+    "albedo": "albedo.png",
+    "normal": "normal.png",
+    "roughness": "roughness.png",
+    "metalness": "metalness.png"
+  }
+}
