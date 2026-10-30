@@ -1,0 +1,26 @@
+{
+  "source": "implemented accepted civilization mechanics; qualitative overview, no balance edits",
+  "overview": {
+    "tagline": "Buffalo Husbandry, Tunnels, Defensive Landmarks",
+    "rows": [
+      [
+        "Buffalo Husbandry",
+        "Work rice paddies with Buffalo and expand the herd through Pagodas."
+      ],
+      [
+        "Resistance Network",
+        "Travel between tunnel buildings and use villager camouflage near the Resistance Headquarters."
+      ],
+      [
+        "Layered Defences",
+        "Bamboo outposts, traps and specialized landmarks support defensive play."
+      ],
+      [
+        "Vietnamese Armies",
+        "Combine Vietnamese infantry, ranged units, elephants and siege weapons."
+      ]
+    ]
+  },
+  "traits_0": "summary hidden by native overview; visible rows start at 1",
+  "native_visual_test": "pending"
+}

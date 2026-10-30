@@ -1,0 +1,130 @@
+{
+  "vietnam/buffalo.scar": {
+    "sha256": "87b3f3f6b5bc2b6b91eaafded822161d375e0892e81f35a0261aa1ed63fa04ed",
+    "original_sha256": "87b3f3f6b5bc2b6b91eaafded822161d375e0892e81f35a0261aa1ed63fa04ed"
+  },
+  "vietnam/dynasty.scar": {
+    "sha256": "97c4e9ec26880b3189cbe0f059662d23f6525bd8071687981cefa640d70aecf9",
+    "original_sha256": "97c4e9ec26880b3189cbe0f059662d23f6525bd8071687981cefa640d70aecf9"
+  },
+  "vietnam/lifecycle.scar": {
+    "sha256": "1dfe6d560e2491c14be4d760c4652348100e9b998e7241e31ed34668fd7c8009",
+    "original_sha256": "1b967194ee4cdc603bd3436f2d22d253b606e976ea9a1c69d00f78a0e14039c8"
+  },
+  "vietnam/paddy_construction.scar": {
+    "sha256": "b574772b39852822c2843409b0198607e99d2d244c5a22a102ae55b66636ddbd",
+    "original_sha256": "2aace8b1697de3d39b26180e32f6513b2827f90b533f096349ac0fa951c4c2f8"
+  },
+  "vietnam/siege_research.scar": {
+    "sha256": "d01a15e71972976d84a4ce6bbf4c2174980d2961b34c01deeb53e4563ee12113",
+    "original_sha256": "fafbc3f679cfcbb89f4fd8b70ae27178cc0d9e9918e10b97a45e0f02d544106b"
+  },
+  "vietnam/traps.scar": {
+    "sha256": "53d79b35c2bcc53fc814ff2f70d9abfe553658c59b6c183fcb237403039067fa",
+    "original_sha256": "53d79b35c2bcc53fc814ff2f70d9abfe553658c59b6c183fcb237403039067fa"
+  },
+  "vietnam/tunnel_core.scar": {
+    "sha256": "e43467bc5faa63a6959525d0ebc6e9bec60fe346ad30c11fd18b24d89810563a",
+    "original_sha256": "3499e866df86722102d57e8416e1ee3d0eadd6214593c6df66ba0f3f8175c5d6"
+  },
+  "vietnam/tunnel_target_buildings.scar": {
+    "sha256": "6c74f12574c0afaa67d6849d8e1c3ed6e694251f938c02c642eda8d07d056fec",
+    "original_sha256": "ca0750e494d90e0c861f89bff0b98c2883619fee73412a3eeb6e305095af09e9"
+  },
+  "vietnam/blueprints.scar": {
+    "sha256": "465adf7baadfba4d0b00885ed97c4a69f20302c24721a96c001b63210e3e945d",
+    "original_sha256": "fb4f36b5874c5bf1e76d4f637485c88a057852b341e376d6bc2879dfbd23748f"
+  },
+  "vietnam/empty_gardens.scar": {
+    "sha256": "02918c0aee3832e9b746e4ce59d524c1eae676a2f84f0f3cae3f78aff11c5c80",
+    "original_sha256": "0cee23b48eb5abf28acab029a0b06d83c0db175d363a341b4844714abfdcefe7"
+  },
+  "vietnam/flooded_citadel.scar": {
+    "sha256": "f010cfd5f540a083f9fc3023b87fb3257a79ba578572450dadf5e3b0584d8af0",
+    "original_sha256": "64fab76b45554ee28b6d9dfa314130bd19e0194e9b68dc95edee34a5d1a9222f"
+  },
+  "vietnam/foundries_discount.scar": {
+    "sha256": "d56648acc6f3452dd974a75b581edca7ec2d9c14cc9fe8707cd8b0445630aa37",
+    "original_sha256": "5978ce890bd4a461ebe60af368b528927e454093f099eac1affb0994dee7ddf1"
+  },
+  "vietnam/garden.scar": {
+    "sha256": "14f1e7775612c6bad057acd6591f0e3cccc7561c499ffbd7be3894fc6d49fd59",
+    "original_sha256": "06f99054d09421f706dca3d8d0495b4f5fd2ee7873eadb89411aaab9b868b2dd"
+  },
+  "vietnam/hideouts.scar": {
+    "sha256": "6527621351b1b739ef6e46c298b78f4f0d0e56d320b7ca0fbca9f8f9b5d8f257",
+    "original_sha256": "fdfaa3524a606fefe61b5078af333a7d70c1c9d60cb0d3d5160ed31526c2515e"
+  },
+  "vietnam/landmarks.scar": {
+    "sha256": "b7a04f07709f66120cc7e9c4f276d5635219cd0f9bc0cd0c0e8991aa0f0c2ff6",
+    "original_sha256": "6aa98af048a7db8608c0d5daa24217e8ce63b4e79609efeddb3f66dbf5d84f64"
+  },
+  "vietnam/paddy_food.scar": {
+    "sha256": "b3f65722fcbc7b2839b0487874183666ba1511398f376cc269226219df4cba53",
+    "original_sha256": "18d785b65974f5057a6a97cc6f3484cf462d3c8ccc9afa7a7b2b5d65b4ed822f"
+  },
+  "vietnam/paddy_wood.scar": {
+    "sha256": "97f95628f50d4fa358672d48101993303fdc77c5735d839b53ca452f426055a1",
+    "original_sha256": "1708c92eaea18d8a90b3fcf31db3decee3858c52d4a9bd73ad7a19f0b1c7edcc"
+  },
+  "vietnam/pagoda_buffalo.scar": {
+    "sha256": "2f8ea3d701b8012e9977963bd275f0031162bcf6b44c73f5f189469dc0da64c8",
+    "original_sha256": "4bbd6d6d71e50802462c8a6d782b4211be2c926db08fc72f7de88e1fb2523a59"
+  },
+  "vietnam/presentation.scar": {
+    "sha256": "f2988ab59b2e4a479beefd8d768092c0cc3a664cf3ae72800ba501037418608c",
+    "original_sha256": "46ab6d382b6ab8841a8a049c71c40a1fc5a10ddf116650341c85ce871e112022"
+  },
+  "vietnam/presentation_badges.scar": {
+    "sha256": "f78cc51cb2341937d5309bcf6e150b9d14a0716b14ec9caeb683f06a75cf484d",
+    "original_sha256": "824d2b46571f9a373ceb2e1941ea7c88ad91e145db5072ab18cfa48e1de95ef3"
+  },
+  "vietnam/presentation_data.scar": {
+    "sha256": "bc6651fda94d3d6cff0daf7e66f729bfaa6328852095cf70d1af554123576ada",
+    "original_sha256": "b69bc9f9bf0030d65d50e0fd149b4ce6c2a57def0dca112fa100c6ef246cd5f2"
+  },
+  "vietnam/rattan_armor.scar": {
+    "sha256": "4837306db87ee31962147776d6a8fa85f437de07f2832bc6ba2e25ef45b9d7f2",
+    "original_sha256": "b9ecd56658acc757d70504b744eb70894d510a4463fdd28c2a104b707c8c8506"
+  },
+  "vietnam/scorched_earth.scar": {
+    "sha256": "c033d9401561a0fc553c4628c7eac5d1f61b779462d9cabdfcc34b05407899f4",
+    "original_sha256": "02fbaad4824633041660933aa425d72ae65398c6b96e0de576741394422e5791"
+  },
+  "vietnam/tower_training.scar": {
+    "sha256": "34c0d64499f830b6f71c5de560976ff55ee8b5a93705e84015142307a7077ef6",
+    "original_sha256": "5b2ccec31310cb31d8e5663045aaaed70ce22e1bf7e88ddb8779a3511143ace1"
+  },
+  "vietnam/tunnel_ability_squads.scar": {
+    "sha256": "1378b4c554819454f27969d0022621e4bafc925a83f590b8c59266f45da15fb8",
+    "original_sha256": "31ff25b502c29d3662f29c0b3edf1e700c4ca84aaaab38e7a71b4e809bc184df"
+  },
+  "vietnam/tunnel_buildings.scar": {
+    "sha256": "db021916399e1492263e45b8e164ec866554cf356d8a1234fcba469045b1e8b7",
+    "original_sha256": "db021916399e1492263e45b8e164ec866554cf356d8a1234fcba469045b1e8b7"
+  },
+  "vietnam/tunnels.scar": {
+    "sha256": "699f284395bbd6853a205f320202b6b6ab47890f01eab08884376952f2f0f5b6",
+    "original_sha256": "4734fa3508821f034476bfc8c49cd47fb4d01bd7e14e9343bed96f22c3919a4a"
+  },
+  "vietnam/voice_bank_084.scar": {
+    "sha256": "af482886c8ecbb4d71cf63b6f29323e5f49e7be4ddbd9ec51a6597e82f05ac32",
+    "original_sha256": "db573c9025cf2a61adcb31b9eef3c94a94e9012ea7aeea6221383df24341b109"
+  },
+  "vietnam/voices_084.scar": {
+    "sha256": "f117ae57351aa501a197cf05c9b80f5cba269b4eed3d84ff3584e33ab1791490",
+    "original_sha256": "faab8a358e7437af41507038aeeed3c5c8fd0c78e87d011fd426500057ac270b"
+  },
+  "garrison/garrison.scar": {
+    "sha256": "ef8a9db8f4224048cf33f481b98e65e57b6f2c9d9589a9b253d9183151640860",
+    "original_sha256": "4185fbd4323ebb436aab73e756668d53d44f34d19d4e17a72b71924932cc0821"
+  },
+  "vietnam/initialization.scar": {
+    "sha256": "5c19ea37ed9e760c3be651f678b4ea4afa91b8cb1bb9410813af2981efdf679f",
+    "original_sha256": "2d55afadb232339002326a5dffeee28a543cd1d5379b7b2f1a6ae464c12e5e71"
+  },
+  "garrison/vietnam/dispatcher.scar": {
+    "sha256": "875b2b16db43184559e22ead094527ee7dd57638c9ecbc42417995fee86b8ba2",
+    "original_sha256": null
+  }
+}

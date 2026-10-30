@@ -1,0 +1,26 @@
+{
+  "owner": "813ebcc2-7f31-4db9-aa58-63aeba21c2cc",
+  "version": "0.1.2",
+  "archive_sha256": "57127870f57814c5690693e0de2bf03398505683ad3ba59d8b1c02b4aadcff87",
+  "tables": 419,
+  "members": 11808,
+  "header_and_declaration_owner_agree": true,
+  "declaration_digests_verified": true,
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "source_tests": 18,
+  "static_validator": "passed",
+  "native_test": "pending",
+  "native_route": "Supported Garrison civilization validate/build; final ordinary-producer header correction via supported replace-member when needed, with complete final archive extraction/hash verification. No new world-art cook.",
+  "changed_members": [
+    "attrib/army/garrison/vietnam/vietnam_standard.rgd",
+    "attrib/codex/garrison/vietnam/vietnam_codex.rgd",
+    "attrib/racebps/vietnam.rgd",
+    "en/en.ucs",
+    "garrison/civilizations.json"
+  ],
+  "added_members_count": 0,
+  "removed_members_count": 0,
+  "native_input_manifest_sha256": "7c0dd47b3be15fb31cf9b91bea531a253518876dc930043ba958106244837861",
+  "editable_master_index_sha256": "8dbc897a75936e25e7efcb82081a7bcde9fecc9df50a16f2780c26ddf99ad514"
+}

@@ -1,0 +1,20 @@
+{
+  "race": "vietnam",
+  "version": "0.1.0-trial.1",
+  "owner": "813ebcc2-7f31-4db9-aa58-63aeba21c2cc",
+  "source_fingerprint": "32affa5d14f33001f03985c89507f074cd561ff4ef79177649f6ea3afb7a68f3",
+  "tables": 419,
+  "members": 11799,
+  "archive_bytes": 338256481,
+  "archive_sha256": "aa835e2840f9a9424c1274e1ba49e19d31b87ea926cd321eb1ab535a14b4cdac",
+  "zip_name": "Vietnam-Garrison-0.1.0-trial.1.zip",
+  "zip_bytes": 220787119,
+  "zip_sha256": "fa6150504b56c4db1752778f591fe63c42a69cfbfc17aa9a9dcc0107f86acc07",
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "zip_crc": true,
+  "preserved_native_media_members": 11319,
+  "native_game_test": "pending",
+  "multiplayer_save_ai_performance": "not qualified",
+  "publication": "not performed"
+}

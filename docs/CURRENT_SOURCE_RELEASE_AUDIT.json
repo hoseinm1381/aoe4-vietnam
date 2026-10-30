@@ -1,0 +1,13 @@
+{
+  "version": "0.1.2",
+  "current_editable_tables_match_final_native_sha256": 419,
+  "codex_regeneration_byte_identical": true,
+  "native_manifest_rows_match_final_archive": 11355,
+  "native_input_inventory_exact": true,
+  "locale_and_nonpromoted_scar_source_match_final_archive": true,
+  "stable_owner_race_bundle_dispatcher_shared_entities": true,
+  "player_zip_sha256": "24de2335c0d6e9b25846e992c42488ed3e9b816a43f81a6d6755e1db4d00ebcd",
+  "master_index_unchanged_since_full_build_verification": true,
+  "native_game_test": "pending",
+  "source_rebuild": "Current full builder consumes these source tables and retained exact native inputs; historical authoring paths are not used for this package rebuild."
+}

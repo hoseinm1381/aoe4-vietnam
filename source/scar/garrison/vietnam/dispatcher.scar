@@ -1,0 +1,81 @@
+import("cardinal.scar")
+Core_RegisterModule("VietnamIndependent")
+import("vietnam/blueprints.scar")
+import("vietnam/initialization.scar")
+import("vietnam/tunnel_core.scar")
+import("vietnam/tunnel_buildings.scar")
+import("vietnam/tunnels.scar")
+import("vietnam/garden.scar")
+import("vietnam/landmarks.scar")
+import("vietnam/hideouts.scar")
+import("vietnam/tower_training.scar")
+import("vietnam/rattan_armor.scar")
+import("vietnam/scorched_earth.scar")
+import("vietnam/foundries_discount.scar")
+import("vietnam/empty_gardens.scar")
+import("vietnam/siege_research.scar")
+import("vietnam/flooded_citadel.scar")
+import("vietnam/dynasty.scar")
+import("vietnam/traps.scar")
+import("vietnam/paddy_food.scar")
+import("vietnam/paddy_construction.scar")
+import("vietnam/paddy_wood.scar")
+import("vietnam/pagoda_buffalo.scar")
+import("vietnam/lifecycle.scar")
+import("vietnam/presentation.scar")
+import("vietnam/voices_084.scar")
+
+VietnamIndependentState={started=false,active=false,ending=false,civilizations={},selection={closed=true}}
+local state=VietnamIndependentState
+function VietnamIndependent_OnGameSetup()
+    state.started=false;state.active=false;state.ending=false;state.civilizations={};state.selection={closed=true}
+    VietnamInitializationState.applied={}
+end
+function VietnamIndependent_OnInit()
+    -- Standard remains the owner of victory conditions and starting armies.
+end
+function VietnamIndependent_Start()
+    if state.started or state.ending then return end
+    state.started=true
+    for _,player in ipairs(PLAYERS) do
+        if player.isHuman and Player_GetRaceName(player.id)=="813ebcc27f314db9aa5863aeba21c2cc:vietnam" then
+            local accepted,reason=VietnamInitialization_Apply(player)
+            if accepted then state.civilizations[player.index]="vietnam"
+            else print("VIETNAM_INDEPENDENT_START_REJECT "..tostring(reason)) end
+        end
+    end
+    if next(state.civilizations)==nil then return end
+    state.active=true
+    VietnamLifecycle_Start(state.civilizations)
+    VietnamPresentation_Start()
+    VietnamVoice_Start(state.civilizations)
+    Rule_AddInterval(VietnamIndependent_UpdateUI,0.5)
+end
+function VietnamIndependent_UpdateUI()
+    if state.ending then return end
+    VietnamPresentation_Update()
+    VietnamPresentation_UpdateCounter()
+end
+
+function VietnamIndependent_OnGameRestore()
+    if not state.active then return end
+    VietnamPaddyWood_RestoreUI()
+    VietnamPresentation_Restore()
+    VietnamVoice_Stop()
+    if state.started and not state.ending then VietnamVoice_Start(state.civilizations) end
+    -- Retained restore hooks do not establish save/load acceptance.
+end
+function VietnamIndependent_OnGameOver()
+    if state.ending then return end
+    state.ending=true
+    if state.active then
+    VietnamLifecycle_Cleanup()
+    Rule_Remove(VietnamIndependent_UpdateUI)
+    VietnamVoice_Stop()
+    VietnamPresentation_Cleanup()
+    end
+    state.active=false
+    state.started=false
+    state.civilizations={}
+    VietnamInitializationState.applied={}
+end

@@ -1,0 +1,89 @@
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\buffalo.scar
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\dynasty.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\lifecycle.scar
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\paddy_construction.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\siege_research.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\traps.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\tunnel_core.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\tunnel_target_buildings.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\blueprints.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\empty_gardens.scar
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\flooded_citadel.scar
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\foundries_discount.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\garden.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\hideouts.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\landmarks.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\paddy_food.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\paddy_wood.scar
+  WARNING sgroup-lifetime:302: Temporary squad group `squads` from `Player_GetSquads` is not visibly destroyed.
+  WARNING unknown-call:278: Call `Rule_RemoveSquadEvent` is absent from official API/source evidence and local definitions.
+  Summary: 0 error(s), 2 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\pagoda_buffalo.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\presentation.scar
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\presentation_badges.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\presentation_data.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\rattan_armor.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\scorched_earth.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\tower_training.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\tunnel_ability_squads.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\tunnel_buildings.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\tunnels.scar
+  WARNING cleanup-unproven:380: `Rule_AddSquadEvent` registers `request.callback`, but matching removal was not found in this file.
+  WARNING sgroup-lifetime:267: Temporary squad group `group` from `Player_GetSquads` is not visibly destroyed.
+  WARNING sgroup-lifetime:385: Temporary squad group `observer` from `Player_GetSquads` is not visibly destroyed.
+  WARNING unknown-call:125: Call `Rule_RemoveSquadEvent` is absent from official API/source evidence and local definitions.
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 5 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\voice_bank_084.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\voices_084.scar
+  WARNING sgroup-lifetime:222: Temporary squad group `group` from `Player_GetSquads` is not visibly destroyed.
+  WARNING unknown-call:91: Call `Rule_RemoveSquadEvent` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:73: Call `audio.play` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:216: Call `audio.pulse` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:283: Call `audio.session` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:296: Call `audio.stop` is absent from official API/source evidence and local definitions.
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 7 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\vietnam\initialization.scar
+  WARNING sgroup-lifetime:23: Temporary squad group `squads` from `Player_GetSquads` is not visibly destroyed.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\garrison\garrison.scar
+  WARNING unknown-call:98: Call `blob:byte` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:82: Call `blob:sub` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:212: Call `key:match` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:46: Call `schar` is absent from official API/source evidence and local definitions.
+  WARNING unknown-call:81: Call `sunpack` is absent from official API/source evidence and local definitions.
+  Summary: 0 error(s), 5 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\source\scar\garrison\vietnam\dispatcher.scar
+  OK: no static diagnostics

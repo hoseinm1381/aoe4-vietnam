@@ -1,0 +1,411 @@
+[
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\buffalo.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\dynasty.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\lifecycle.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\paddy_construction.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\siege_research.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\traps.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\tunnel_core.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\tunnel_target_buildings.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\blueprints.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\empty_gardens.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\flooded_citadel.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\foundries_discount.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\garden.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\hideouts.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\landmarks.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\paddy_food.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\paddy_wood.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `squads` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 302
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `Rule_RemoveSquadEvent` is absent from official API/source evidence and local definitions.",
+        "line": 278
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 2
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\pagoda_buffalo.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\presentation.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\presentation_badges.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\presentation_data.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\rattan_armor.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\scorched_earth.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\tower_training.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\tunnel_ability_squads.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\tunnel_buildings.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\tunnels.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "cleanup-unproven",
+        "message": "`Rule_AddSquadEvent` registers `request.callback`, but matching removal was not found in this file.",
+        "line": 380
+      },
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `group` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 267
+      },
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `observer` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 385
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `Rule_RemoveSquadEvent` is absent from official API/source evidence and local definitions.",
+        "line": 125
+      },
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 5
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\voice_bank_084.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\voices_084.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `group` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 222
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `Rule_RemoveSquadEvent` is absent from official API/source evidence and local definitions.",
+        "line": 91
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `audio.play` is absent from official API/source evidence and local definitions.",
+        "line": 73
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `audio.pulse` is absent from official API/source evidence and local definitions.",
+        "line": 216
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `audio.session` is absent from official API/source evidence and local definitions.",
+        "line": 283
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `audio.stop` is absent from official API/source evidence and local definitions.",
+        "line": 296
+      },
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 7
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\initialization.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `squads` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 23
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\garrison\\garrison.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `blob:byte` is absent from official API/source evidence and local definitions.",
+        "line": 98
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `blob:sub` is absent from official API/source evidence and local definitions.",
+        "line": 82
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `key:match` is absent from official API/source evidence and local definitions.",
+        "line": 212
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `schar` is absent from official API/source evidence and local definitions.",
+        "line": 46
+      },
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `sunpack` is absent from official API/source evidence and local definitions.",
+        "line": 81
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 5
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\garrison\\vietnam\\dispatcher.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  }
+]

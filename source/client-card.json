@@ -1,0 +1,19 @@
+{
+  "description": "The Vietnamese build a resilient economy around Rice Paddies and Water Buffalo. Worker Elephants transport Villagers, while tunnels and Hideouts connect defended gathering sites. Lam Son Skirmishers, Royal Elephants, Giao Chi Heavy Arquebusiers and No Than support a flexible army.",
+  "summary": "Guerrilla Warfare, Traps, Gunpowder.",
+  "author": "hosein81 and chilly5",
+  "civilization": {
+    "period": "968 - 1592 CE",
+    "difficulty": 2,
+    "tagline": "Guerrilla Warfare, Traps, Gunpowder",
+    "bonuses": [
+      "Rice Paddies and Buffalo: Villagers gather Food at Rice Paddies. Use Buffalo Work to assign Water Buffalo to Paddy Wood production, and Buffalo Leave to release them. Pagodas expand the herd. Champa Rice increases Paddy Food and Buffalo Wood gathering by 10%.",
+      "Worker Elephants: Worker Elephants transport Villagers between gathering sites. Elephant Trainer gives them +50 health and +40% movement speed; Lumber Carriages increases nearby Villager construction speed by 33%, including landmarks.",
+      "Tunnel Network: Move troops between tunnel buildings by selecting a destination. The shared 30-second tunnel cooldown starts when the destination is clicked, rather than when the first entrance is selected.",
+      "Resistance Headquarters: Villager camouflage is provided near the Resistance Headquarters. It is a local landmark benefit, so Villagers elsewhere do not receive global camouflage.",
+      "Layered Defenses: Use Bamboo Outposts, traps and Hideouts to protect approaches. Barbed Stakes increases trap range from 2 to 3 tiles. Fortify Hideout adds 1,200 health, 5 fire armor and space for 3 garrisoned units while preserving its current health percentage.",
+      "Vietnamese Armies: Lam Son Skirmishers support infantry and elephants. Giao Chi Heavy Arquebusiers provide gunpowder firepower, while No Than supplies a protected bolt volley. Reinforced Frames increases No Than's volley from 7 to 9 bolts and its ranged damage reduction to 65%.",
+      "Empty Gardens: After researching Empty Gardens, receive 25% of a completed building's construction cost when it is destroyed or deleted. Landmarks, Wonders and upgrade costs are excluded."
+    ]
+  }
+}
