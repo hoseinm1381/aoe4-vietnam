@@ -1,0 +1,25 @@
+{
+  "schema": "ccp-070-building-texture-sources/v1",
+  "asset": "foundry",
+  "size": [
+    2048,
+    2048
+  ],
+  "atlas_zones": [
+    "stone",
+    "wood",
+    "plaster",
+    "roof",
+    "water",
+    "clay",
+    "metal",
+    "foliage"
+  ],
+  "maps": {
+    "foundry_albedo_2048.png": "ab431b560aa0a58b005cdd42ff7c8c3f05b9ff7fd66131a9904692264c901f26",
+    "foundry_normal_2048.png": "32a00a94b44ddbd821f8e0a4061e0c8f14d27858161d3a4887b29b99ac2f02a8",
+    "foundry_roughness_2048.png": "ac4d30e21fd72e9fc9e982b0172219f741eaa625734c3709b4f18dfc23b86b09",
+    "foundry_metalness_2048.png": "9920d392cf8204022fd6f68c48b88cc55755f54f477d050f8d51d8417660840b"
+  },
+  "player_colour": "none baked; native owner-mask route separately qualified"
+}
