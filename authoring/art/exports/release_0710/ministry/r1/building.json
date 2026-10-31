@@ -1,0 +1,21 @@
+{
+  "schema": "garrison.building-source/v1",
+  "profile": "english-house",
+  "parts": [
+    {
+      "name": "garrison_part_0000",
+      "first_stage": 0
+    },
+    {
+      "name": "garrison_part_0001",
+      "first_stage": 20
+    }
+  ],
+  "material_name": "ccp_020_neutral_atlas",
+  "textures": {
+    "albedo": "albedo.png",
+    "normal": "normal.png",
+    "roughness": "roughness.png",
+    "metalness": "metalness.png"
+  }
+}

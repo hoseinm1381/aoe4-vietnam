@@ -1,0 +1,27 @@
+{
+  "schema": "ccp-060-horseman2-v4-native-material-map/1",
+  "exact_native_model": "art/civilizations/chinese/animals/chi_horse_combined_light_age02/chi_horse_combined_light_age02.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\pilots\\horseman2\\decoded\\verified-a53c7a0875a4dc6c3952\\58c6687935705ec7a5f6\\decoded-static.json",
+  "donor_manifest_sha256": "c0fb7b997ddfa89b5459d27e9ed764e441cf2f19d50028eb562d17b76e7eb775",
+  "groups": [
+    {
+      "native_material": "rider_lod1",
+      "native_group": "chi_horse_combined_light_age02 · chi_cavalry_light_age02 · rider_lod1",
+      "projection_material": "AoE IV · rider_lod1 · d806ac5b",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\representatives\\horseman2\\v4\\single_atlas_0.png",
+      "albedo_sha256": "0cb570adaeaec5c7b33ed32dac2674de64be6b8b493b9e697a9df89b1f23debe",
+      "texture_slot": "albedoTexture",
+      "role": "rider"
+    },
+    {
+      "native_material": "horse_lod1",
+      "native_group": "chi_horse_combined_light_age02 · chi_horse_light_age02 · horse_lod1",
+      "projection_material": "AoE IV · horse_lod1 · d806ac5b",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\representatives\\horseman2\\v4\\single_atlas_1.png",
+      "albedo_sha256": "1922d24742b4218a67afa34a9582a0a342407275987b134f1724f3431479fded",
+      "texture_slot": "albedoTexture",
+      "role": "horse"
+    }
+  ],
+  "geometry_route": "stock geometry + compatible atlas only; added v4 parts excluded"
+}

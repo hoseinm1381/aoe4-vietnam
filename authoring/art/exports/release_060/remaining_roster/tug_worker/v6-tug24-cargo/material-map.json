@@ -1,0 +1,428 @@
+{
+  "schema": "ccp-060-tug24-material-map/1",
+  "exact_donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\qualification\\nonhumanoid-route-preflight\\worker-elephant-stock\\decoded\\a1c0a8f89c5b1b57f4df\\decoded-static.json",
+  "exact_donor_manifest_sha256": "43d8dfe4723d67de081874c2416383af7b9813f9b3aca044f981a03685e50f79",
+  "native_full_skeleton_bones": 140,
+  "native_skin_palettes": [
+    {
+      "name": "geo_tug_elephant_baskets_age1",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_wheat_base_r_age01",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_wheat_cards_l_age01",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_wheat_cards_r_age01",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_wheat_base_l_age01",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_worker_age1",
+      "bones": [
+        "tsmg_root",
+        "root_m",
+        "rearhip_l",
+        "rearknee_l",
+        "rearankle_l",
+        "reartoes_l",
+        "rearhip_r",
+        "rearknee_r",
+        "rearankle_r",
+        "reartoes_r",
+        "spine1_m",
+        "chest_m",
+        "frontscapula_l",
+        "fronthip_l",
+        "frontknee_l",
+        "frontankle_l",
+        "fronttoes_l",
+        "frontscapula_r",
+        "fronthip_r",
+        "frontknee_r",
+        "frontankle_r",
+        "fronttoes_r",
+        "neck_m",
+        "head_m",
+        "earin_l",
+        "earmid_l",
+        "earmid1_l",
+        "earmid2_l",
+        "earout_l",
+        "earout1_l",
+        "earout2_l",
+        "earin_r",
+        "earmid_r",
+        "earmid1_r",
+        "earmid2_r",
+        "earout_r",
+        "earout1_r",
+        "earout2_r",
+        "trunk1_m",
+        "trunk2_m",
+        "trunk3_m",
+        "trunk4_m",
+        "trunk5_m",
+        "trunk6_m",
+        "trunk7_m",
+        "trunk8_m",
+        "tail0_m",
+        "tail1_m",
+        "tail2_m",
+        "tail3_m",
+        "tail4_m",
+        "tail5_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_wood",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    },
+    {
+      "name": "geo_tug_elephant_rocks_bags_berries_age1",
+      "bones": [
+        "tsmg_root",
+        "chest_m"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "group_index": 0,
+      "native_name": "geo_tug_elephant_baskets_age1",
+      "material_name": "baskets_lod1",
+      "effect": "unit",
+      "original_triangles": 2012,
+      "export_triangles": 96,
+      "mesh": "tug_worker_baskets_cargo_lod1",
+      "treatment": "approved_open_crate_96tri_chest_m",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\tug_worker\\v6-tug24-cargo\\cargo_baskets_albedo.png",
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": false
+    },
+    {
+      "group_index": 1,
+      "native_name": "geo_tug_elephant_baskets_age1",
+      "material_name": "baskets_lod2",
+      "effect": "unit",
+      "original_triangles": 908,
+      "export_triangles": 96,
+      "mesh": "tug_worker_baskets_cargo_lod2",
+      "treatment": "approved_open_crate_96tri_chest_m",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\tug_worker\\v6-tug24-cargo\\cargo_baskets_albedo.png",
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": false
+    },
+    {
+      "group_index": 2,
+      "native_name": "geo_tug_elephant_baskets_age1",
+      "material_name": "baskets_lod3",
+      "effect": "unit",
+      "original_triangles": 404,
+      "export_triangles": 96,
+      "mesh": "tug_worker_baskets_cargo_lod3",
+      "treatment": "approved_open_crate_96tri_chest_m",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\tug_worker\\v6-tug24-cargo\\cargo_baskets_albedo.png",
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": false
+    },
+    {
+      "group_index": 3,
+      "native_name": "geo_tug_elephant_wheat_base_r_age01",
+      "material_name": "wheat_base_lod1",
+      "effect": "unit",
+      "original_triangles": 328,
+      "export_triangles": 328,
+      "mesh": "tug_worker_group03_wheat_base_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 4,
+      "native_name": "geo_tug_elephant_wheat_base_r_age01",
+      "material_name": "wheat_base_lod2",
+      "effect": "unit",
+      "original_triangles": 172,
+      "export_triangles": 172,
+      "mesh": "tug_worker_group04_wheat_base_lod2",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 5,
+      "native_name": "geo_tug_elephant_wheat_base_r_age01",
+      "material_name": "wheat_base_lod2",
+      "effect": "unit",
+      "original_triangles": 172,
+      "export_triangles": 172,
+      "mesh": "tug_worker_group05_wheat_base_lod2",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 6,
+      "native_name": "geo_tug_elephant_wheat_cards_l_age01",
+      "material_name": "wheat_stacks_cards_lod1",
+      "effect": "unit",
+      "original_triangles": 384,
+      "export_triangles": 384,
+      "mesh": "tug_worker_group06_wheat_stacks_cards_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 7,
+      "native_name": "geo_tug_elephant_wheat_cards_l_age01",
+      "material_name": "wheat_stacks_cards_lod1",
+      "effect": "unit",
+      "original_triangles": 384,
+      "export_triangles": 384,
+      "mesh": "tug_worker_group07_wheat_stacks_cards_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 8,
+      "native_name": "geo_tug_elephant_wheat_cards_l_age01",
+      "material_name": "wheat_stacks_cards_lod1",
+      "effect": "unit",
+      "original_triangles": 384,
+      "export_triangles": 384,
+      "mesh": "tug_worker_group08_wheat_stacks_cards_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 9,
+      "native_name": "geo_tug_elephant_wheat_cards_r_age01",
+      "material_name": "wheat_stacks_cards_lod1",
+      "effect": "unit",
+      "original_triangles": 384,
+      "export_triangles": 384,
+      "mesh": "tug_worker_group09_wheat_stacks_cards_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 10,
+      "native_name": "geo_tug_elephant_wheat_cards_r_age01",
+      "material_name": "wheat_stacks_cards_lod1",
+      "effect": "unit",
+      "original_triangles": 384,
+      "export_triangles": 384,
+      "mesh": "tug_worker_group10_wheat_stacks_cards_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 11,
+      "native_name": "geo_tug_elephant_wheat_cards_r_age01",
+      "material_name": "wheat_stacks_cards_lod1",
+      "effect": "unit",
+      "original_triangles": 384,
+      "export_triangles": 384,
+      "mesh": "tug_worker_group11_wheat_stacks_cards_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 12,
+      "native_name": "geo_tug_elephant_wheat_base_l_age01",
+      "material_name": "wheat_base_lod1",
+      "effect": "unit",
+      "original_triangles": 328,
+      "export_triangles": 328,
+      "mesh": "tug_worker_group12_wheat_base_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 13,
+      "native_name": "geo_tug_elephant_wheat_base_l_age01",
+      "material_name": "wheat_base_lod2",
+      "effect": "unit",
+      "original_triangles": 172,
+      "export_triangles": 172,
+      "mesh": "tug_worker_group13_wheat_base_lod2",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 14,
+      "native_name": "geo_tug_elephant_wheat_base_l_age01",
+      "material_name": "wheat_base_lod2",
+      "effect": "unit",
+      "original_triangles": 172,
+      "export_triangles": 172,
+      "mesh": "tug_worker_group14_wheat_base_lod2",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 15,
+      "native_name": "geo_tug_elephant_worker_age1",
+      "material_name": "tug_elephant_lod1",
+      "effect": "unit",
+      "original_triangles": 2494,
+      "export_triangles": 2494,
+      "mesh": "tug_worker_group15_tug_elephant_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 16,
+      "native_name": "geo_tug_elephant_worker_age1",
+      "material_name": "tug_elephant_lod2",
+      "effect": "unit",
+      "original_triangles": 1884,
+      "export_triangles": 1884,
+      "mesh": "tug_worker_group16_tug_elephant_lod2",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 17,
+      "native_name": "geo_tug_elephant_worker_age1",
+      "material_name": "tug_elephant_lod3",
+      "effect": "unit",
+      "original_triangles": 1102,
+      "export_triangles": 1102,
+      "mesh": "tug_worker_group17_tug_elephant_lod3",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 18,
+      "native_name": "geo_tug_elephant_wood",
+      "material_name": "res_wood_carry",
+      "effect": "unit",
+      "original_triangles": 502,
+      "export_triangles": 502,
+      "mesh": "tug_worker_group18_res_wood_carry",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 19,
+      "native_name": "geo_tug_elephant_wood",
+      "material_name": "res_wood_carry",
+      "effect": "unit",
+      "original_triangles": 502,
+      "export_triangles": 502,
+      "mesh": "tug_worker_group19_res_wood_carry",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 20,
+      "native_name": "geo_tug_elephant_wood",
+      "material_name": "res_wood_carry",
+      "effect": "unit",
+      "original_triangles": 502,
+      "export_triangles": 502,
+      "mesh": "tug_worker_group20_res_wood_carry",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 21,
+      "native_name": "geo_tug_elephant_rocks_bags_berries_age1",
+      "material_name": "rocks_bags_berries_lod1",
+      "effect": "unit",
+      "original_triangles": 2048,
+      "export_triangles": 2048,
+      "mesh": "tug_worker_group21_rocks_bags_berries_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 22,
+      "native_name": "geo_tug_elephant_rocks_bags_berries_age1",
+      "material_name": "rocks_bags_berries_lod1",
+      "effect": "unit",
+      "original_triangles": 826,
+      "export_triangles": 826,
+      "mesh": "tug_worker_group22_rocks_bags_berries_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    },
+    {
+      "group_index": 23,
+      "native_name": "geo_tug_elephant_rocks_bags_berries_age1",
+      "material_name": "rocks_bags_berries_lod1",
+      "effect": "unit",
+      "original_triangles": 516,
+      "export_triangles": 516,
+      "mesh": "tug_worker_group23_rocks_bags_berries_lod1",
+      "treatment": "stock_geometry_and_conditional_cargo_preserved",
+      "albedo_png": null,
+      "texture_slot": "albedoTexture",
+      "native_unmodified_texture": true
+    }
+  ]
+}
