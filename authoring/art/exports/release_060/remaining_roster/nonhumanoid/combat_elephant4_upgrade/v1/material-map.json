@@ -1,0 +1,120 @@
+{
+  "schema": "ccp-060-nonhumanoid-compatible-material-map/1",
+  "exact_donor_model": "art/civilizations/sultanate/animals/sul_elephant_combined_armor_age04_upgrade/sul_elephant_combined_armor_age04_upgrade.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\remaining-donors\\run-004\\decoded\\017_sul_elephant_combined_armor_age04_upgrade\\2ba5b1aa1bde3ad39e1c\\decoded-static.json",
+  "donor_manifest_sha256": "acf87381ba0b28e58cb65639ab0751cfcf7f2e321007299921f7be5319cf6685",
+  "donor_status": "exact_reachable",
+  "native_group_count": 9,
+  "groups": [
+    {
+      "group_index": 0,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "elephant_elephant_elephant_elephant_elephant_lod1",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\elephant_elephant_elephant_elephant_elephant_lod1_albedo.png",
+      "changed_pixels": 185289,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · elephant_elephant_elephant_elephant_elephant_lod1",
+      "preview_visible": true
+    },
+    {
+      "group_index": 1,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "elephant_elephant_elephant_elephant_elephant_lod1",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\elephant_elephant_elephant_elephant_elephant_lod1_albedo.png",
+      "changed_pixels": 185289,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · elephant_elephant_elephant_elephant_elephant_lod1.001",
+      "preview_visible": true
+    },
+    {
+      "group_index": 2,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "rider_lod1",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\rider_lod1_albedo.png",
+      "changed_pixels": 453923,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · rider_lod1",
+      "preview_visible": true
+    },
+    {
+      "group_index": 3,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "elephant_elephant_elephant_elephant_elephant_lod2",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\elephant_elephant_elephant_elephant_elephant_lod2_albedo.png",
+      "changed_pixels": 185289,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · elephant_elephant_elephant_elephant_elephant_lod2",
+      "preview_visible": false
+    },
+    {
+      "group_index": 4,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "elephant_elephant_elephant_elephant_elephant_lod2",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\elephant_elephant_elephant_elephant_elephant_lod2_albedo.png",
+      "changed_pixels": 185289,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · elephant_elephant_elephant_elephant_elephant_lod2.001",
+      "preview_visible": false
+    },
+    {
+      "group_index": 5,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "rider_lod2",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\rider_lod2_albedo.png",
+      "changed_pixels": 453923,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · rider_lod2",
+      "preview_visible": false
+    },
+    {
+      "group_index": 6,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "elephant_elephant_elephant_elephant_elephant_lod3",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\elephant_elephant_elephant_elephant_elephant_lod3_albedo.png",
+      "changed_pixels": 185289,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · elephant_elephant_elephant_elephant_elephant_lod3",
+      "preview_visible": false
+    },
+    {
+      "group_index": 7,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "elephant_elephant_elephant_elephant_elephant_lod3",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\elephant_elephant_elephant_elephant_elephant_lod3_albedo.png",
+      "changed_pixels": 185289,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · elephant_elephant_elephant_elephant_elephant_lod3.001",
+      "preview_visible": false
+    },
+    {
+      "group_index": 8,
+      "native_group": "sul_elephant_armor_chestarmor_age04_upgrade",
+      "native_material": "rider_lod3",
+      "effect": "unit",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\combat_elephant4_upgrade\\v1\\rider_lod3_albedo.png",
+      "changed_pixels": 453923,
+      "native_texture_unchanged": false,
+      "projection_mesh": "sul_elephant_combined_armor_age04_upgrade · sul_elephant_armor_chestarmor_age04_upgrade · rider_lod3",
+      "preview_visible": false
+    }
+  ],
+  "geometry_route": "exact stock geometry + per-material atlas only",
+  "equipment_animations_and_crews": "native unchanged; no attachment override"
+}

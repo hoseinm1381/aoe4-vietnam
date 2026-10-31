@@ -1,0 +1,48 @@
+{
+  "schema": "ccp-060-nonhumanoid-compatible-material-map/1",
+  "exact_donor_model": "art/civilizations/common/weapons/melee/spear_basic/spear_basic.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\equipment-and-crew-models\\spear_basic\\7e82c5bf5934b74f88a1\\decoded-static.json",
+  "donor_manifest_sha256": "226986437cec1af30fca7087a0e8e912d4f0916391a33fdd4464a74c3799ed07",
+  "donor_status": "reached_spear_i_ii_attachment",
+  "native_group_count": 3,
+  "groups": [
+    {
+      "group_index": 0,
+      "native_group": "geo_spear_basic",
+      "native_material": "obj",
+      "effect": "object",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\spear_basic\\v1\\obj_albedo.png",
+      "changed_pixels": 108,
+      "native_texture_unchanged": false,
+      "projection_mesh": "spear_basic · geo_spear_basic",
+      "preview_visible": true
+    },
+    {
+      "group_index": 1,
+      "native_group": "geo_spear_basic",
+      "native_material": "obj",
+      "effect": "object",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\spear_basic\\v1\\obj_albedo.png",
+      "changed_pixels": 108,
+      "native_texture_unchanged": false,
+      "projection_mesh": "spear_basic · geo_spear_basic.001",
+      "preview_visible": false
+    },
+    {
+      "group_index": 2,
+      "native_group": "geo_spear_basic",
+      "native_material": "obj",
+      "effect": "object",
+      "texture_slot": "albedoTexture",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\spear_basic\\v1\\obj_albedo.png",
+      "changed_pixels": 108,
+      "native_texture_unchanged": false,
+      "projection_mesh": "spear_basic · geo_spear_basic.002",
+      "preview_visible": false
+    }
+  ],
+  "geometry_route": "exact stock geometry + per-material atlas only",
+  "equipment_animations_and_crews": "native unchanged; no attachment override"
+}

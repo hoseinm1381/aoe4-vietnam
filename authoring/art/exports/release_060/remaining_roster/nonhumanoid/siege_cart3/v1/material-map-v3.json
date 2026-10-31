@@ -1,0 +1,50 @@
+{
+  "schema": "ccp-060-nonhumanoid-compatible-material-map/3",
+  "exact_donor_model": "art/civilizations/english/team_weapons/eng_siege_cart/eng_siege_cart.rgm",
+  "donor_manifest": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\output\\release_060\\inventory\\equipment-and-crew-models\\siege_cart3\\c44749b1323734585427\\decoded-static.json",
+  "donor_manifest_sha256": "a9b23fe9ab30b58632dbe84b19137cdc6f0ffe649d6a6adfdfbf96ef67113f73",
+  "donor_status": "reached_trebuchet_cart_skin",
+  "native_group_count": 3,
+  "groups": [
+    {
+      "group_index": 0,
+      "native_group": "geo_cart",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTex",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\siege_cart3\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_siege_cart · geo_cart · page",
+      "preview_visible": true
+    },
+    {
+      "group_index": 1,
+      "native_group": "geo_cart",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTex",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\siege_cart3\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_siege_cart · geo_cart · page.001",
+      "preview_visible": true
+    },
+    {
+      "group_index": 2,
+      "native_group": "geo_cart",
+      "native_material": "page",
+      "effect": "Structure",
+      "texture_slot": "albedoTex",
+      "albedo_png": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\siege_cart3\\v1\\page_albedo.png",
+      "changed_pixels": 20163,
+      "native_texture_unchanged": false,
+      "projection_mesh": "eng_siege_cart · geo_cart · page.002",
+      "preview_visible": true
+    }
+  ],
+  "geometry_route": "exact stock geometry + per-material atlas only",
+  "equipment_animations_and_crews": "native unchanged; no attachment override",
+  "supersedes_v1_map": "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison\\art\\exports\\release_060\\remaining_roster\\nonhumanoid\\siege_cart3\\v1\\material-map.json",
+  "supersedes_v1_map_sha256": "5a95c1932d3838727c4c96737d119a6153f5d541267231a1ea85b7931eeb0f3f"
+}
