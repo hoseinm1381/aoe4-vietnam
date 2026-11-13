@@ -1,0 +1,397 @@
+{
+  "archive": {
+    "block_size": 262144,
+    "file_count": 36,
+    "folder_count": 8,
+    "header_encryption": "None",
+    "name": "8b6ecd75c450436f85068bc0cc388e75",
+    "path": "F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\visual-repair-20261113\\vietnam\\unit-burn\\output\\extension\\garrison_static\\garrison_static.sga",
+    "product": 0,
+    "signature_present": false,
+    "toc_count": 1,
+    "tocs": [
+      {
+        "alias": "data",
+        "name": "data"
+      }
+    ],
+    "verification": {
+      "checked_files": 36,
+      "crc_mismatches": [],
+      "scope": "stored bytes against recorded CRC32 and SHA1 block hashes; the header signature is not validated",
+      "sha1_mismatches": [],
+      "unhashed_files": 0,
+      "verified": true
+    },
+    "version": 11
+  },
+  "filter": null,
+  "member_count": 36,
+  "members": [
+    {
+      "crc": 3088446617,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/10929574892962798707_packed.rrtex",
+      "size": 1137785,
+      "storage": "Store",
+      "stored_size": 1137785,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1581492625,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/14181862105599834772_packed.rrtex",
+      "size": 808865,
+      "storage": "Store",
+      "stored_size": 808865,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3376088680,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/633710455953203820_packed.rrtex",
+      "size": 17259,
+      "storage": "Store",
+      "stored_size": 17259,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1954715809,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/albedo.rrtex",
+      "size": 1003406,
+      "storage": "Store",
+      "stored_size": 1003406,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2735386607,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/metalness.rrtex",
+      "size": 15992,
+      "storage": "Store",
+      "stored_size": 15992,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1288437228,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/model.rgm",
+      "size": 102749,
+      "storage": "StreamCompress",
+      "stored_size": 77967,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3097487013,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/model.rrgeom",
+      "size": 221345,
+      "storage": "StreamCompress",
+      "stored_size": 135730,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2281068530,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/model.rrmaterial",
+      "size": 2058,
+      "storage": "StreamCompress",
+      "stored_size": 377,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 712308698,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/normal.rrtex",
+      "size": 403186,
+      "storage": "Store",
+      "stored_size": 403186,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1383497168,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/pattern.rrtex",
+      "size": 17244,
+      "storage": "Store",
+      "stored_size": 17244,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3837815925,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher2/roughness.rrtex",
+      "size": 587108,
+      "storage": "Store",
+      "stored_size": 587108,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3091641354,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/14383011819120627896_packed.rrtex",
+      "size": 893441,
+      "storage": "Store",
+      "stored_size": 893441,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2929411530,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/15080374228671006076_packed.rrtex",
+      "size": 1137785,
+      "storage": "Store",
+      "stored_size": 1137785,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1513656987,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/4727240497916616832_packed.rrtex",
+      "size": 17259,
+      "storage": "Store",
+      "stored_size": 17259,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 321993518,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/albedo.rrtex",
+      "size": 1009176,
+      "storage": "Store",
+      "stored_size": 1009176,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3480040744,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/metalness.rrtex",
+      "size": 15992,
+      "storage": "Store",
+      "stored_size": 15992,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4238623589,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/model.rgm",
+      "size": 102795,
+      "storage": "StreamCompress",
+      "stored_size": 78610,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3082020142,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/model.rrgeom",
+      "size": 221519,
+      "storage": "StreamCompress",
+      "stored_size": 137252,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3899545763,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/model.rrmaterial",
+      "size": 2061,
+      "storage": "StreamCompress",
+      "stored_size": 378,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 301022667,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/normal.rrtex",
+      "size": 440758,
+      "storage": "Store",
+      "stored_size": 440758,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3145065742,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/pattern.rrtex",
+      "size": 17244,
+      "storage": "Store",
+      "stored_size": 17244,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1950275747,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher3/roughness.rrtex",
+      "size": 587108,
+      "storage": "Store",
+      "stored_size": 587108,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3476181875,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/17205549771880325745_packed.rrtex",
+      "size": 1137785,
+      "storage": "Store",
+      "stored_size": 1137785,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 365981888,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/9010649546216663545_packed.rrtex",
+      "size": 17259,
+      "storage": "Store",
+      "stored_size": 17259,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 579628893,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/9694339043073300434_packed.rrtex",
+      "size": 893441,
+      "storage": "Store",
+      "stored_size": 893441,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3696314137,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/albedo.rrtex",
+      "size": 1009176,
+      "storage": "Store",
+      "stored_size": 1009176,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 288028476,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/metalness.rrtex",
+      "size": 15992,
+      "storage": "Store",
+      "stored_size": 15992,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3685549331,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/model.rgm",
+      "size": 103899,
+      "storage": "StreamCompress",
+      "stored_size": 79402,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 661414281,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/model.rrgeom",
+      "size": 226499,
+      "storage": "StreamCompress",
+      "stored_size": 138786,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3599824801,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/model.rrmaterial",
+      "size": 2058,
+      "storage": "StreamCompress",
+      "stored_size": 375,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2598027925,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/normal.rrtex",
+      "size": 440758,
+      "storage": "Store",
+      "stored_size": 440758,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1240212951,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/pattern.rrtex",
+      "size": 17244,
+      "storage": "Store",
+      "stored_size": 17244,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 807787011,
+      "encryption": "None",
+      "path": "art/scenario/garrison/cc076/skirmisher4/roughness.rrtex",
+      "size": 587108,
+      "storage": "Store",
+      "stored_size": 587108,
+      "toc": "data",
+      "verification": "CRC"
+    }
+  ],
+  "schema": "sga-archiver.list/v1",
+  "tool": {
+    "name": "sga-archiver",
+    "version": "0.3.0"
+  }
+}

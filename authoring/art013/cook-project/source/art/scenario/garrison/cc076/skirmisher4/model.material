@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materialSet>
+  <material name="lod1" type="shader" source="unit">
+    <param name="albedoTexture" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/albedo.png" />
+    <param name="normalMap" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/normal.png" />
+    <param name="metalTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/metalness.png" />
+    <param name="roughnessTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/roughness.png" />
+    <param name="patternTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/pattern.png" />
+  </material>
+  <material name="lod2" type="shader" source="unit">
+    <param name="albedoTexture" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/albedo.png" />
+    <param name="normalMap" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/normal.png" />
+    <param name="metalTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/metalness.png" />
+    <param name="roughnessTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/roughness.png" />
+    <param name="patternTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/pattern.png" />
+  </material>
+  <material name="lod3" type="shader" source="unit">
+    <param name="albedoTexture" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/albedo.png" />
+    <param name="normalMap" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/normal.png" />
+    <param name="metalTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/metalness.png" />
+    <param name="roughnessTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/roughness.png" />
+    <param name="patternTex" type="tex2D" value="art/scenario/garrison/cc076/skirmisher4/pattern.png" />
+  </material>
+</materialSet>

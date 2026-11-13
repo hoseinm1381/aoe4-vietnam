@@ -4,7 +4,7 @@
   "race": "vietnam",
   "bundle_key": "vietnam",
   "name": "Vietnamese",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "dispatcher": "scar/garrison/vietnam/dispatcher.scar",
   "shared_entities": [
     "building_alpha",
@@ -151,8 +151,9 @@
     "wpn_siege_trebuchet_4_cw_chi",
     "wpn_siege_trebuchet_4_tr_chi"
   ],
-  "source_baseline": "d58326f447b6444332e9a15c42c7496d57fb26be",
-  "native_game_acceptance": "pending",
+  "source_baseline": "vietnam 0.1.2 archive 57127870f57814c5690693e0de2bf03398505683ad3ba59d8b1c02b4aadcff87",
+  "native_game_acceptance": "Fresh match pending",
   "publication": "source-only GitHub upload authorized 2026-10-31; player release and native acceptance pending",
-  "codex_mode": "reviewed_012"
+  "codex_mode": "reviewed_012",
+  "preserve_previous_release": true
 }

@@ -1,31 +1,17 @@
-# Vietnamese — Garrison 0.1.2 local test candidate
+# Vietnamese for Garrison 0.1.4
 
-Import **Vietnamese-Garrison-0.1.2.zip** through Garrison 0.1.9 or newer. Enable
-Vietnamese, disable the previous version and the combined pack, and choose
-Vietnamese directly in the civilization dropdown. Use native Standard, Tuning Pack
-None, a human player, standard starting army/resources and Dark Age.
+Import **Vietnamese-Garrison-0.1.4.zip** in Garrison 0.1.9 or newer.
+Enable Vietnamese, disable the previous version and the combined pack, and
+choose Vietnamese in the civilization dropdown. Use Standard Skirmish,
+Tuning Pack None, and standard starting units and resources.
 
-This ZIP contains the complete playable civilization. No separate art or sound
-download is needed. Developers use the complete editable source repository.
+This ZIP contains the playable civilization, with no separate art or audio
+download. Editable sources are in the standalone project.
 
-Focused retest:
+0.1.4 gives eight landmarks distinct palettes and dynamic player-color trim.
+In fresh matches, compare two player colors at near and far zoom. Check
+construction, damage, destruction, and repair or rebuild where applicable.
+The Lam Son Skirmisher is unchanged from 0.1.3. Native appearance and
+performance are pending.
 
-1. Open Overview: check the selector flag and plural name; scroll through
-   Bonuses, Unique Units and Unique Technologies. Berbers should list their
-   own research, without the former stock Malian overview entries.
-2. Scroll the entire tech tree in both directions. Check icon spacing and
-   tooltips. Blacksmith tier I belongs to Feudal, tier II to Castle and tier III
-   to Imperial. Check unit tier upgrades and custom research as well.
-3. Start a fresh match. Check starting Villagers/scout, loading art and the
-   dark fade. These gameplay offsets and HD assets are preserved from 0.1.1.
-4. Play through age-ups, train unique units and research the displayed upgrades.
-   For Berbers, also test Tribal Reforms/Dynasties, Desert Pathfinding and Call
-   from the Minbar; listen to speech and music across age/combat transitions.
-
-Native 0.1.2 appearance, listening quality, gameplay, AI, repeated matches,
-save/load, multiplayer and performance require testing. Package/readback checks
-do not establish those results. See docs/UPDATE_012.md in the source repository.
-
-Credits: hosein81 and chilly5. Stable mod identity and editable masters are preserved.
-Do not publish or push until the owner accepts in-game and gives a separate,
-explicit manual push instruction. Nothing is installed by the build tools.
+Credits: hosein81 and chilly5.

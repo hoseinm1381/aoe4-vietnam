@@ -1,0 +1,34 @@
+{
+  "citadel": {
+    "models": 2,
+    "area_covered": 0.16609537591239618
+  },
+  "foundry": {
+    "models": 1,
+    "area_covered": 0.14019393967598165
+  },
+  "garden": {
+    "models": 1,
+    "area_covered": 0.1344235070129532
+  },
+  "ministry": {
+    "models": 1,
+    "area_covered": 0.14174932633429477
+  },
+  "one_pillar": {
+    "models": 2,
+    "area_covered": 0.13462276989203345
+  },
+  "pho_minh": {
+    "models": 2,
+    "area_covered": 0.1364716286541265
+  },
+  "university": {
+    "models": 1,
+    "area_covered": 0.13158332141183193
+  },
+  "wonder": {
+    "models": 1,
+    "area_covered": 0.13029750541619137
+  }
+}

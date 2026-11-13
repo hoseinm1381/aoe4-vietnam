@@ -1,0 +1,14 @@
+00:00.485  blend            | Read blend: "F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit3\skirmisher2\model.blend"
+F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\preview_unit.py:17: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+00:01.313  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-preview\age-2-blue.png'
+00:01.875  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-preview\age-2-red.png'
+00:01.891  blend            | Read blend: "F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit3\skirmisher3\model.blend"
+00:02.516  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-preview\age-3-blue.png'
+00:03.047  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-preview\age-3-red.png'
+00:03.063  blend            | Read blend: "F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit3\skirmisher4\model.blend"
+00:03.750  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-preview\age-4-blue.png'
+00:04.282  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-preview\age-4-red.png'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

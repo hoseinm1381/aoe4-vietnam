@@ -1,0 +1,92 @@
+00:00.625  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\authoring\art\authoring\release_083\skirmisher2\r12\model.blend"
+BlenderMCP addon registered (auto-connect: on)
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+COL 01 Model 0
+COL 01 Model.001 0
+COL 02 Equipment 0
+COL 02 Equipment.001 0
+COL 03 Rig 0
+COL 03 Rig.001 0
+COL Additional LODs / variants 0
+COL Additional LODs / variants.001 0
+COL Character · AoE IV asset 0
+COL Character · mal_ranged_crossbow_age02 0
+COL chi_ranged_bow_age02 0
+COL Collection 0
+COL Control shapes 0
+COL Control shapes.001 0
+COL Deform skeleton 1
+COL Deform skeleton.001 0
+COL Hand props 0
+COL Hand props.001 0
+COL mal_ranged_crossbow_age2 0
+COL Other equipment 0
+COL Other equipment.001 0
+COL Pose controls 0
+COL Pose controls.001 0
+COL Primary 0
+COL Primary.001 0
+COL Weapons 0
+COL Weapons.001 0
+OBJ body_lod1 MESH 3947 ['lod1'] ['083_component', '083_surface']
+OBJ body_lod2 MESH 2196 ['lod2'] ['083_component', '083_surface']
+OBJ body_lod3 MESH 1250 ['lod3'] ['083_component', '083_surface']
+OBJ Bound forearm cuff l MESH 84 ['lod1'] ['083_component', '083_surface']
+OBJ Bound forearm cuff r MESH 84 ['lod1'] ['083_component', '083_surface']
+OBJ Carrier contact pad MESH 51 ['lod1'] ['083_component', '083_surface']
+OBJ Carrier retaining band 1.1 MESH 42 ['lod1'] ['083_component', '083_surface']
+OBJ Carrier retaining band 1.315 MESH 42 ['lod1'] ['083_component', '083_surface']
+OBJ Carrier shoulder sling MESH 8 ['lod1'] ['083_component', '083_surface']
+OBJ Cloth gaiter l MESH 63 ['lod1'] ['083_component', '083_surface']
+OBJ Cloth gaiter r MESH 63 ['lod1'] ['083_component', '083_surface']
+OBJ Collar seated inner neck MESH 100 ['lod1'] ['083_component', '083_surface']
+OBJ Cross-collar upper MESH 10 ['lod1'] ['083_component', '083_surface']
+OBJ Cuff overlap l0.33 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Cuff overlap l0.52 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Cuff overlap l0.72 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Cuff overlap r0.33 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Cuff overlap r0.52 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Cuff overlap r0.72 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn l0 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn l1 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn l2 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn l3 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn l4 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn l5 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn r0 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn r1 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn r2 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn r3 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn r4 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gaiter turn r5 MESH 34 ['lod1'] ['083_component', '083_surface']
+OBJ Gathered trousers l MESH 150 ['lod1'] ['083_component', '083_surface']
+OBJ Gathered trousers r MESH 150 ['lod1'] ['083_component', '083_surface']
+OBJ Headwrap folded seam 1.876 MESH 66 ['lod1'] ['083_component', '083_surface']
+OBJ Headwrap folded seam 1.901 MESH 66 ['lod1'] ['083_component', '083_surface']
+OBJ Headwrap knot tail MESH 6 ['lod1'] ['083_component', '083_surface']
+OBJ Integrated jaw and rear cranium MESH 174 ['lod1'] ['083_component', '083_surface']
+OBJ Layered cloth sash tail MESH 8 ['lod1'] ['083_component', '083_surface']
+OBJ Layered outer sleeve l MESH 150 ['lod1'] ['083_component', '083_surface']
+OBJ Layered outer sleeve r MESH 150 ['lod1'] ['083_component', '083_surface']
+OBJ Leather javelin carrier MESH 84 ['lod1'] ['083_component', '083_surface']
+OBJ mal_ranged_crossbow_age02 · Armature ARMATURE 48 [] ['garrison_skeleton_status', 'garrison_bone_count', 'garrison_skeleton_records', 'garrison_logical_path', 'garrison_display_name', 'garrison_animated_asset_plan', 'garrison_animation_clip_count', 'garrison_animation_action_status', 'garrison_animation_source']
+OBJ Reworked official Chinese head and hands MESH 759 ['lod1'] ['083_component', '083_surface']
+OBJ Soft leather shoe l MESH 24 ['lod1'] ['083_component', '083_surface']
+OBJ Soft leather shoe r MESH 24 ['lod1'] ['083_component', '083_surface']
+OBJ Spare bamboo javelin 0 MESH 22 ['lod1'] ['083_component', '083_surface']
+OBJ Spare bamboo javelin 1 MESH 22 ['lod1'] ['083_component', '083_surface']
+OBJ Spare forged point 0 MESH 15 ['lod1'] ['083_component', '083_surface']
+OBJ Spare forged point 1 MESH 15 ['lod1'] ['083_component', '083_surface']
+OBJ Tailored cross-collar tunic MESH 574 ['lod1'] ['083_component', '083_surface']
+OBJ Under collar MESH 8 ['lod1'] ['083_component', '083_surface']
+OBJ Wide waist belt MESH 123 ['lod1'] ['083_component', '083_surface']
+OBJ Wrapped headcloth MESH 198 ['lod1'] ['083_component', '083_surface']
+ADDONS ['bl_ext.raw_githubusercontent_com.garrison']
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

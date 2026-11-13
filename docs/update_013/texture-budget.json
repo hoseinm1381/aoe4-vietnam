@@ -1,0 +1,170 @@
+{
+  "art/scenario/garrison/cc076/skirmisher2/10929574892962798707_packed.rrtex": {
+    "archive_bytes": 1137785,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher2/14181862105599834772_packed.rrtex": {
+    "archive_bytes": 808865,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher2/633710455953203820_packed.rrtex": {
+    "archive_bytes": 17259,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher2/albedo.rrtex": {
+    "archive_bytes": 1003406,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher3/14383011819120627896_packed.rrtex": {
+    "archive_bytes": 893441,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher3/15080374228671006076_packed.rrtex": {
+    "archive_bytes": 1137785,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher3/4727240497916616832_packed.rrtex": {
+    "archive_bytes": 17259,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher3/albedo.rrtex": {
+    "archive_bytes": 1009176,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher4/17205549771880325745_packed.rrtex": {
+    "archive_bytes": 1137785,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher4/9010649546216663545_packed.rrtex": {
+    "archive_bytes": 17259,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher4/9694339043073300434_packed.rrtex": {
+    "archive_bytes": 893441,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/cc076/skirmisher4/albedo.rrtex": {
+    "archive_bytes": 1009176,
+    "native_mip_bytes": 5592432,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/garrison/community_040_details/buildings/detail_archery_range_age02/albedo.rrtex": {
+    "archive_bytes": 126640,
+    "native_mip_bytes": 174776,
+    "mips": 10,
+    "decoded_rgba8_bytes": 1398100
+  },
+  "art/scenario/garrison/community_040_details/buildings/detail_blacksmith_age02/albedo.rrtex": {
+    "archive_bytes": 126829,
+    "native_mip_bytes": 174776,
+    "mips": 10,
+    "decoded_rgba8_bytes": 1398100
+  },
+  "art/scenario/garrison/community_040_details/buildings/detail_market_age02/albedo.rrtex": {
+    "archive_bytes": 126061,
+    "native_mip_bytes": 174776,
+    "mips": 10,
+    "decoded_rgba8_bytes": 1398100
+  },
+  "art/scenario/garrison/community_040_details/buildings/detail_stable_age02/albedo.rrtex": {
+    "archive_bytes": 126703,
+    "native_mip_bytes": 174776,
+    "mips": 10,
+    "decoded_rgba8_bytes": 1398100
+  },
+  "art/scenario/cc079/ministry/albedo.rrtex": {
+    "archive_bytes": 700005,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/scenario/cc075/citadel/albedo.rrtex": {
+    "archive_bytes": 397885,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  },
+  "art/scenario/cc075/foundry/albedo.rrtex": {
+    "archive_bytes": 1496911,
+    "native_mip_bytes": 2796216,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/cc075/hq/albedo.rrtex": {
+    "archive_bytes": 398218,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  },
+  "art/scenario/cc075/one_pillar/albedo.rrtex": {
+    "archive_bytes": 509281,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  },
+  "art/scenario/cc075/pho_minh/albedo.rrtex": {
+    "archive_bytes": 502555,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  },
+  "art/scenario/cc070/garden/albedo.rrtex": {
+    "archive_bytes": 1560743,
+    "native_mip_bytes": 2796216,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/cc070/university/albedo.rrtex": {
+    "archive_bytes": 1614714,
+    "native_mip_bytes": 2796216,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/cc070/wonder/albedo.rrtex": {
+    "archive_bytes": 1668127,
+    "native_mip_bytes": 2796216,
+    "mips": 12,
+    "decoded_rgba8_bytes": 22369620
+  },
+  "art/scenario/cccastle/keep_detail_age03/albedo.rrtex": {
+    "archive_bytes": 498646,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  },
+  "art/scenario/cccastle/monastery_detail_age03/albedo.rrtex": {
+    "archive_bytes": 497004,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  },
+  "art/scenario/cccastle/siege_workshop_detail_age03/albedo.rrtex": {
+    "archive_bytes": 494228,
+    "native_mip_bytes": 699064,
+    "mips": 11,
+    "decoded_rgba8_bytes": 5592404
+  }
+}

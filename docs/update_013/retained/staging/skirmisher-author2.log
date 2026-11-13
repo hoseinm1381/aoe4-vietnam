@@ -1,0 +1,29 @@
+00:00.609  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\authoring\art\authoring\release_083\skirmisher2\r12\model.blend"
+00:02.594  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_34572_25a598e6441c823562df84b2117574c9.png.png"
+Traceback (most recent call last):
+  File "F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\skirmisher.py", line 219, in <module>
+    run(age)
+    ~~~^^^^^
+  File "F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\skirmisher.py", line 214, in run
+    assert result['material_slots']==['lod1','lod2','lod3'],result
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: {'bones': 48, 'triangles': [4544, 2361, 1225], 'material_slots': ['lod1', 'lod2.001', 'lod3.001']}
+BlenderMCP addon registered (auto-connect: on)
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+Info: Applied modifier was not first, result may not be as expected
+Info: Applied modifier was not first, result may not be as expected
+Info: Applied modifier was not first, result may not be as expected
+Info: Saved as "model.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\Community_civilization_pack_garrison_temp\\visual-repair-20261113\\vietnam\\unit2\\skirmisher2\\model.fbx'
+export finished in 0.0899 sec.
+
+Error: script failed, file: 'F:/aoe_4_temp/Community_civilization_pack_garrison_temp/visual-repair-20261113/vietnam/skirmisher.py', exiting.
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

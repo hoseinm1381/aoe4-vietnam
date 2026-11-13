@@ -1,0 +1,150 @@
+{
+  "audited_building_materials": 66,
+  "textures": {
+    "art/scenario/cc070/garden/albedo.rrtex": {
+      "source": "09-garden-albedo.png",
+      "mips": 12,
+      "decoded_rgba8_bytes": 22369620
+    },
+    "art/scenario/cc070/university/albedo.rrtex": {
+      "source": "10-university-albedo.png",
+      "mips": 12,
+      "decoded_rgba8_bytes": 22369620
+    },
+    "art/scenario/cc070/wonder/albedo.rrtex": {
+      "source": "11-wonder-albedo.png",
+      "mips": 12,
+      "decoded_rgba8_bytes": 22369620
+    },
+    "art/scenario/cc075/citadel/albedo.rrtex": {
+      "source": "12-citadel-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/cc075/foundry/albedo.rrtex": {
+      "source": "13-foundry-albedo.png",
+      "mips": 12,
+      "decoded_rgba8_bytes": 22369620
+    },
+    "art/scenario/cc075/hq/albedo.rrtex": {
+      "source": "14-hq-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/cc075/one_pillar/albedo.rrtex": {
+      "source": "15-one_pillar-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/cc075/pho_minh/albedo.rrtex": {
+      "source": "16-pho_minh-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/cc079/ministry/albedo.rrtex": {
+      "source": "17-ministry-albedo.png",
+      "mips": 12,
+      "decoded_rgba8_bytes": 11184812
+    },
+    "art/scenario/cccastle/keep_detail_age03/albedo.rrtex": {
+      "source": "18-keep_detail_age03-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/cccastle/monastery_detail_age03/albedo.rrtex": {
+      "source": "19-monastery_detail_age03-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/cccastle/siege_workshop_detail_age03/albedo.rrtex": {
+      "source": "20-siege_workshop_detail_age03-albedo.png",
+      "mips": 11,
+      "decoded_rgba8_bytes": 5592404
+    },
+    "art/scenario/garrison/community_040_details/buildings/detail_archery_range_age02/albedo.rrtex": {
+      "source": "21-detail_archery_range_age02-albedo.png",
+      "mips": 10,
+      "decoded_rgba8_bytes": 1398100
+    },
+    "art/scenario/garrison/community_040_details/buildings/detail_blacksmith_age02/albedo.rrtex": {
+      "source": "22-detail_blacksmith_age02-albedo.png",
+      "mips": 10,
+      "decoded_rgba8_bytes": 1398100
+    },
+    "art/scenario/garrison/community_040_details/buildings/detail_market_age02/albedo.rrtex": {
+      "source": "23-detail_market_age02-albedo.png",
+      "mips": 10,
+      "decoded_rgba8_bytes": 1398100
+    },
+    "art/scenario/garrison/community_040_details/buildings/detail_stable_age02/albedo.rrtex": {
+      "source": "24-detail_stable_age02-albedo.png",
+      "mips": 10,
+      "decoded_rgba8_bytes": 1398100
+    }
+  },
+  "strengthened_owner_materials": {
+    "art/scenario/cc010/h1/model.rrmaterial": 4,
+    "art/scenario/cc010/h2/model.rrmaterial": 2,
+    "art/scenario/cc010/h3/model.rrmaterial": 2,
+    "art/scenario/cc010/h4/model.rrmaterial": 2,
+    "art/scenario/cc020/barracks_age01/model.rrmaterial": 4,
+    "art/scenario/cc020/barracks_age02/model.rrmaterial": 6,
+    "art/scenario/cc020/barracks_age03/model.rrmaterial": 6,
+    "art/scenario/cc020/barracks_age04/model.rrmaterial": 4,
+    "art/scenario/cc020/hideout_default/model.rrmaterial": 4,
+    "art/scenario/cc020/hideout_stone/model.rrmaterial": 2,
+    "art/scenario/cc020/town_center_age01/model.rrmaterial": 10,
+    "art/scenario/cc020/town_center_age02/model.rrmaterial": 8,
+    "art/scenario/cc020/town_center_age03/model.rrmaterial": 8,
+    "art/scenario/cc020/town_center_age04/model.rrmaterial": 8,
+    "art/scenario/cc040/archery_range_age02/model.rrmaterial": 4,
+    "art/scenario/cc040/archery_range_age03/model.rrmaterial": 4,
+    "art/scenario/cc040/archery_range_age04/model.rrmaterial": 2,
+    "art/scenario/cc040/blacksmith_age02/model.rrmaterial": 2,
+    "art/scenario/cc040/blacksmith_age03/model.rrmaterial": 2,
+    "art/scenario/cc040/blacksmith_age04/model.rrmaterial": 2,
+    "art/scenario/cc040/market_age02/model.rrmaterial": 2,
+    "art/scenario/cc040/market_age03/model.rrmaterial": 2,
+    "art/scenario/cc040/market_age04/model.rrmaterial": 2,
+    "art/scenario/cc040/stable_age02/model.rrmaterial": 2,
+    "art/scenario/cc040/stable_age03/model.rrmaterial": 2,
+    "art/scenario/cc040/stable_age04/model.rrmaterial": 2,
+    "art/scenario/cccastle/keep_age03/model.rrmaterial": 2,
+    "art/scenario/cccastle/monastery_age03/model.rrmaterial": 2,
+    "art/scenario/cccastle/monastery_age04/model.rrmaterial": 2,
+    "art/scenario/cccastle/siege_workshop_age03/model.rrmaterial": 2,
+    "art/scenario/cccastle/siege_workshop_age04/model.rrmaterial": 2
+  },
+  "skirmisher": {
+    "2": {
+      "original_skeleton_and_animator": true,
+      "native_lods": 3,
+      "private_textures": [
+        "art/scenario/garrison/cc076/skirmisher2/10929574892962798707_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher2/14181862105599834772_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher2/633710455953203820_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher2/albedo.rrtex"
+      ]
+    },
+    "3": {
+      "original_skeleton_and_animator": true,
+      "native_lods": 3,
+      "private_textures": [
+        "art/scenario/garrison/cc076/skirmisher3/14383011819120627896_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher3/15080374228671006076_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher3/4727240497916616832_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher3/albedo.rrtex"
+      ]
+    },
+    "4": {
+      "original_skeleton_and_animator": true,
+      "native_lods": 3,
+      "private_textures": [
+        "art/scenario/garrison/cc076/skirmisher4/17205549771880325745_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher4/9010649546216663545_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher4/9694339043073300434_packed.rrtex",
+        "art/scenario/garrison/cc076/skirmisher4/albedo.rrtex"
+      ]
+    }
+  }
+}

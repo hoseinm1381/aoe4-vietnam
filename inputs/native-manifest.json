@@ -85,8 +85,8 @@
   },
   "art/scenario/cc010/h1/model.rrmaterial": {
     "toc": "data",
-    "bytes": 32848,
-    "sha256": "b910a8254a18ba5311832cb63a632b0cc932c0f2e943c955fd0ef1e66b1759f3",
+    "bytes": 32840,
+    "sha256": "f12efb70ce50f9b3342becf819b55ebc3b248cb1e64f25aa1e427c3703044062",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc010/h2/model.rgm": {
@@ -109,8 +109,8 @@
   },
   "art/scenario/cc010/h2/model.rrmaterial": {
     "toc": "data",
-    "bytes": 33832,
-    "sha256": "4ec63cb816e2cb56f48305ae5d6a72e31db0386c75c6e3b678d4c7c4cc92bf09",
+    "bytes": 33828,
+    "sha256": "e8205efdeb0989c7bce07eae9f9b056e32dd0c14855eb6983da4f270dfb7e480",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc010/h3/model.rgm": {
@@ -133,8 +133,8 @@
   },
   "art/scenario/cc010/h3/model.rrmaterial": {
     "toc": "data",
-    "bytes": 33742,
-    "sha256": "9b35bbde4151d3f423a280bd80e3bde0ee32526ef5be4901d48cbdb93a5e50d7",
+    "bytes": 33738,
+    "sha256": "aac0c35a432add253b24bbff914b79d818ee8b02bb337189c18df1f7b451f1b5",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc010/h4/model.rgm": {
@@ -157,8 +157,8 @@
   },
   "art/scenario/cc010/h4/model.rrmaterial": {
     "toc": "data",
-    "bytes": 47904,
-    "sha256": "f3d5339819d8bd0529163600c1e47b2797ce9ca02d13ad66b71637ab2306ac8b",
+    "bytes": 47900,
+    "sha256": "7162321bd8eb89f0ad654f9541e7edb193c2b508a04a7d3165433aeef8ef5b13",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc010/t1/model.rgm": {
@@ -283,8 +283,8 @@
   },
   "art/scenario/cc020/barracks_age01/model.rrmaterial": {
     "toc": "data",
-    "bytes": 66670,
-    "sha256": "cbf63774d29322d7344e13d4708b4958852bd1a4f14d34c75ace1b0d6d557f68",
+    "bytes": 66662,
+    "sha256": "6d02051c11008e11ca4c5b602ea3fc6297926bbd6317931aac9824766eab43e9",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/barracks_age01/vn_barracks_age01_control_roof.rrtex": {
@@ -319,8 +319,8 @@
   },
   "art/scenario/cc020/barracks_age02/model.rrmaterial": {
     "toc": "data",
-    "bytes": 83002,
-    "sha256": "b0d9e7d32255cac9677f0f575acc9f36ce020ebe6ab267422568b47d57b241a1",
+    "bytes": 82990,
+    "sha256": "c22f3d71d46295094d505b76e441222ccd042bb231307c529612a53a7f087796",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/barracks_age02/vn_barracks_age02_roof.rrtex": {
@@ -349,8 +349,8 @@
   },
   "art/scenario/cc020/barracks_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 82918,
-    "sha256": "f872732194d1b9deca0a158be324ba072498bad453fb09bc1558687cf83cdcb0",
+    "bytes": 82906,
+    "sha256": "c931c63a9cb8050ec2eba4f28ac3a7b7f0d727610fb9170a8f0f125e5605f990",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/barracks_age03/vn_barracks_age03_roof.rrtex": {
@@ -379,8 +379,8 @@
   },
   "art/scenario/cc020/barracks_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 77390,
-    "sha256": "ef57d79ac6ff267b786eb79e39b6522f0bac88339ffe54ab31d2e78b65e7e2c9",
+    "bytes": 77370,
+    "sha256": "12218e7a69db3a006d1a888a788e140904f5f9d132de4802c70fdba99c5ac509",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/barracks_age04/vn_barracks_age04_roof.rrtex": {
@@ -397,8 +397,8 @@
   },
   "art/scenario/cc020/economy_ministry/model.rgm": {
     "toc": "data",
-    "bytes": 407048,
-    "sha256": "55928cb8fd058124f9cbc90dd686b2ffa7a522c9b231ae1a399892b3cd62f489",
+    "bytes": 407051,
+    "sha256": "0ed9087cf160774b95619afd36e111f716e68206bda552d0105f95dbf47aa626",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/economy_ministry/model.rgo": {
@@ -409,14 +409,14 @@
   },
   "art/scenario/cc020/economy_ministry/model.rrgeom": {
     "toc": "data",
-    "bytes": 1175120,
-    "sha256": "21927bf1d831585ffb6db104a5ee51733b37be071aade3a0f154fe3432ba96c4",
+    "bytes": 1348470,
+    "sha256": "1e01533d3bbe80ac817968166a9d139803149c4b225af3f3f7c7d1bf064383a2",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/economy_ministry/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1088,
-    "sha256": "afabb44adbac51c8b45dcfd9f8ec0a20268493d89cd348461c48756bef283ec2",
+    "bytes": 16658,
+    "sha256": "e4d4945fa1dbf560fdc7a19024faad53fc8a577542bc17d57b399de7cb15a784",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/farm_paddy_edge/albedo.rrtex": {
@@ -469,8 +469,8 @@
   },
   "art/scenario/cc020/hideout_default/model.rrmaterial": {
     "toc": "data",
-    "bytes": 46896,
-    "sha256": "b3cc4a1107fb3cffa9332b5c753e4dc9ff2c08ad62cd483fa46e95199059a6f2",
+    "bytes": 46888,
+    "sha256": "d63dc5798b65a1eac302fffb715a96ee593b9686298f216f8a5ef04dcf670215",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/hideout_shelter_default/model.rgm": {
@@ -541,8 +541,8 @@
   },
   "art/scenario/cc020/hideout_stone/model.rrmaterial": {
     "toc": "data",
-    "bytes": 50440,
-    "sha256": "1f7650d43ec49bab0dbf8af89da38e3c72ee9e3e63fa4e46742a10fb1725e0f9",
+    "bytes": 50404,
+    "sha256": "72f9f6768c6f38504090f9e221f8c15d6a158892ddf9610e3a4b27aee0f903ce",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/town_center_age01/model.rgm": {
@@ -565,8 +565,8 @@
   },
   "art/scenario/cc020/town_center_age01/model.rrmaterial": {
     "toc": "data",
-    "bytes": 158446,
-    "sha256": "3d41412b10bad0d1315ac237f60156db7b18f4aa4260eaa67c15c005fe062757",
+    "bytes": 158402,
+    "sha256": "feffbe3283e2165569c503e89271efa1acb46614d9cbf245a0b56bec7d575036",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/town_center_age01/vn_town_center_age01_roof.rrtex": {
@@ -595,8 +595,8 @@
   },
   "art/scenario/cc020/town_center_age02/model.rrmaterial": {
     "toc": "data",
-    "bytes": 160826,
-    "sha256": "1603f0bd516a5bf2109b05730a639384601ce46b35ce4cc553ed8b584231a6c1",
+    "bytes": 160804,
+    "sha256": "e655c9a0374db88a343c8c7713a1f68e1f7ca9e44ed32a95ca944d8c714d5fda",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/town_center_age02/vn_town_center_age02_roof.rrtex": {
@@ -625,8 +625,8 @@
   },
   "art/scenario/cc020/town_center_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 160948,
-    "sha256": "121b240543d9e1833bb09e106dd0206ec6eb28ea57a2c944f66a71c643d0fa58",
+    "bytes": 160932,
+    "sha256": "4b85a43579b2a64dfc6f5fe344f668699979b408b7370ca4a74cfdddac83b14f",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/town_center_age03/vn_town_center_age03_roof.rrtex": {
@@ -655,8 +655,8 @@
   },
   "art/scenario/cc020/town_center_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 171196,
-    "sha256": "d79978cf6495da58fd104fc2103c92c36744f693714af28bdc830f5a8d1d5d3c",
+    "bytes": 171180,
+    "sha256": "ccbf13eda666a18c937ef315d39368b77cab533a0edd14a3b7861256ab2fbd06",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc020/town_center_age04/vn_town_center_age04_roof.rrtex": {
@@ -667,8 +667,8 @@
   },
   "art/scenario/cc030/one_pillar/model.rgm": {
     "toc": "data",
-    "bytes": 82149,
-    "sha256": "2f3c4772425bd879f7242a7951f284ad840542ca82333c7cc22a11ac3359b470",
+    "bytes": 82152,
+    "sha256": "f94d5d361fbcfee05b7ecdcee1873f11617101ca94ca6752d46ccd4c7eb99b6d",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc030/one_pillar/model.rgo": {
@@ -679,20 +679,20 @@
   },
   "art/scenario/cc030/one_pillar/model.rrgeom": {
     "toc": "data",
-    "bytes": 418860,
-    "sha256": "c473deef95a0fdd0a0e38bb0f902d529402e9eb45ef12abaf779eba4b4c9142d",
+    "bytes": 490686,
+    "sha256": "e4ffc1c56e467b5bb3cf2d9039b2e1071c1e2063cc4b8d4d9ecd7c7706530d51",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc030/one_pillar/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1080,
-    "sha256": "3823ae0d58afa86be0a6af9134239f3174ee35180da9c659aacbbf11d84f3e65",
+    "bytes": 16626,
+    "sha256": "972c786691767d15cd9293d88a1e9d917b0918aa2792c7f05e3cf91045d16cea",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc030/pho_minh/model.rgm": {
     "toc": "data",
-    "bytes": 88458,
-    "sha256": "73b6cdfd1e561dc12a48a9633c0a0ab54b50d23aeb03c9bd1ce52ccf5ad63026",
+    "bytes": 88461,
+    "sha256": "43e042bd50b8284629ea25b382dc3efc0656650ed2726eb5d22b625361166ff7",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc030/pho_minh/model.rgo": {
@@ -703,14 +703,14 @@
   },
   "art/scenario/cc030/pho_minh/model.rrgeom": {
     "toc": "data",
-    "bytes": 457476,
-    "sha256": "543adb419556d4547759cbd216fb2dad81e44f0047ac0e0166c56c2a11b90cc1",
+    "bytes": 536046,
+    "sha256": "466d0f58086a0b86e162c5ed5cca9ffacb16755e551af172b4b758f003d100f5",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc030/pho_minh/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1072,
-    "sha256": "95a8f404fb6785a30d7c12d6f419d07aaede3a5d83c637175a5997fcceb00d5f",
+    "bytes": 16594,
+    "sha256": "d00a809b85a486230a7bb028b19856d149a4583816f822f86544dc4e347f2d09",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/archery_range_age02/model.rgm": {
@@ -733,8 +733,8 @@
   },
   "art/scenario/cc040/archery_range_age02/model.rrmaterial": {
     "toc": "data",
-    "bytes": 51272,
-    "sha256": "8673f7ff9d6057d8649068ff5f5c0cf9c085257ad7da2422dbbe493d82566e69",
+    "bytes": 51264,
+    "sha256": "6e7df9d7cae4745af41873e63d26915399c446c6b098fc24e78536ca756063f5",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/archery_range_age03/model.rgm": {
@@ -757,8 +757,8 @@
   },
   "art/scenario/cc040/archery_range_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 51512,
-    "sha256": "85c49cd327c4b0e97690f86527ba581412ee3bde313f69b4dd3fdd23ac3d67a9",
+    "bytes": 51504,
+    "sha256": "dcd72c535cc5313022f39e7ce5b75217a8baf75347ba00e26ee535e8a93c7336",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/archery_range_age04/model.rgm": {
@@ -781,8 +781,8 @@
   },
   "art/scenario/cc040/archery_range_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 47338,
-    "sha256": "1aca1d4795aeed6a3d1dd71bc1af35c692f2650dc515e0cd36608f8db455819c",
+    "bytes": 47334,
+    "sha256": "20947f6c6a118b971143209507cc0cec32ad8fad59bddbcd1c262265cb77f8ad",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/blacksmith_age02/model.rgm": {
@@ -805,8 +805,8 @@
   },
   "art/scenario/cc040/blacksmith_age02/model.rrmaterial": {
     "toc": "data",
-    "bytes": 50384,
-    "sha256": "748823a6e8b1860a4ebf548f81ff360d0c063984ccb132d006a9a8d48364e876",
+    "bytes": 50380,
+    "sha256": "49fc4f86f94c64b754101504f4e9f7317a5941dd6d94684faa95f6d234c3c59f",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/blacksmith_age03/model.rgm": {
@@ -829,8 +829,8 @@
   },
   "art/scenario/cc040/blacksmith_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 50954,
-    "sha256": "d6cd78c948cccd7f0ecc4d9944f677773646a1420e1b4bd5daee25b4460458df",
+    "bytes": 50944,
+    "sha256": "2cf4d028280f8821e4e361ea8a8eda43b7aabe3fe3d0fe46264d12e7ae2bf5f2",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/blacksmith_age04/model.rgm": {
@@ -853,8 +853,8 @@
   },
   "art/scenario/cc040/blacksmith_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 47878,
-    "sha256": "52ea3f73367ed181c3c5c55422672404c82f78a2a1640c0489c31a1561639fad",
+    "bytes": 47868,
+    "sha256": "03024c348b910d74ce625cbc2ef34f4d07e97926746e7bdd5d0afafa17af5444",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/market_age02/model.rgm": {
@@ -877,8 +877,8 @@
   },
   "art/scenario/cc040/market_age02/model.rrmaterial": {
     "toc": "data",
-    "bytes": 32438,
-    "sha256": "e278e2682696b7ffa55fb51280344195a580f3f2578eb1a439c38afcef1b9392",
+    "bytes": 32434,
+    "sha256": "a74bf56b28d615acd5f5a7576f2fe05f2503f13e95a5f9ee5a99973617e38536",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/market_age03/model.rgm": {
@@ -901,8 +901,8 @@
   },
   "art/scenario/cc040/market_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 32430,
-    "sha256": "c5a8a11cc89a09f86c09afe3767d2d49b9cd53ca2ff21da75872aa1703c9b8c7",
+    "bytes": 32426,
+    "sha256": "973d2973cddd183807883412e484ac83eb7b50ec99b4a5711abd1197ed3f527e",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/market_age04/model.rgm": {
@@ -925,14 +925,14 @@
   },
   "art/scenario/cc040/market_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 47550,
-    "sha256": "48b5de65d6beb480ed9c9be6c74ea82344264c816f63fdbceed561b788055360",
+    "bytes": 47546,
+    "sha256": "de105dc9213eae1353dba66ebae9473e1b158e7ee47131562bf5ad2913099ff0",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/one_pillar/model.rgm": {
     "toc": "data",
-    "bytes": 148219,
-    "sha256": "11616e06c91eb170db5dd0101951be08dc21796eebb019a54583e5a702b77b42",
+    "bytes": 148222,
+    "sha256": "72f6e81c1dc7f20c27fa722e692686a7c976f9e5f48d1bbb35ab623b70d85a0b",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/one_pillar/model.rgo": {
@@ -943,20 +943,20 @@
   },
   "art/scenario/cc040/one_pillar/model.rrgeom": {
     "toc": "data",
-    "bytes": 789520,
-    "sha256": "46f8bbcbaf9fbbeb709baa78fe79be8dc3a98e470782ec173eb2204ce3e934bb",
+    "bytes": 925494,
+    "sha256": "48e77ead44e15451c3ee7f8e90136fe61da3da83f38c71eb5a7032cd938842df",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/one_pillar/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1080,
-    "sha256": "b9722d87de6d6b8f07b96254b93b59b164218c1f6374ea06b8649601fa9db3d6",
+    "bytes": 16626,
+    "sha256": "972c786691767d15cd9293d88a1e9d917b0918aa2792c7f05e3cf91045d16cea",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/pho_minh/model.rgm": {
     "toc": "data",
-    "bytes": 104912,
-    "sha256": "a37e5bb923990f056d9b4b659cecd5de859518ea40aa52bdb01bc174160dafb6",
+    "bytes": 104915,
+    "sha256": "ebba94e2bc5f4e91b7b9b7962b918e1521050b5193cca9b23b1da6f274a402d1",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/pho_minh/model.rgo": {
@@ -967,14 +967,14 @@
   },
   "art/scenario/cc040/pho_minh/model.rrgeom": {
     "toc": "data",
-    "bytes": 544596,
-    "sha256": "124b5bf98767a630ce7364fc9724a056926ab49805c61642ed29308e314fa294",
+    "bytes": 638094,
+    "sha256": "28bb73cb249fbe0ce1d9cd70673fc18ec81160ac4ab432b53e0e00936db7693d",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/pho_minh/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1072,
-    "sha256": "142dc5549ab3bd1bcf7d2eb8490505d39ff35d78568515f0287d6c8e80764872",
+    "bytes": 16594,
+    "sha256": "d00a809b85a486230a7bb028b19856d149a4583816f822f86544dc4e347f2d09",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/stable_age02/model.rgm": {
@@ -997,8 +997,8 @@
   },
   "art/scenario/cc040/stable_age02/model.rrmaterial": {
     "toc": "data",
-    "bytes": 50002,
-    "sha256": "168155e0db5cee687299f66d7499269c86538d489626388f083a63da9dcfe305",
+    "bytes": 49998,
+    "sha256": "23ed23d805c91322ce2842a5b2079c985aef1ddc0af931104ed352fb1ddda79f",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/stable_age03/model.rgm": {
@@ -1021,8 +1021,8 @@
   },
   "art/scenario/cc040/stable_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 49998,
-    "sha256": "7a0bbdce053504ed447cd41bb9cdcf0ed9f466797334490fde6eb3a5524fe2f2",
+    "bytes": 49994,
+    "sha256": "e21d5141131630b428868408ef9f2726acdfaaf913e42ca3aa1a15319733b014",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc040/stable_age04/model.rgm": {
@@ -1045,14 +1045,14 @@
   },
   "art/scenario/cc040/stable_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 47818,
-    "sha256": "9e5594bb4c480f4786e8df89561566894e79ec1bea3027c62919f07cd0edf27f",
+    "bytes": 47808,
+    "sha256": "ee4291e8cf56913583d9ea0c9fc29d95fb3c6114792f297cde72986341c261c9",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc050/imperial_citadel_campaign/model.rgm": {
     "toc": "data",
-    "bytes": 517591,
-    "sha256": "5cf77d0c6b436c42373215c3a032e97f9fe6382af82293ac17fe3bd2b52213bb",
+    "bytes": 517594,
+    "sha256": "3e8a4f7990fa536b2fbf78ba9aeea503eab0cac13b0d30b9b3b6a18a6c8436c9",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc050/imperial_citadel_campaign/model.rgo": {
@@ -1063,14 +1063,14 @@
   },
   "art/scenario/cc050/imperial_citadel_campaign/model.rrgeom": {
     "toc": "data",
-    "bytes": 2572444,
-    "sha256": "37bade5d6533f5437b01b23d1457f47f416b2d1e973d8c4070445cf8c862bc0e",
+    "bytes": 3004396,
+    "sha256": "f701023e5164e5fabd6a33d5958154cbe08ab8e83babc202503f2f79cc5e56be",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc050/imperial_citadel_campaign/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1110,
-    "sha256": "8d309f154fae39714ee89f5ee26339f2381d6d285b4f1543b474efe3a3ccefbf",
+    "bytes": 16644,
+    "sha256": "e4a5b74c6beb9a325bbdd9c593a62307d7bff8f6a669cde39449af8984117a1e",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc061/imperial_citadel/albedo.rrtex": {
@@ -1105,8 +1105,8 @@
   },
   "art/scenario/cc070/foundry/model.rgm": {
     "toc": "data",
-    "bytes": 172378,
-    "sha256": "71508b415249c77617a1662e96716747af944cadc5bac9d62751bbce25bad795",
+    "bytes": 172381,
+    "sha256": "23958dcaca29663617bb2e7383eea50802ea77d11f91f5daa2be082b505d0d05",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/foundry/model.rgo": {
@@ -1117,14 +1117,14 @@
   },
   "art/scenario/cc070/foundry/model.rrgeom": {
     "toc": "data",
-    "bytes": 880744,
-    "sha256": "052be0634422d5609cd0bb04bae47a5e592201ac0554c0610526e94f45968105",
+    "bytes": 1030758,
+    "sha256": "d29210d7a5a61e1a29653df4b81e066d5f76eea0b6c187b553b561fa41c4aee0",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/foundry/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1082,
-    "sha256": "e8615fc456127c48a29d1f756a5e9c11248f506d81a04f126c18c63d5ab65e1d",
+    "bytes": 16628,
+    "sha256": "673987071157cce21487dd7022b7bcbf3ca449f6e50be996d9bdfedaf7fdd017",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/garden/2086314187983414385_packed.rrtex": {
@@ -1141,14 +1141,14 @@
   },
   "art/scenario/cc070/garden/albedo.rrtex": {
     "toc": "data",
-    "bytes": 1685701,
-    "sha256": "8385a18db71f9265168772e6653bb60071663024fc093640a595534ffe50f0f3",
+    "bytes": 1560743,
+    "sha256": "49b290f23165b5a23183377c67fa47a571a503c607126f5f891325864f52456b",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/garden/model.rgm": {
     "toc": "data",
-    "bytes": 464037,
-    "sha256": "da7735e229dfb2c24bd0b1f4539dfb25d86aeb55f31644ac0a41f44f306428c2",
+    "bytes": 464040,
+    "sha256": "69ecb73e5342ecf1d7e083914249f61fe615ed2f480fa23ad1ff57d1f7452c49",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/garden/model.rgo": {
@@ -1159,14 +1159,14 @@
   },
   "art/scenario/cc070/garden/model.rrgeom": {
     "toc": "data",
-    "bytes": 2856384,
-    "sha256": "bd88e4192a95d859f93e16c65c8f2a3594c3291a9462b1ac73de2174a0a8cc52",
+    "bytes": 3357532,
+    "sha256": "95d9c1d10943d9e67cc750efc00193494fc4e51239bf4eedd8c33ad4a69de872",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/garden/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1072,
-    "sha256": "7d5e5a5cd755a92dc9385504fe9f1a0761085ed4900455186e9a918b08f092ed",
+    "bytes": 16588,
+    "sha256": "cd021b362f066ec5c62fb0685525ad8b53044c03cbc7097de86fec026ecfe368",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/university/8737904979625252163_packed.rrtex": {
@@ -1183,14 +1183,14 @@
   },
   "art/scenario/cc070/university/albedo.rrtex": {
     "toc": "data",
-    "bytes": 1673843,
-    "sha256": "dadd07b495a70722792a1dab6f07404ac8c0c2da7d639ee0fbffa5807275dfee",
+    "bytes": 1614714,
+    "sha256": "d115be6521e55581f9d8af16cb2b83ad6238682be57eff731c73ae8e3dc698c8",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/university/model.rgm": {
     "toc": "data",
-    "bytes": 47600,
-    "sha256": "3b026ba52239b17c464a67e72f232db0d381bb7832e1fc19674f384fc64fd402",
+    "bytes": 47603,
+    "sha256": "8de5f4cc5266768e99bf36af6322b0e88e1692ae3971df5e7415a687ca651d9b",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/university/model.rgo": {
@@ -1201,14 +1201,14 @@
   },
   "art/scenario/cc070/university/model.rrgeom": {
     "toc": "data",
-    "bytes": 249400,
-    "sha256": "ebb6eaec9df85330d907f9e689eb74b5b48032c1a1b607c8dde60a35346577ae",
+    "bytes": 291534,
+    "sha256": "09cdedb2ce61ea65c7ea43c4bc3dd03d001d9723f914b6ff0086d1404a0f6892",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/university/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1120,
-    "sha256": "a87b40d1e2b5a8155b794dfbca8572636a891815fe895b8eb9c5fd04f6226553",
+    "bytes": 16732,
+    "sha256": "435ac8a8e519b44b284cc832543a4570e84799b7dc6d6a55eb7f224f1f826622",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/wonder/17106453399618985234_packed.rrtex": {
@@ -1225,14 +1225,14 @@
   },
   "art/scenario/cc070/wonder/albedo.rrtex": {
     "toc": "data",
-    "bytes": 1664373,
-    "sha256": "c4b2e8887bacaa6177ebe467f7169ffa10f322d24ada63fa2c8ccc6a11e579d0",
+    "bytes": 1668127,
+    "sha256": "eb678cd1d5b7abcaf055371ec3a78fc3b8d185a94490d0b6fcb86f2d559752a3",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/wonder/model.rgm": {
     "toc": "data",
-    "bytes": 437148,
-    "sha256": "3fd56c2edeb4b7eb17fd24ee4393e194cc99ca2735876066577f288a1016cd56",
+    "bytes": 437151,
+    "sha256": "09747e7ad9db4c01275fe3bf748cc18f2a063d972beda3a23e1291a7e5d697d6",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/wonder/model.rgo": {
@@ -1243,14 +1243,14 @@
   },
   "art/scenario/cc070/wonder/model.rrgeom": {
     "toc": "data",
-    "bytes": 2370828,
-    "sha256": "450dc6f414b287fcf3b98d56f0fe2c303adc58053fa65b819137b1b314f0cc06",
+    "bytes": 2775904,
+    "sha256": "9ef1ad95314e3d3b7bfed7cb568a80b3133bfa574b609caaf4d735bf385c5477",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc070/wonder/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1078,
-    "sha256": "cfd229a99a19b21a7e47d458c742c7e3ad33bd65d661874bc0f6121be1806dd7",
+    "bytes": 16588,
+    "sha256": "3ac5fce899444e0fa08b9a9f1fb70dcac23f47bfe2c703cfe327fd7ecdefddce",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc075/citadel/119076798523202272_packed.rrtex": {
@@ -1267,14 +1267,14 @@
   },
   "art/scenario/cc075/citadel/albedo.rrtex": {
     "toc": "data",
-    "bytes": 407962,
-    "sha256": "414a44d8df897542291025bea8d83e474e8a6877d8bd5a207289c22aa964ae96",
+    "bytes": 397885,
+    "sha256": "c7593bbee8f09f0e52fc29e7f224e3af22c5c0191dbcf5ff9fdf8837581cdda4",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc075/foundry/albedo.rrtex": {
     "toc": "data",
-    "bytes": 1517629,
-    "sha256": "576fc4060c9e4948a76b9129d41f10d6a984e8135a574747786689821ebdf5db",
+    "bytes": 1496911,
+    "sha256": "a05953546e5e3fb5afcf21ca5f3b6b443454c9382ae89906e1be1da24ebf1df9",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc075/hq/8563142033909507070_packed.rrtex": {
@@ -1291,8 +1291,8 @@
   },
   "art/scenario/cc075/hq/albedo.rrtex": {
     "toc": "data",
-    "bytes": 402623,
-    "sha256": "793f68aa7c64f523c023c00698c28f7de8c399e5c49a192efd125b9579043fe9",
+    "bytes": 398218,
+    "sha256": "9268e17c36b8e72a57dd45d666da90a1f5ddd18da6ccbdb404dd646a1f2a7cd1",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc075/ministry/1547227453047835158_packed.rrtex": {
@@ -1315,8 +1315,8 @@
   },
   "art/scenario/cc075/one_pillar/albedo.rrtex": {
     "toc": "data",
-    "bytes": 502169,
-    "sha256": "ca22f9c26b230a97f26df9d18ec8aa5292d8c80aa9bcf40ec1dcaf7f6a8c077a",
+    "bytes": 509281,
+    "sha256": "e99c0e9254d057d389e8e6f6e00f8628e7a9ca441798be5a6968d222e10836a4",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc075/pho_minh/5445601927786197355_packed.rrtex": {
@@ -1327,8 +1327,8 @@
   },
   "art/scenario/cc075/pho_minh/albedo.rrtex": {
     "toc": "data",
-    "bytes": 499855,
-    "sha256": "0df47541bbdd178f0859b3b6dff9c4484e5beae9e8bba7e3bb833d352e303dcf",
+    "bytes": 502555,
+    "sha256": "0e51e16eb380b1ae7ee2fef2dd41cde29e9c31efe6154c107f5e8618e51de873",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cc077/ministry/17722715800748590796_packed.rrtex": {
@@ -1357,14 +1357,14 @@
   },
   "art/scenario/cc079/ministry/albedo.rrtex": {
     "toc": "data",
-    "bytes": 797894,
-    "sha256": "0363113bd60369325a2251debb1d13d38d26901f9214dcf6e7b39f37b64c5089",
+    "bytes": 700005,
+    "sha256": "d3ba9ffb49506779d1d6dad1878a523a2d17403c4b62e8374c2eb0a8b1eb74a4",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/imperial_citadel/model.rgm": {
     "toc": "data",
-    "bytes": 517107,
-    "sha256": "5f49355f5ce101ce678d6049a75ccad8f75da534d23159d3152638da30bd1773",
+    "bytes": 517110,
+    "sha256": "977a5de60afc88a5f0a72ede83de41c32cd823f24d312f5f38d28320d383f7bf",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/imperial_citadel/model.rgo": {
@@ -1375,14 +1375,14 @@
   },
   "art/scenario/cccastle/imperial_citadel/model.rrgeom": {
     "toc": "data",
-    "bytes": 2572444,
-    "sha256": "37bade5d6533f5437b01b23d1457f47f416b2d1e973d8c4070445cf8c862bc0e",
+    "bytes": 3004396,
+    "sha256": "f701023e5164e5fabd6a33d5958154cbe08ab8e83babc202503f2f79cc5e56be",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/imperial_citadel/model.rrmaterial": {
     "toc": "data",
-    "bytes": 1110,
-    "sha256": "8d309f154fae39714ee89f5ee26339f2381d6d285b4f1543b474efe3a3ccefbf",
+    "bytes": 16644,
+    "sha256": "e4a5b74c6beb9a325bbdd9c593a62307d7bff8f6a669cde39449af8984117a1e",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/keep_age03/model.rgm": {
@@ -1405,14 +1405,14 @@
   },
   "art/scenario/cccastle/keep_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 79214,
-    "sha256": "92293f096dd2dc5ecf013c79c3976cd89a91b3480c6066163ee0efcce81206e4",
+    "bytes": 79210,
+    "sha256": "89f8f6d3770a57c2698f43b263d701fc726b333e3d72d95009365b13a5d70f17",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/keep_detail_age03/albedo.rrtex": {
     "toc": "data",
-    "bytes": 494041,
-    "sha256": "02131d27f76523c0cb11f397a6bce785ae1f8b01cdd968128fb9df7ab4482397",
+    "bytes": 498646,
+    "sha256": "30ea4679df01bfdf0a96717f0ec4ab54a4f9588e1f93bc7aba76183e934a5832",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/keep_detail_age03/model.rgm": {
@@ -1459,8 +1459,8 @@
   },
   "art/scenario/cccastle/monastery_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 48082,
-    "sha256": "8e191f866ff7bcbb04a46db9fbfac8722d58825fa7599acdbaa550d7abc43297",
+    "bytes": 48072,
+    "sha256": "e67fe645c16cdd3c2d09cfe0824a745eecb8632cf9eb76ff7c301e84d50a27bf",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/monastery_age04/model.rgm": {
@@ -1483,14 +1483,14 @@
   },
   "art/scenario/cccastle/monastery_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 48746,
-    "sha256": "6dc088822abdd9e7d0ba5c683b0c55f968b448cdd110fb42b2f956a73b04ed1b",
+    "bytes": 48742,
+    "sha256": "11aa2cf471085a164300f43eddc1369b9ec9f7b55c69077954cb589aa1e94e0e",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/monastery_detail_age03/albedo.rrtex": {
     "toc": "data",
-    "bytes": 493848,
-    "sha256": "76c24369a54a9c57ee4a0e49b5c01ca46ec6fa7c5cdcbabd64de0ba701d9fb03",
+    "bytes": 497004,
+    "sha256": "a62d6378b5f618a7eb5e6ee761c5d47bfab2137cdb58ecb0e7e74ee6822e65c5",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/monastery_detail_age03/model.rgm": {
@@ -1603,8 +1603,8 @@
   },
   "art/scenario/cccastle/siege_workshop_age03/model.rrmaterial": {
     "toc": "data",
-    "bytes": 48120,
-    "sha256": "32c8f1bcf9b81858811a620d985a5b1f226d260b3e75310f50c726cfc80564e0",
+    "bytes": 48116,
+    "sha256": "bb7493780874f6f92dce45db75a763f05df028c7126286b704f4c6b008248693",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/siege_workshop_age04/model.rgm": {
@@ -1627,14 +1627,14 @@
   },
   "art/scenario/cccastle/siege_workshop_age04/model.rrmaterial": {
     "toc": "data",
-    "bytes": 48214,
-    "sha256": "11a241e7ef4ed6d1a4077f252ff2eefc2b437375df8402fd30cf924ce80258e2",
+    "bytes": 48204,
+    "sha256": "898ead9973301b42786be8ee079a0d87656d583b07063125a8a33da302480be2",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/siege_workshop_detail_age03/albedo.rrtex": {
     "toc": "data",
-    "bytes": 493937,
-    "sha256": "2d0b082e849e00628c5abdb2a48af9b85541e9b0d7d5669dcbb7eb41d5a99a92",
+    "bytes": 494228,
+    "sha256": "35f05b9a3b65edb809d28eec3dfb3139d432910f8f617955188efdfa450d7766",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/cccastle/siege_workshop_detail_age03/model.rgm": {
@@ -1909,14 +1909,14 @@
   },
   "art/scenario/garrison/cc076/skirmisher2/633710455953203820_packed.rrtex": {
     "toc": "data",
-    "bytes": 16272,
-    "sha256": "6f2e7c0013c9da0f1fe9b3e9c4655aaefa658d4cc9ef75799da80cb9d1d817f9",
+    "bytes": 17259,
+    "sha256": "53f75400d4f56c70cc7aab29d1f643b15311c33b1de6d5e75863c696be521900",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher2/model.rgm": {
     "toc": "data",
-    "bytes": 146740,
-    "sha256": "16422e7d9beb1aa739023a84f3746ef560ba0f7286d2082efc854fb999594545",
+    "bytes": 102646,
+    "sha256": "03b8dbeb7e4c2e068188fc87b247f13db3b5e7e02c5732b79eee362d6e6db4a2",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher2/model.rgo": {
@@ -1927,20 +1927,20 @@
   },
   "art/scenario/garrison/cc076/skirmisher2/model.rrgeom": {
     "toc": "data",
-    "bytes": 315067,
-    "sha256": "0c4fa67f2ecce574bf1c6e5a72c15d3bc44487ca89e0f4e753b2df7f5a47b8c0",
+    "bytes": 221345,
+    "sha256": "09bdf196f3ed0b47074e62c3f05b8aa498e47862a13fa38d5d2efe36a01a03e0",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher2/model.rrmaterial": {
     "toc": "data",
-    "bytes": 2031,
-    "sha256": "ae01199986090c522c4cbcf0ca7f4c77e7ae93dede7029208b18c6b370b66855",
+    "bytes": 2058,
+    "sha256": "cef63a1b2e79abf662ac8f37bb7c11fefa73551dbceefde004f148dd763d06d5",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher3/model.rgm": {
     "toc": "data",
-    "bytes": 153816,
-    "sha256": "7c29f778227ba503389b3501f6da8e7fcdcf1e031a1e79b5f9ee59b821614a87",
+    "bytes": 102692,
+    "sha256": "70b534ec38968c2710ec22d950a99b35a7cd739b2a1a9bc31fb48fde61090805",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher3/model.rgo": {
@@ -1951,20 +1951,20 @@
   },
   "art/scenario/garrison/cc076/skirmisher3/model.rrgeom": {
     "toc": "data",
-    "bytes": 331799,
-    "sha256": "6d1fd1833bb0e892f3e97f01c9418f97f75d0daf6467f02ac0f04fe788262917",
+    "bytes": 221519,
+    "sha256": "da946e1a76bf0ed496d7bff57853a4a46cf9ad1c978499ec2306d7bd865e5e0f",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher3/model.rrmaterial": {
     "toc": "data",
-    "bytes": 2028,
-    "sha256": "a06328e9e1740bb59d2b46c18f9be86523711c7f433b4259f50696ba54ec5fc6",
+    "bytes": 2061,
+    "sha256": "6f7af56cf8f627ab08fb4d80090d630ef7c8fef162092f3986821d139f08b6ad",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher4/model.rgm": {
     "toc": "data",
-    "bytes": 208880,
-    "sha256": "17bc70071f18c32c819ad9c82a77bb291624b827c3d18268e726335efc411439",
+    "bytes": 103796,
+    "sha256": "2fa5c1be3450fb1b34785e195c60027bf30e2a6e246eff9fcb0e65c1e895e3af",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher4/model.rgo": {
@@ -1975,14 +1975,14 @@
   },
   "art/scenario/garrison/cc076/skirmisher4/model.rrgeom": {
     "toc": "data",
-    "bytes": 726271,
-    "sha256": "b7eb9997f167a4076bc996681ebc36e6d9cbd924ed4c74f0cad3d8201586901f",
+    "bytes": 226499,
+    "sha256": "69db9af86d2d4cbb9e37e31c10609881a0faeb7b82de759be00777e5bc22cc42",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc076/skirmisher4/model.rrmaterial": {
     "toc": "data",
-    "bytes": 2028,
-    "sha256": "a06328e9e1740bb59d2b46c18f9be86523711c7f433b4259f50696ba54ec5fc6",
+    "bytes": 2058,
+    "sha256": "b0c86b718384a78f2c6df0b04665a9bd1c87ee3f3166fe36e67eb35c9edb7b19",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/cc082/buffalo_animator/animator.rgm": {
@@ -2017,8 +2017,8 @@
   },
   "art/scenario/garrison/community_040_details/buildings/detail_archery_range_age02/albedo.rrtex": {
     "toc": "data",
-    "bytes": 125428,
-    "sha256": "c5f14493241801f9c002ca2da2d9216b1b40f0a4c56791414527fd0ecdbcf276",
+    "bytes": 126640,
+    "sha256": "1e7cabb222c4746455e89dcde5f962b74f94d916c22b00c52b94503235b94890",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/community_040_details/buildings/detail_archery_range_age02/model.rgm": {
@@ -2095,8 +2095,8 @@
   },
   "art/scenario/garrison/community_040_details/buildings/detail_blacksmith_age02/albedo.rrtex": {
     "toc": "data",
-    "bytes": 125404,
-    "sha256": "de68c5941160dc8d1ce07c99e91ab6456f7bfdf1719639be4be733c1faca3803",
+    "bytes": 126829,
+    "sha256": "7482be9d10b1b12dbb0cdfbd4679e38452287ee1a975a8c6a0340fd59bea4e5a",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/community_040_details/buildings/detail_blacksmith_age02/model.rgm": {
@@ -2173,8 +2173,8 @@
   },
   "art/scenario/garrison/community_040_details/buildings/detail_market_age02/albedo.rrtex": {
     "toc": "data",
-    "bytes": 125719,
-    "sha256": "8ed6af3b028e8b46fc1e40cf17104a3d78632e6bae7d7730d3205fc8da60f35e",
+    "bytes": 126061,
+    "sha256": "3f9583cf912e8ff52dc50e262f7f10e2823d71fc2ffd8b638f66374facee84f6",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/community_040_details/buildings/detail_market_age02/model.rgm": {
@@ -2251,8 +2251,8 @@
   },
   "art/scenario/garrison/community_040_details/buildings/detail_stable_age02/albedo.rrtex": {
     "toc": "data",
-    "bytes": 125634,
-    "sha256": "f6ec7847176818833459b7e8404006057ca026a914e2f79252a253bba7476e38",
+    "bytes": 126703,
+    "sha256": "326a5a1ef80221d108dcff11be5ee7fba482b7c81815322dda317335e767be90",
     "origin": "accepted-combined-1.1.0"
   },
   "art/scenario/garrison/community_040_details/buildings/detail_stable_age02/model.rgm": {
@@ -68128,5 +68128,173 @@
     "bytes": 577575,
     "sha256": "c33d26f6ca11883f2a7554f8f5361b83fa249dc5735208df5ab5042c936de0f1",
     "origin": "0.1.1 requested native UI cook"
+  },
+  "art/scenario/garrison/cc076/skirmisher2/10929574892962798707_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 1137785,
+    "sha256": "44bd87ab9965be6406c089dfbdd5657db6703b1675df9558ddf01ee9b68fab34"
+  },
+  "art/scenario/garrison/cc076/skirmisher2/14181862105599834772_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 808865,
+    "sha256": "8e278a4b8331f9a718accac0f5d313e08ea2e40d855ba41db11da5ed0918fb55"
+  },
+  "art/scenario/garrison/cc076/skirmisher2/albedo.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 1003406,
+    "sha256": "3633988b8aaf00900f4a0a270d2d85ce5203438c02d4a49a64bad9a37a39fc8e"
+  },
+  "art/scenario/garrison/cc076/skirmisher3/14383011819120627896_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 893441,
+    "sha256": "a85035850756b27b34f26a155829673bd3cf968711eee05c6d0e6a9ab407b037"
+  },
+  "art/scenario/garrison/cc076/skirmisher3/15080374228671006076_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 1137785,
+    "sha256": "9b8d5bd40d2a8f8af56ee3213a8c6f17ddacb0c872f85960da507129c0e86bcb"
+  },
+  "art/scenario/garrison/cc076/skirmisher3/4727240497916616832_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 17259,
+    "sha256": "8da4ca60c31d8ee8e6c4f2f7d6a56511c9ecc3f8d28f3cd70589ba0f2eef0db2"
+  },
+  "art/scenario/garrison/cc076/skirmisher3/albedo.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 1009176,
+    "sha256": "2260d0ae6859d24a3cdadbe48590be2280b78017d88b48663254523f805818eb"
+  },
+  "art/scenario/garrison/cc076/skirmisher4/17205549771880325745_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 1137785,
+    "sha256": "d99f9827b2c85066ab50dcd5abe6a9a01e3be21b876f72d893ff5f3a7fe83e4d"
+  },
+  "art/scenario/garrison/cc076/skirmisher4/9010649546216663545_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 17259,
+    "sha256": "c90ef45c41f449386c0615a27ca00ebb0c37d286d3e97a91df8c6ec5defb2a25"
+  },
+  "art/scenario/garrison/cc076/skirmisher4/9694339043073300434_packed.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 893441,
+    "sha256": "8cc5112c6eac94437ff97389543f7214058115dc696ffe74d37cefbad76c7216"
+  },
+  "art/scenario/garrison/cc076/skirmisher4/albedo.rrtex": {
+    "toc": "data",
+    "origin": "native visual repair cook",
+    "bytes": 1009176,
+    "sha256": "fe04f90281c4730c596b27333222d74a6420c207f0b30cf39da395cdf396dab4"
+  },
+  "art/scenario/vn014/landmarks/citadel-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 374027,
+    "sha256": "297819369d4a82712c7de0eac723f99e789dffbf0be6a3ea99aaaaed466192f0"
+  },
+  "art/scenario/vn014/landmarks/citadel-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 4796,
+    "sha256": "4b8addec93ba7a8db4b926bd8b5125573e5bd4937c94ad06360a9a1c9c8b2c5d"
+  },
+  "art/scenario/vn014/landmarks/foundry-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 1100163,
+    "sha256": "cc9b8ce21fb07d28554bab2d3354cb6170628002dad11562370b7fe8d79dccff"
+  },
+  "art/scenario/vn014/landmarks/foundry-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 15430,
+    "sha256": "51ccc0acfb44ae8c5d48c48daf7137220a2516d9496ee3b67dd0a1676df8a1ab"
+  },
+  "art/scenario/vn014/landmarks/garden-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 1103095,
+    "sha256": "5cb8fd1b72742e96a1b5b00a8583e53171a9631312dc03eb298e08a5d497c7a4"
+  },
+  "art/scenario/vn014/landmarks/garden-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 17190,
+    "sha256": "4054063c761e9c43fac6d80d60bc9bfe5d9cc596e61126010580e87c00a71450"
+  },
+  "art/scenario/vn014/landmarks/ministry-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 654922,
+    "sha256": "6d2a38e5c5ef94bc52b3916675d028227a2a95ad5d777683875c3264dc021140"
+  },
+  "art/scenario/vn014/landmarks/ministry-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 8714,
+    "sha256": "6093c3645b483c14c4003562c6efaa7cc2b6de1dbd3f3169b290b966b4173e09"
+  },
+  "art/scenario/vn014/landmarks/one_pillar-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 489039,
+    "sha256": "bccaedbdddf0223cc693b2b61494e21d08f22760fceee9a17ba951e9a9435f36"
+  },
+  "art/scenario/vn014/landmarks/one_pillar-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 4698,
+    "sha256": "d8dddb87ab9b06f2a125613ca058b9e520b4696dc7d7ee66005b7e07292aa3d4"
+  },
+  "art/scenario/vn014/landmarks/pho_minh-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 487524,
+    "sha256": "bf65977405f34614667410e580fb590b21e2a8dd9748bf70a420eeff72b23dbb"
+  },
+  "art/scenario/vn014/landmarks/pho_minh-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 4696,
+    "sha256": "f3ece4e993bc5b2eada80ce302fdd6626ad8efced72f3ed1d9b0270c45396176"
+  },
+  "art/scenario/vn014/landmarks/university-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 1145793,
+    "sha256": "ac01d907ab00e1da99215d84fb76bc196d38c45c83eb257d76a684856350033a"
+  },
+  "art/scenario/vn014/landmarks/university-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 16874,
+    "sha256": "3a4910a1627a0393ab0dfc2ce36e77087e4d039b05de2a38935ce6bdd99002cd"
+  },
+  "art/scenario/vn014/landmarks/wonder-albedo.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 1184307,
+    "sha256": "6691629227ca4f64d764584d05b5a0166dae9b3aab27471a33a334d9aa6fdaa4"
+  },
+  "art/scenario/vn014/landmarks/wonder-owner.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 16042,
+    "sha256": "30fc69193deb752a1c0b56fd46b0b19b80d66a590f3d364ac3dc282140bca61a"
+  },
+  "art/scenario/vn014/landmarks/black.rrtex": {
+    "toc": "data",
+    "origin": "private standalone building art",
+    "bytes": 320,
+    "sha256": "00e822c2d6aa031d02b9f81ea86b1eeae3dbb9505ac593900fb8d527d4221944"
   }
 }

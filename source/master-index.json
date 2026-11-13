@@ -20135,6 +20135,390 @@
       "bytes": 87536,
       "sha256": "d2532e74d72488c8ae15058ee320f7009f2748a2956786070fecec160604d24a",
       "role": "direct Blender image/library dependency"
+    },
+    {
+      "path": "art013/buildings/09-garden-albedo.png",
+      "bytes": 3611393,
+      "sha256": "6d1394d81bfce9207cb197c1a27f8df8d9d04aa66a44d7aa2ebc3f89bcf621e8",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/10-university-albedo.png",
+      "bytes": 3452912,
+      "sha256": "7f47276dfcafb8ec27c40962e475d87539384355db83e0cea4f427f1f59068b0",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/11-wonder-albedo.png",
+      "bytes": 3715345,
+      "sha256": "428b316b31c7ef7d026121741f30f9e3077b186b37abab920bf3cc277d17f483",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/12-citadel-albedo.png",
+      "bytes": 1028816,
+      "sha256": "dd5cb2278664e12f3d6ce61af3ab710e3ccfa5262897476c697177c57b0a4102",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/13-foundry-albedo.png",
+      "bytes": 2992364,
+      "sha256": "6b07502bec763b219df5ffcc67fddb8a8e2f5b205e68674b44f2b2d27d452663",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/14-hq-albedo.png",
+      "bytes": 977296,
+      "sha256": "cb116b798b67a3f12ace65a3d5e99e341a43bc5ef55b1c73625b7068556db922",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/15-one_pillar-albedo.png",
+      "bytes": 1749064,
+      "sha256": "3d15ce833f7147264d6eb0adf042a9e4379c4fd75dd559f0f9de4e361c448821",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/16-pho_minh-albedo.png",
+      "bytes": 1710145,
+      "sha256": "7449226b74f005980d85fd1b96790048366486a8c90a0aa4cac2d7488c44dea2",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/17-ministry-albedo.png",
+      "bytes": 1778783,
+      "sha256": "cd78e1897487ef81ea02cffe62dbc88d605f80146b2408d49aa5b4f938a805d4",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/18-keep_detail_age03-albedo.png",
+      "bytes": 1683997,
+      "sha256": "cc01d071b1cb888b9f91e9844eb7fe6bd0955d937f985239cd530ceb8b150c1f",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/19-monastery_detail_age03-albedo.png",
+      "bytes": 1687353,
+      "sha256": "2b8a9eb75d35a4103bfd704ed8adc8ed46b0ecab30bdedcb8ae067f62f68a084",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/20-siege_workshop_detail_age03-albedo.png",
+      "bytes": 1693471,
+      "sha256": "1be14f7c962f4ba75c8d81cad90cbea6f083b1ed69e8ebaee02ba7c8999c0c79",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/21-detail_archery_range_age02-albedo.png",
+      "bytes": 427342,
+      "sha256": "e16d65abb6e3e068a4483e7f595102894f4dbda0c2252fdd8af2a5881832e805",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/22-detail_blacksmith_age02-albedo.png",
+      "bytes": 422692,
+      "sha256": "3aa5906509965f7dd7edc56d6ad9c4386706c6ece238faadac1659e07dbfe959",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/23-detail_market_age02-albedo.png",
+      "bytes": 425431,
+      "sha256": "2b07ca42d8e6aad34574835be3766090d3d5f9a41744385dea20f3ecfc83d0b0",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/buildings/24-detail_stable_age02-albedo.png",
+      "bytes": 423148,
+      "sha256": "c4189b63955cc33be7bebcea78af768da9ef01d178466a1f4aced0ee18cd43ad",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/cook_skirmisher.py",
+      "bytes": 3550,
+      "sha256": "8c423e363a4ffbb86ce1dc39b9d8cd5c47d6848f4e509f433d9a54409e483f4f",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher.py",
+      "bytes": 11070,
+      "sha256": "b9dab057cccac6db0bb292839862d07931ada766562117fc83d34cc9a3097e62",
+      "role": "Editable Skirmisher mesh recipe"
+    },
+    {
+      "path": "art013/skirmisher2/albedo.png",
+      "bytes": 1892047,
+      "sha256": "f34639cc91bb6368cd27023201940c6479c35c0ebef436d69c13819486d1be6d",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/metalness.png",
+      "bytes": 21395,
+      "sha256": "5802fc179299d2eda41f22b31bd2d49efb75e9f7edd650e98eea4d0ae34fe08a",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/model.blend",
+      "bytes": 10986580,
+      "sha256": "93cc6d2b8b9e7729d45327353e4d609247ff88e412af909fcf0d2005c8dc9cd7",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/model.fbx",
+      "bytes": 711132,
+      "sha256": "bd1d083fd91026755e8563fd689a0c1c9a602199eb2846ab1b210fd550244887",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/model.rig",
+      "bytes": 1452,
+      "sha256": "29bf453f477aaea7b38c7802653bb93ccbe0d627a3114a56730f371c3a906723",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/normal.png",
+      "bytes": 539956,
+      "sha256": "a0e8f9aac2bf4efbc9c77b18a2f454647ca9be4fca5b9b5dadba6ec55dc39327",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/pattern.png",
+      "bytes": 21409,
+      "sha256": "12a4fe5b97dd58d5e510de8fdc39a440ca085169d15186ae61546ac42ad2f626",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/roughness.png",
+      "bytes": 1265670,
+      "sha256": "22abc83bb878d77f14826b0dd4bfca12b2869224cb6fb096f03d3fb8e98168d0",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher2/source-verification.json",
+      "bytes": 142,
+      "sha256": "2ec01b4fda576e0cb53894b488298a0d4e3b1d97dc1d2ff950b9a09ec79162a5",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/albedo.png",
+      "bytes": 1898213,
+      "sha256": "21312922cc57471e9541c44bec58c60dfa1e2a06510f81360ff02bd55decced8",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/metalness.png",
+      "bytes": 21395,
+      "sha256": "5802fc179299d2eda41f22b31bd2d49efb75e9f7edd650e98eea4d0ae34fe08a",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/model.blend",
+      "bytes": 11126900,
+      "sha256": "3ff291c77f1324ba6505873dff17d23463d83b1cf7b9a2f7f89909a125574177",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/model.fbx",
+      "bytes": 712108,
+      "sha256": "0b1a2a25c09ad2d2f84551c1ca4b5697a612711b8e6de4a9c2d8c78fdc83505f",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/model.rig",
+      "bytes": 1452,
+      "sha256": "29bf453f477aaea7b38c7802653bb93ccbe0d627a3114a56730f371c3a906723",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/normal.png",
+      "bytes": 581278,
+      "sha256": "93858b247a25abcd5aa8217826c2e86bda980a90da180a3414105f0c50b6c2d1",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/pattern.png",
+      "bytes": 21409,
+      "sha256": "12a4fe5b97dd58d5e510de8fdc39a440ca085169d15186ae61546ac42ad2f626",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/roughness.png",
+      "bytes": 1265670,
+      "sha256": "22abc83bb878d77f14826b0dd4bfca12b2869224cb6fb096f03d3fb8e98168d0",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher3/source-verification.json",
+      "bytes": 142,
+      "sha256": "fe5000fce1f338c424c37b7dd8c9dc7519d7205a420afa9d307f120c2c074de9",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/albedo.png",
+      "bytes": 1898213,
+      "sha256": "21312922cc57471e9541c44bec58c60dfa1e2a06510f81360ff02bd55decced8",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/metalness.png",
+      "bytes": 21395,
+      "sha256": "5802fc179299d2eda41f22b31bd2d49efb75e9f7edd650e98eea4d0ae34fe08a",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/model.blend",
+      "bytes": 11220641,
+      "sha256": "c7ab98fe40f7c4baf8eb6f9e2e25cdc552a4a42bd7152ea9d0e30f4f915bf294",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/model.fbx",
+      "bytes": 715356,
+      "sha256": "c09595ed0cae7c200f45b8865c222f96f12730cf4e43aba036b390f1bbd37dc7",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/model.rig",
+      "bytes": 1452,
+      "sha256": "29bf453f477aaea7b38c7802653bb93ccbe0d627a3114a56730f371c3a906723",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/normal.png",
+      "bytes": 581278,
+      "sha256": "93858b247a25abcd5aa8217826c2e86bda980a90da180a3414105f0c50b6c2d1",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/pattern.png",
+      "bytes": 21409,
+      "sha256": "12a4fe5b97dd58d5e510de8fdc39a440ca085169d15186ae61546ac42ad2f626",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/roughness.png",
+      "bytes": 1265670,
+      "sha256": "22abc83bb878d77f14826b0dd4bfca12b2869224cb6fb096f03d3fb8e98168d0",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/skirmisher4/source-verification.json",
+      "bytes": 142,
+      "sha256": "53399c76f0a9da22ee7769a06a3c12363373cc8467608851e9d0d24c579ca9b4",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/vietnam_art.py",
+      "bytes": 7647,
+      "sha256": "189cfb11352098e637d0b4100ff64506dd187bd3f06fcdb12659262cb3f251b6",
+      "role": "Editable Vietnamese building and Skirmisher art"
+    },
+    {
+      "path": "art013/mesh.py",
+      "bytes": 3892,
+      "sha256": "3ffc5eddab04fee99eb2c4a4afa929c27f5e6d44c7462eb6ebcfb08b657920f3",
+      "role": "Editable Skirmisher mesh recipe"
+    },
+    {
+      "path": "art014/citadel-albedo.png",
+      "bytes": 605505,
+      "sha256": "378cc10c37c2cadcab0022d82bbb448568f7de63bf9423c8fb73b962ffedc617",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/citadel-owner.png",
+      "bytes": 6514,
+      "sha256": "e8a5668436d93e8cd589c2ab8bf0c45d17665f08bdf317d675f3edc3da6e50f4",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/foundry-albedo.png",
+      "bytes": 1839094,
+      "sha256": "07e2846479ac418731337214697a091bf1d08df584b49efaa58c0b2f95fb19c3",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/foundry-owner.png",
+      "bytes": 21408,
+      "sha256": "acaa284b4d0da218e00b6735d162460aa158ad465779211499d118141feb9f7f",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/garden-albedo.png",
+      "bytes": 1868954,
+      "sha256": "b57d3daf797ca87495e425d3845178bdd5d13cf8fa86782449f041870e692b27",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/garden-owner.png",
+      "bytes": 21411,
+      "sha256": "a5d078ab328d7ae34e0ad506b4c9d12aefffd217ddeafabfe58f2bb340942240",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/landmark-coverage.json",
+      "bytes": 655,
+      "sha256": "2906dd9c53171cf9edd5621e7c48ace5791151d80c3fdb2c003bddde1e0df326",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/ministry-albedo.png",
+      "bytes": 1078467,
+      "sha256": "d4dd51056a55dd879e966a191b2aa74a2e1e69e6c2dfe8e4dbd956fe31c8f42f",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/ministry-owner.png",
+      "bytes": 10759,
+      "sha256": "ad6a3c75bc94b1006a1865998f79e211cd009f3934ed50ba0eab3651a7026433",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/one_pillar-albedo.png",
+      "bytes": 852914,
+      "sha256": "0857a93b243efc630f722259abdeaa4519274644664d924dd0788f6adfcfe2c8",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/one_pillar-owner.png",
+      "bytes": 6522,
+      "sha256": "696639fc068a71acfff214b9b6a578a06adcf10305dd8fd0eca53bfbe8e23356",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/pho_minh-albedo.png",
+      "bytes": 835509,
+      "sha256": "300e8eb8d49a0829c179f77cafcdd8b4dce7ee74c4bdb587981f1f8c5dd3bcc9",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/pho_minh-owner.png",
+      "bytes": 6522,
+      "sha256": "696639fc068a71acfff214b9b6a578a06adcf10305dd8fd0eca53bfbe8e23356",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/university-albedo.png",
+      "bytes": 1981737,
+      "sha256": "8e4947d2e93d106bb7652611b60114116b1af0328994c2470dc7b6d8c6f199d4",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/university-owner.png",
+      "bytes": 21401,
+      "sha256": "a1ce089736cfb403a54fcd34fd43006bd52c565e3bb99b2b1fdf2d077b859d4b",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/wonder-albedo.png",
+      "bytes": 1995185,
+      "sha256": "1a53490258042d6f6897d0d65243011989c97fd487f3c7c96dcbe2343c2d7d5c",
+      "role": "Editable building art and recipe"
+    },
+    {
+      "path": "art014/wonder-owner.png",
+      "bytes": 21411,
+      "sha256": "19b9b1fa6802dec14203be500c6f3d06e9f0a92f8061c1dadd067bbb6d0e2fb6",
+      "role": "Editable building art and recipe"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

@@ -1,0 +1,172 @@
+EssenceEditor.exe Information: 0 : Building [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\garrison_static.aoe4mod]...
+Planning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\]...
+Filter matched 30 rules.
+Creating [Archive] package...
+Package started at [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-burn\intermediate\archives\garrison_static.sga].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\albedo.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.7168130] for [f08b2a49b23aec1d0799c4b4e8aa57582e162f03].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\metalness.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.4967300] for [706381e8c7514da7da3587b020373e77044ab6b4].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\model.fbx] using [RGM] with [RGM Static | PC, XBO, XBS, PS5]...
+Merging meshes for [<non-shared resource>]
+Burnt [1] outputs in [00:00:00.1991581] for [0a3bf4853268fc0e55ebc06e31f439699862c3ec].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\model.fbx] using [RGO] with [Static RGO | PC, XBO, XBS, PS5]...
+Burn preview indicated no outputs.
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\model.fbx] using [RRGeometry] with [Static RR Geometry | PC, XBO, XBS, PS5]...
+Merging meshes for [<non-shared resource>]
+Burnt [1] outputs in [00:00:00.1229932] for [079ad0fef8624d489dd290731d4044b16cae3a0b].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\model.material] using [RR Material Burner] with [Static Material | PC, XBO, XBS, PS5]...
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Burnt [1] outputs in [00:00:00.1117934] for [50d2217d03358193dc7c23edcab66148681839fd].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher2/albedo.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.5930538] for [8564a3f843729fa2a786b7083db3cd87229a35a5].
+Warning: File was already in archive, skipping art\scenario\garrison\cc076\skirmisher2\albedo.rrtex
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher2/normal.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.6648863] for [1df862f1876204e7bfb79cfdc4a2868215bf756a].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher2/metalness.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.6253148] for [9341ed387b8b835600267e26f6e53bcf7748b6c1].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher2/pattern.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.5014258] for [d48bff4abddac5692b42e8b390bfbe731b0c8caa].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\model.rgo] using [RGO] with [Static RGO | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.1035324] for [9baaa42bc1a621bdbbd912640adb9809f4cbf232].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\normal.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.5721897] for [62f26b5ba5707384fb30d47031558fc4883da89c].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\pattern.png] using [RRTextureBurner] with [Vietnam RGB Owner Masks | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.3896952] for [f5f86d516937fa2abe66960c77a3cc9666735985].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher2\roughness.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.5911938] for [909b782cb1e7e9fa10224332f3018bd24106329f].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\albedo.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.6410496] for [5548dd2a90bf5201d12352f3bd22f5af05e50795].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\metalness.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.4594449] for [2be6fc03f90e12f0429cd263c98475e2da4c35b5].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\model.fbx] using [RGM] with [RGM Static | PC, XBO, XBS, PS5]...
+Merging meshes for [<non-shared resource>]
+Burnt [1] outputs in [00:00:00.1604514] for [cc6ce6cc9451a5da957994885259f9f6dad9e88a].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\model.fbx] using [RGO] with [Static RGO | PC, XBO, XBS, PS5]...
+Burn preview indicated no outputs.
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\model.fbx] using [RRGeometry] with [Static RR Geometry | PC, XBO, XBS, PS5]...
+Merging meshes for [<non-shared resource>]
+Burnt [1] outputs in [00:00:00.1156260] for [eaf26d76cd261ce510ab0d5ce42b1b981bc6f9e1].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\model.material] using [RR Material Burner] with [Static Material | PC, XBO, XBS, PS5]...
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Burnt [1] outputs in [00:00:00.1001059] for [4da3f35a0687a0e1b341afc10a81e8862a6d8c65].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher3/albedo.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.5977088] for [66411d257324a6698e56d89c440118a6885d7ecf].
+Warning: File was already in archive, skipping art\scenario\garrison\cc076\skirmisher3\albedo.rrtex
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher3/normal.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.6509144] for [ce485f2fb9590b81064f536dc29f4430ebc87dec].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher3/metalness.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.5992318] for [8684f715fe827b29caea9aa5136a7f43cef71bfc].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher3/pattern.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.4906965] for [2064b099f17feec961b5a59bf70ab80115d446b7].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\model.rgo] using [RGO] with [Static RGO | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.0973599] for [eb2f84cb2fa86ffcbe45a3710ea0286ce0d3978f].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\normal.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.5755770] for [3613efce572085f2cb93d7b005e688531e704ea8].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\pattern.png] using [RRTextureBurner] with [Vietnam RGB Owner Masks | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.3764516] for [b008558054d06b7a874332b1d50219c1f993e463].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher3\roughness.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.5696729] for [f383e8489cf94942779f1196be9b5716e5290a69].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\albedo.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.6163348] for [7cb88adcb521ddc68f2b1d8301c9cab4afb95e81].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\metalness.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.4069636] for [ca2e51c660d2d8d9be098987694b910776a4716b].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\model.fbx] using [RGM] with [RGM Static | PC, XBO, XBS, PS5]...
+Merging meshes for [<non-shared resource>]
+Burnt [1] outputs in [00:00:00.1637570] for [fac1d4e2b1aeb1ba0a459424dedf50ce52c5294e].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\model.fbx] using [RGO] with [Static RGO | PC, XBO, XBS, PS5]...
+Burn preview indicated no outputs.
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\model.fbx] using [RRGeometry] with [Static RR Geometry | PC, XBO, XBS, PS5]...
+Merging meshes for [<non-shared resource>]
+Burnt [1] outputs in [00:00:00.1120439] for [c7e56cae5b2df3c45fba4a1e30c98d96665afaac].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\model.material] using [RR Material Burner] with [Static Material | PC, XBO, XBS, PS5]...
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTexture)
+Found texture in .material with the name 'albedoTexture', we will use this texture for the burn. We will copy this texture using the Copy source function.
+Attempting to find a texture in the .material with the same name as the texture entry (albedoTextureGen7)
+Didn't find texture in .material with the name 'albedoTextureGen7'
+Attempting to find a texture in the .material with the same name as the texture entry (skinTintLUT)
+Didn't find texture in .material with the name 'skinTintLUT'
+Attempting to find a texture in the .material with the same name as the texture entry (hairTintLUT)
+Didn't find texture in .material with the name 'hairTintLUT'
+Burnt [1] outputs in [00:00:00.1056116] for [6167a25129ba4bc7e791eb4b991e6aed65dac534].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher4/albedo.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.5769163] for [9fb41cab37ee672a2ea983309175b90b47646d55].
+Warning: File was already in archive, skipping art\scenario\garrison\cc076\skirmisher4\albedo.rrtex
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher4/normal.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.6456813] for [f8e7609bddd957e223e48e0dda19e12996debf32].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher4/metalness.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.6040583] for [266857c57825b1166760b00864f7acd8eadccaa5].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art/scenario/garrison/cc076/skirmisher4/pattern.png] using [RR Texture Generator]...
+Burnt [1] outputs in [00:00:00.4882723] for [77c8739e3bccb2af1d328c90ef8b15300463e598].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\model.rgo] using [RGO] with [Static RGO | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.0977181] for [1d03ba45c76bbbeac7cddce8af0b684e6c100404].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\normal.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.5965269] for [a7580643376a37985494fa8dbc293906dc2b44fa].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\pattern.png] using [RRTextureBurner] with [Vietnam RGB Owner Masks | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.3966025] for [ac0ece61931960a1003bb8f1e7b2a75bbdf44508].
+Burning [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\sk2\source\art\scenario\garrison\cc076\skirmisher4\roughness.png] using [RRTextureBurner] with [Static Textures | PC, XBO, XBS, PS5]...
+Burnt [1] outputs in [00:00:00.5869824] for [92f5f63165727faaac8c7356c48ffc11306b6037].
+Package [Archive] created in [00:00:18.2040330] containing [39] burnt and [0] cached outputs.
+EssenceEditor.exe Information: 0 : [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-burn\intermediate\archives\garrison_static.sga] copied to [F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\vietnam\unit-burn\output\extension\garrison_static\garrison_static.sga].

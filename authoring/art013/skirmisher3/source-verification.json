@@ -1,0 +1,13 @@
+{
+  "bones": 48,
+  "triangles": [
+    4544,
+    2362,
+    1225
+  ],
+  "material_slots": [
+    "lod1",
+    "lod2",
+    "lod3"
+  ]
+}

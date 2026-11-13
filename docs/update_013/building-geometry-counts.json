@@ -1,0 +1,266 @@
+{
+  "community_040_details\\buildings\\detail_archery_range_age02\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 524
+  },
+  "community_040_details\\buildings\\detail_archery_range_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 524
+  },
+  "community_040_details\\buildings\\detail_archery_range_age04\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 524
+  },
+  "community_040_details\\buildings\\detail_blacksmith_age02\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 548
+  },
+  "community_040_details\\buildings\\detail_blacksmith_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 548
+  },
+  "community_040_details\\buildings\\detail_blacksmith_age04\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 548
+  },
+  "community_040_details\\buildings\\detail_market_age02\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 548
+  },
+  "community_040_details\\buildings\\detail_market_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 548
+  },
+  "community_040_details\\buildings\\detail_market_age04\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 548
+  },
+  "community_040_details\\buildings\\detail_stable_age02\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 464
+  },
+  "community_040_details\\buildings\\detail_stable_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 464
+  },
+  "community_040_details\\buildings\\detail_stable_age04\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 464
+  },
+  "scenario\\cccastle\\imperial_citadel\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 67282
+  },
+  "scenario\\cccastle\\keep_age03\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 118361
+  },
+  "scenario\\cccastle\\keep_detail_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 452
+  },
+  "scenario\\cccastle\\monastery_age03\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 41306
+  },
+  "scenario\\cccastle\\monastery_age04\\model.rrgeom": {
+    "groups": 4,
+    "total_triangles_all_groups": 48116
+  },
+  "scenario\\cccastle\\monastery_detail_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 684
+  },
+  "scenario\\cccastle\\monastery_detail_age04\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 684
+  },
+  "scenario\\cccastle\\resistance_hq\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 22566
+  },
+  "scenario\\cccastle\\siege_workshop_age03\\model.rrgeom": {
+    "groups": 6,
+    "total_triangles_all_groups": 42546
+  },
+  "scenario\\cccastle\\siege_workshop_age04\\model.rrgeom": {
+    "groups": 5,
+    "total_triangles_all_groups": 55836
+  },
+  "scenario\\cccastle\\siege_workshop_detail_age03\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 584
+  },
+  "scenario\\cccastle\\siege_workshop_detail_age04\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 596
+  },
+  "scenario\\cc070\\foundry\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 21024
+  },
+  "scenario\\cc070\\garden\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 56942
+  },
+  "scenario\\cc070\\university\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 5700
+  },
+  "scenario\\cc070\\wonder\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 56076
+  },
+  "scenario\\cc050\\imperial_citadel_campaign\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 67282
+  },
+  "scenario\\cc040\\archery_range_age02\\model.rrgeom": {
+    "groups": 4,
+    "total_triangles_all_groups": 42418
+  },
+  "scenario\\cc040\\archery_range_age03\\model.rrgeom": {
+    "groups": 4,
+    "total_triangles_all_groups": 42324
+  },
+  "scenario\\cc040\\archery_range_age04\\model.rrgeom": {
+    "groups": 8,
+    "total_triangles_all_groups": 68322
+  },
+  "scenario\\cc040\\blacksmith_age02\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 24885
+  },
+  "scenario\\cc040\\blacksmith_age03\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 24427
+  },
+  "scenario\\cc040\\blacksmith_age04\\model.rrgeom": {
+    "groups": 4,
+    "total_triangles_all_groups": 35888
+  },
+  "scenario\\cc040\\market_age02\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 26553
+  },
+  "scenario\\cc040\\market_age03\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 26157
+  },
+  "scenario\\cc040\\market_age04\\model.rrgeom": {
+    "groups": 4,
+    "total_triangles_all_groups": 26938
+  },
+  "scenario\\cc040\\one_pillar\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 17520
+  },
+  "scenario\\cc040\\pho_minh\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 12096
+  },
+  "scenario\\cc040\\stable_age02\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 28767
+  },
+  "scenario\\cc040\\stable_age03\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 28911
+  },
+  "scenario\\cc040\\stable_age04\\model.rrgeom": {
+    "groups": 4,
+    "total_triangles_all_groups": 48276
+  },
+  "scenario\\cc030\\one_pillar\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 9200
+  },
+  "scenario\\cc030\\pho_minh\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 10016
+  },
+  "scenario\\cc020\\barracks_age01\\model.rrgeom": {
+    "groups": 6,
+    "total_triangles_all_groups": 42550
+  },
+  "scenario\\cc020\\barracks_age02\\model.rrgeom": {
+    "groups": 7,
+    "total_triangles_all_groups": 61161
+  },
+  "scenario\\cc020\\barracks_age03\\model.rrgeom": {
+    "groups": 7,
+    "total_triangles_all_groups": 61027
+  },
+  "scenario\\cc020\\barracks_age04\\model.rrgeom": {
+    "groups": 7,
+    "total_triangles_all_groups": 72877
+  },
+  "scenario\\cc020\\economy_ministry\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 50640
+  },
+  "scenario\\cc020\\farm_paddy_edge\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 128
+  },
+  "scenario\\cc020\\hideout_default\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 19046
+  },
+  "scenario\\cc020\\hideout_shelter_default\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 644
+  },
+  "scenario\\cc020\\hideout_shelter_stone\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 692
+  },
+  "scenario\\cc020\\hideout_stone\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 33138
+  },
+  "scenario\\cc020\\town_center_age01\\model.rrgeom": {
+    "groups": 11,
+    "total_triangles_all_groups": 58977
+  },
+  "scenario\\cc020\\town_center_age02\\model.rrgeom": {
+    "groups": 14,
+    "total_triangles_all_groups": 68339
+  },
+  "scenario\\cc020\\town_center_age03\\model.rrgeom": {
+    "groups": 14,
+    "total_triangles_all_groups": 69269
+  },
+  "scenario\\cc020\\town_center_age04\\model.rrgeom": {
+    "groups": 12,
+    "total_triangles_all_groups": 90473
+  },
+  "scenario\\cc010\\h1\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 10471
+  },
+  "scenario\\cc010\\h2\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 12066
+  },
+  "scenario\\cc010\\h3\\model.rrgeom": {
+    "groups": 2,
+    "total_triangles_all_groups": 12104
+  },
+  "scenario\\cc010\\h4\\model.rrgeom": {
+    "groups": 3,
+    "total_triangles_all_groups": 25200
+  },
+  "scenario\\cc010\\t1\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 1474
+  },
+  "scenario\\cc010\\t2\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 1474
+  },
+  "scenario\\cc010\\tp\\model.rrgeom": {
+    "groups": 1,
+    "total_triangles_all_groups": 84
+  }
+}

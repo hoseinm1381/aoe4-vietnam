@@ -1,11 +1,9 @@
 # Vietnamese — independent Garrison civilization
 
-Current local candidate: **0.1.2**, in `release/Vietnamese-Garrison-0.1.2.zip`.
-Native in-game acceptance is pending. The owner authorized the 2026-10-31
-02:15 AM source-only GitHub upload. This repository contains complete developer
-inputs; the current player ZIP remains local while acceptance is pending.
-No new GitHub Release, tag or installation is included. See
-[source publication scope](docs/SOURCE_PUBLICATION.md).
+Current release **0.1.4**. Gives eight landmarks distinct palettes and separate player-color masks on architectural trim.
+Fresh-match verification is pending.
+
+[Download the playable ZIP](https://github.com/hoseinm1381/aoe4-vietnam/releases/tag/v0.1.4) · [Build notes](docs/UPDATE_014.md).
 
 0.1.2 populates native Unique Units/Technologies, explains the actual civilization
 mechanics, corrects research ages and spaces tech-tree icons at the native pitch.

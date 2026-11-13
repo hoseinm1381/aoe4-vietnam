@@ -33,7 +33,7 @@ def build(out,prepare_only=False,replace_current=False):
         if not replace_current:raise ValueError('Use --replace-current to replace the verified local player ZIP after the new build passes')
         previous=read_json(ROOT/'docs/BUILD_VERIFICATION.json')
         old=release/previous['zip_name']
-        if previous.get('owner')!=config['owner'] or list(release.iterdir())!=[old] or digest(old)!=previous['zip_sha256']:raise ValueError('Unknown or changed release files are protected')
+        if previous.get('owner')!=config['owner'] or not old.is_file() or digest(old)!=previous['zip_sha256']:raise ValueError('Unknown or changed release files are protected')
     if out.exists() and replace_current and not prepare_only:safe_output_cleanup(out,config['owner'])
     if out.exists():raise ValueError('Build folder already exists; preserve previous evidence: '+str(out))
     out.mkdir(parents=True)
@@ -105,12 +105,13 @@ def build(out,prepare_only=False,replace_current=False):
     declaration=read_json(readback/'garrison/civilizations.json')
     for row in [declaration['attribute_root']]+declaration['races']+declaration['scripts']:
         if digest(readback/row['member'])!=row['sha256']:raise ValueError('Declaration digest differs')
-    policy=read_json(ROOT/'source/update-012-policy.json')
-    baseline=json.loads(gzip.decompress((ROOT/'docs/update_012/baseline-members.json.gz').read_bytes()))['members']
+    revision=config['version'].replace('.','')
+    policy=read_json(ROOT/f'source/update-{revision}-policy.json')
+    baseline=json.loads(gzip.decompress((ROOT/f'docs/update_{revision}/baseline-members.json.gz').read_bytes()))['members']
     changed=sorted(m for m in baseline if m in report['members'] and baseline[m]!=report['members'][m])
     added=sorted(set(report['members'])-set(baseline));removed=sorted(set(baseline)-set(report['members']))
     if set(removed)!=set(policy['allowed_removed']) or set(changed)-set(policy['allowed_changed']) or set(added)!=set(policy['allowed_added']):
-        raise ValueError('Update escaped its explicit 0.1.2 UI/audio allowlist: '+str((changed,added,removed)))
+        raise ValueError('Update escaped its explicit versioned archive allowlist: '+str((changed,added,removed)))
     card=read_json(ROOT/'source/client-card.json')
     details={'id':config['race'],'name':config['name'],'version':config['version'],
       'summary':config['name']+' independent civilization.',
@@ -120,6 +121,7 @@ def build(out,prepare_only=False,replace_current=False):
       'changelog':'Local standalone candidate from accepted combined 1.1.0. Independent native dropdown, preserved gameplay/art/audio and editable whole-file source.'}
     details.update(card)
     details['changelog']='0.1.2: populated unique units and technologies, detailed bonuses, correct research ages, spaced tech trees, plural civilization labels and selector flags. Berber music/voice compression from retained masters. World gameplay, identities and loading/art quality preserved.'
+    if revision=='014':details.update(updated='2026-11-13',changelog='Eight distinct landmark palettes with separate native player-color masks on architectural trim.')
     delivery=out/'delivery';delivery.mkdir();package=delivery/(config['name']+'-Garrison-'+config['version']+'.zip')
     mod_bundle.write_package(delivery/'package',package,bundle_key=config['bundle_key'],details=details,
       archives=[(config['race'],'civilization',archive)],start_here=(ROOT/'START-HERE.md').read_text(encoding='utf-8'),cover=ROOT/'source/presentation/cover.png')
@@ -149,7 +151,7 @@ def build(out,prepare_only=False,replace_current=False):
       'preserved_native_media_members':sum(1 for m in native if m.startswith(('art/','audio/'))),
       'native_game_test':'pending','multiplayer_save_ai_performance':'not qualified',
       'publication':'not performed','changed_members':changed,'added_members':added,
-      'preserved_baseline_members':len(baseline)-len(changed),'native_codex_retest':'pending','removed_members':removed,'assembly_path':str(assembly),'baseline_zip_bytes':previous['zip_bytes'] if previous else None,'audio_full_decode_verified':bool(config['race']=='berbers'),'world_art_changed':False,'native_input_manifest_sha256':digest(ROOT/'inputs/native-manifest.json'),'editable_master_index_sha256':digest(ROOT/'source/master-index.json')}
+      'preserved_baseline_members':len(baseline)-len(changed),'native_codex_retest':'pending','removed_members':removed,'assembly_path':str(assembly),'baseline_zip_bytes':previous['zip_bytes'] if previous else None,'audio_full_decode_verified':bool(config['race']=='berbers'),'world_art_changed':revision in ('013','014'),'native_input_manifest_sha256':digest(ROOT/'inputs/native-manifest.json'),'editable_master_index_sha256':digest(ROOT/'source/master-index.json')}
     write_json(out/'verification.json',receipt)
     release.mkdir(exist_ok=True)
     staged=release/'.verified-new.zip'
@@ -157,7 +159,7 @@ def build(out,prepare_only=False,replace_current=False):
     shutil.copyfile(package,staged)
     if digest(staged)!=receipt['zip_sha256']:raise ValueError('Player ZIP copy differs')
     os.replace(staged,release/package.name)
-    if previous and previous['zip_name']!=package.name:
+    if previous and previous['zip_name']!=package.name and not config.get('preserve_previous_release',False):
         old=release/previous['zip_name']
         if digest(old)!=previous['zip_sha256']:raise ValueError('Old local ZIP changed during build')
         old.unlink()
